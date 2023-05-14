@@ -1,0 +1,271 @@
+*CHI:	vmeste dumaem.
+%mor:	ADV|vmeste V|dumat'&IMPF:INTRANS-PRES:1P 
+%sit:	na pol upala jagoda, Katja s babushkoj sklonili golovy, kosnulis' drug 
+	druga.
+*CHI:	ne umeesh'@errv-, eshche malen'kaja.
+%mor:	PTL|ne V|umet'&IMPF:INTRANS-PRES:2S_umeesh'@errv- ADV|eshche  ADJ|malen'kij&-SG:FEM:NOM 
+%sit:	pytaetsja zastegnut' shtanishki.
+*CHI:	vmeste davaj.
+%mor:	ADV|vmeste PTL|davaj  
+%sit:	babushka pomogaet Kate.
+*CHI:	vo, tut.
+%mor:	PTL|vo ADV|tut 
+%sit:	sidit na kuxne za stolom, pokazyvaet na okno.
+*BAB:	chto tut?
+%mra:	PRO|chto&-SG:NOM ADV|tut 
+*CHI:	ja tozhe byla na ulice.
+%mor:	PRO|ja&-SG:NOM CONJ|tozhe V|byt'&IMPF:INTRANS-PAST:SG:FEM PREP|na N|ulica&INANI:FEM-SG:LOC 
+%sit:	babushka voshla v dom s ulicy, otkuda gljadela na Katju v okno.
+*CHI:	vmeste 0so slivoj vodichku nalit'.
+%mor:	ADV|vmeste PREP|so_0so N|sliva&INANI:FEM-SG:INSTR N|vodichka&INANI:FEM-SG:ACC V|nalit'&PFV:TRANS-INF 
+%sit:	babushka kladet Kate v chashku chernosliv. 
+*CHI:	baba die@errart@deut Kaffee@deut austrinken@errv@deut.
+%mor:	N|baba&ANI:FEM-SG:NOM ART|der&DEF-ACC_die@errart@deut N|Kaffee&INANI:MASC-SG:ACC_kaffee@deut V|austrinken&IMPF:TRANS-INF_austrinken@errv@deut 
+%sit:	sidit s babushkoj za zavtrakom, babushka p'et kofe.
+*CHI:	oj, Kosha est i oblizaetsja@errv-inno-.
+%mor:	INTERJ|oj N|kosha&INANI:MASC-SG:GEN V|est'&IMPF:TRANS-PRES:3S CONJ|i V|oblizyvat'sja&IMPF:INTRANS-PRES:3S_oblizaetsja@errv-inno- 
+%sit:	smotrit, kak est kot.
+*CHI:	bylo bol'no, teper' ne bol'no, pomylas'.
+%mor:	V|byt'&IMPF:INTRANS-PAST:SG:NEUT PRED|bol'no ADV|teper' PTL|ne PRED|bol'no V|pomyt'sja&PFV:INTRANS-PAST:SG:FEM 
+%sit:	poranila palec, spustja kakoe-to vremja pered edoj myla ruki.
+*CHI:	[baba], ne guljaj.
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] PTL|ne V|guljat'&IMPF:INTRANS-IMP:SG 
+*BAB:	a chto delat' nado?
+%mra:	CONJ|a PRO|chto&-SG:ACC V|delat'&IMPF:TRANS-INF PRED|nado 
+*CHI:	malinu.
+%mor:	N|malina&INANI:FEM-SG:ACC 
+%sit:	razgovor proisxodit vecherom, dnem babushka govorila, chto mnogo del, nado delat' malinu.
+*CHI:	budet Katja bol'shaja, shokolad est'.
+%mor:	V|byt'&IMPF:INTRANS-PRES:3S N|katja&ANI:FEM-SG:NOM ADJ|bol'shoj&-SG:FEM:NOM N|shokolad&INANI:MASC-SG:ACC V|est'&IMPF:TRANS-INF 
+%sit:	Katja smotrit, kak babushka est konfetu.
+*CHI:	Katja poprobovat' budet.
+%mor:	N|katja&ANI:FEM-SG:NOM V|poprobovat'&PFV:TRANS-INF V|byt'&IMPF:INTRANS-PRES:3S 
+%sit:	xochet potrogat' mokruju kepku.
+*CHI:	xochesh' dat' vot e~to.
+%mor:	V|xotet'&IMPF:INTRANS-PRES:2S V|dat'&PFV:TRANS-INF PTL|vot PRO|e~tot&-SG:NEUT:ACC 
+%sit:	pokazyvaet na sekator.
+*CHI:	my s toboj promokli.
+%mor:	PRO|my&-PL:NOM PREP|s PRO|ty&-SG:INSTR V|promoknut'&PFV:INTRANS-PAST:PL 
+*BAB:	kogda?
+%mra:	ADV|kogda 
+*CHI:	na dache, tam byl dozhd'.
+%mor:	PREP|na N|dacha&INANI:FEM-SG:LOC ADV|tam V|byt'&IMPF:INTRANS-PAST:SG:MASC N|dozhd'&INANI:MASC-SG:NOM 
+%sit:	razgovor proisxodit v gorode, Katja gljadit v okno.
+*CHI:	ne xolodno, teper' ne xolodno.
+%mor:	PTL|ne PRED|xolodno ADV|teper' PTL|ne PRED|xolodno 
+%sit:	xodit po komnate v pizhame, bosikom, odna shtanina spustilas' do samogo pola.
+*CHI:	ja poluchila kashu gorjachuju.
+%mor:	PRO|ja&-SG:NOM V|poluchit'&PFV:TRANS-PAST:SG:FEM N|kasha&INANI:FEM-SG:ACC ADJ|gorjachij&-SG:FEM:ACC 
+%sit:	sidit za stolom, za zavtrakom.
+*CHI:	[baba], ne uberi@errv-.
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] PTL|ne V|ubrat'&PFV:TRANS-IMP:SG_uberi@errv- 
+%sit:	babushka ubiraet vazochku s pechen'em.
+*CHI:	chego-to valitsja ogurchik.
+%mor:	ADV|chego_chego-to V|valit'sja&IMPF:INTRANS-PRES:3S N|ogurchik&INANI:MASC-SG:NOM 
+%sit:	pytaetsja postavit' ogurchik v misku.
+*CHI:	ne upadi morkovka.
+%mor:	PTL|ne V|upast'&PFV:INTRANS-IMP:SG N|morkovka&INANI:FEM-SG:NOM 
+%sit:	tuda zhe stavit morkovku.
+*CHI:	ostatki, s''em ostatki.
+%mor:	N|ostatok&INANI:MASC-PL:NOM V|s''est'&PFV:TRANS-FUT:1S N|ostatok&INANI:MASC-PL:ACC 
+%sit:	pokazyvaet na ostavshujusja v tarelke edu.
+*CHI:	sama uputajus'@errv-inno-.
+%mor:	PRO|sam&-SG:FEM:NOM V|ukutat'sja&PFV:INTRANS-FUT:1S_uputajus'@errv-inno- 
+%sit:	zabiraetsja pod odejalo.
+*CHI:	obez'janka ne polezet.
+%mor:	N|obez'janka&ANI:FEM-SG:NOM PTL|ne V|polezt'&PFV:INTRANS-FUT:3S 
+%sit:	igraet s obez'jankoj.
+*CHI:	[baba], e~tu lozhku uberi, ona bol'shaja.
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] PRO|e~tot&-SG:FEM:ACC N|lozhka&INANI:FEM-SG:ACC V|ubrat'&PFV:TRANS-IMP:SG PRO|on&-SG:FEM:NOM ADJ|bol'shoj&-SG:FEM:NOM 
+%sit:	pokazyvaet na stolovuju lozhku.
+*CHI:	tam grenochek u menja.
+%mor:	ADV|tam N|grenochek&INANI:MASC-SG:NOM PREP|u PRO|ja&-SG:GEN 
+%sit:	razgovor za zavtrakom.
+*CHI:	[baba], ja ickaju@inno-v-.
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] PRO|ja&-SG:NOM V|iskat'&IMPF:TRANS-PRES:1S_ickaju@inno-v- 
+%sit:	sobiraet s babushkoj puzzle.
+*CHI:	[baba], tozhe xochesh' igrat'?
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] CONJ|tozhe V|xotet'&IMPF:INTRANS-PRES:2S V|igrat'&IMPF:TRANS-INF 
+%sit:	prodolzhenie razgovora.
+*CHI:	ne nado e~to delat'.
+%mor:	PTL|ne PRED|nado PRO|e~tot&-SG:NEUT:ACC V|delat'&IMPF:TRANS-INF 
+%sit:	babushka nakidyvaet na Katju odejalo.
+*CHI:	ne budet kapat'.
+%mor:	PTL|ne V|byt'&IMPF:INTRANS-PRES:3S V|kapat'&IMPF:INTRANS-INF 
+%sit:	za obedom, est vtoroe, kogda ela sup, babushka povjazala ej salfetku.
+*CHI:	budet kapat', snova odenem.
+%mor:	V|byt'&IMPF:INTRANS-PRES:3S V|kapat'&IMPF:INTRANS-INF ADV|snova V|odet'&PFV:TRANS-FUT:1P 
+%sit:	prodolzhenie razgovora.
+*CHI:	ja ostatki ne s''em.
+%mor:	PRO|ja&-SG:NOM N|ostatok&INANI:MASC-PL:ACC PTL|ne V|s''est'&PFV:TRANS-FUT:1S 
+%sit:	perebiraet ostatki cherniki.
+*CHI:	po-moemu, ja ne upadu, konechno.
+%mor:	PTV|po-moemu PRO|ja&-SG:NOM PTL|ne V|upast'&PFV:INTRANS-FUT:1S PTL|konechno 
+%sit:	vstaet na taburetku, chtoby umyt'sja.
+*CHI:	Katja pereshagnula i poshla.
+%mor:	N|katja&ANI:FEM-SG:NOM V|pereshagnut'&PFV:TRANS-PAST:SG:FEM CONJ|i V|pojti&PFV:INTRANS-PAST:SG:FEM 
+%sit:	idet s babushkoj po lesu.
+*CHI:	e~to 0s soboj i budesh' tam otkryvat'.
+%mor:	PRO|e~tot&-SG:NEUT:ACC PREP|s_0s PRO|sebja&-SG:INSTR CONJ|i V|byt'&IMPF:INTRANS-PRES:2S ADV|tam V|otkryvat'&IMPF:TRANS-INF 
+%sit:	beret paket s salfetkami.
+*CHI:	gde moja shchetka?
+%mor:	ADV|gde PRO|moj&-SG:FEM:NOM N|shchetka&INANI:FEM-SG:NOM 
+%sit:	stoit okolo rakoviny, u taburetki.
+*BAB:	vot tam naverxu.
+%mra:	PTL|vot ADV|tam ADV|naverxu 
+*CHI:	ja umeju zalezat'.
+%mor:	PRO|ja&-SG:NOM V|umet'&IMPF:INTRANS-PRES:1S V|zalezat'&IMPF:INTRANS-INF 
+%pho:	zalezt'.
+%sit:	pokazyvaet na taburetku.
+*CHI:	ja bezhu@errv-inno-, bezhu@errv-inno-, bezhu@errv-inno-.
+%mor:	PRO|ja&-SG:NOM V|bezhat'&IMPF:INTRANS-PRES:1S_bezhu@errv-inno- V|bezhat'&IMPF:INTRANS-PRES:1S_bezhu@errv-inno- V|bezhat'&IMPF:INTRANS-PRES:1S_bezhu@errv-inno- 
+*CHI:	[baba], derzhi, inache upadet.
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] V|derzhat'&IMPF:TRANS-IMP:SG CONJ|inache V|upast'&PFV:INTRANS-FUT:3S 
+*BAB:	kto?
+%mra:	PRO|kto&-SG:NOM 
+*CHI:	stul.
+%mor:	N|stul&INANI:MASC-SG:NOM 
+%sit:	Katja vorochaetsja na stule.
+*CHI:	Katja ne risovala.
+%mor:	N|katja&ANI:FEM-SG:NOM PTL|ne V|risovat'&IMPF:TRANS-PAST:SG:FEM 
+*CHI:	budet ne risovat'.
+%mor:	V|byt'&IMPF:INTRANS-PRES:3S PTL|ne V|risovat'&IMPF:TRANS-INF 
+%sit:	sidit za stolom pered listom bumagi.
+*CHI:	[baba], ty xochesh' tozhe grenochek?
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] PRO|ty&-SG:NOM V|xotet'&IMPF:INTRANS-PRES:2S CONJ|tozhe N|grenochek&INANI:MASC-SG:ACC 
+%sit:	razgovor za zavtrakom.
+*CHI:	ja ponesu do ugla.
+%mor:	PRO|ja&-SG:NOM V|ponesti&PFV:TRANS-FUT:1S PREP|do N|ugol&INANI:MASC-SG:GEN 
+%sit:	idet s babushkoj s ozera, neset meshok s igrushkami.
+*CHI:	[baba], blizko ne podxodi, pozhalujsta.
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] ADV|blizko PTL|ne V|podxodit'&IMPF:INTRANS-IMP:SG INTERJ|pozhalujsta 
+%sit:	Katja kuvyrkaetsja v svoej krovatke.
+*CHI:	oni budut smotret'.
+%mor:	PRO|on&-PL:NOM V|byt'&IMPF:INTRANS-PRES:3P V|smotret'&IMPF:TRANS-INF 
+*CHI:	oni budut ne smotret'.
+%mor:	PRO|on&-PL:NOM V|byt'&IMPF:INTRANS-PRES:3P PTL|ne V|smotret'&IMPF:TRANS-INF 
+*BAB:	sjad', obed sejchas.
+%mra:	V|sest'&PFV:INTRANS-IMP:SG N|obed&INANI:MASC-SG:NOM ADV|sejchas 
+*CHI:	ne obed, ne sejchas.
+%mor:	PTL|ne N|obed&INANI:MASC-SG:NOM PTL|ne ADV|sejchas 
+%sit:	razgovor pered obedom.
+*CHI:	[baba], skorej naden' nosok.
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] ADJ|skoryj&-COMPAR V|nadet'&PFV:TRANS-IMP:SG N|nosok&INANI:MASC-SG:ACC 
+%sit:	noch'ju s nogi svalilsja nosok, kotoryj s vechera byl nadet posle bani, govorit sproson'ja.
+*CHI:	vnachale griby rastut.
+%mor:	ADV|vnachale N|grib&INANI:MASC-PL:NOM V|rasti&IMPF:TRANS-PRES:3P 
+*CHI:	vnachale griby varjat.
+%mor:	ADV|vnachale N|grib&INANI:MASC-PL:ACC V|varit'&IMPF:TRANS-PRES:3P 
+%sit:	idet s babushkoj po lesu, razgovarivaet sama s soboj.
+*CHI:	poglad', pozhalujsta, nogu, vot tut, szadi.
+%mor:	V|pogladit'&PFV:TRANS-IMP:SG INTERJ|pozhalujsta N|noga&INANI:FEM-SG:ACC PTL|vot ADV|tut ADV|szadi 
+%sit:	v lesu ukololas' ob elku.
+*CHI:	otdoxnula i poshla dal'she.
+%mor:	V|otdoxnut'&PFV:INTRANS-PAST:SG:FEM CONJ|i V|pojti&PFV:INTRANS-PAST:SG:FEM ADV|dal'she 
+%sit:	posidela v parke na skamejke.
+*CHI:	Katju narisovala takuju xoroshuju.
+%mor:	N|katja&ANI:FEM-SG:ACC V|narisovat'&PFV:TRANS-PAST:SG:FEM PRO|takoj&-SG:FEM:ACC ADJ|xoroshij&-SG:FEM:ACC 
+%sit:	babushka narisovala na peske rozhicu.
+*CHI:	nicht@deut  kaputtmachen@deut.
+%mor:	PTL|nicht_nicht@deut V|kaputtmachen&IMPF:TRANS-INF_kaputtmachen@deut 
+%sit:	igraet na beregu ozera s peskom.
+*CHI:	okunula i nashlas'.
+%mor:	V|okunut'&PFV:TRANS-PAST:SG:FEM CONJ|i V|najtis'&PFV:INTRANS-PAST:SG:FEM 
+%sit:	smotrit na ozero, tam devochka nyrnula i vynyrnula.
+*CHI:	[baba], idi sjuda, kachaj Katju.
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] V|idti&IMPF:INTRANS-IMP:SG ADV|sjuda V|kachat'&IMPF:TRANS-IMP:SG N|katja&ANI:FEM-SG:ACC 
+%sit:	na ploshchadke, zovet babushku.
+*CHI:	uzhe vse, vse uzhe.
+%mor:	ADV|uzhe PRO|ves'&-SG:NEUT:NOM PRO|ves'&-SG:NEUT:NOM ADV|uzhe 
+%sit:	ne xochet bol'she kachat'sja.
+*CHI:	ne mogu idti, ustala.
+%mor:	PTL|ne V|moch'&IMPF:INTRANS-PRES:1S V|idti&IMPF:INTRANS-INF V|ustat'&PFV:INTRANS-PAST:SG:FEM 
+%sit:	idet s babushkoj po ulice.
+*CHI:	uuu, kto-to zabolel.
+%mor:	ONOM|uuu PRO|kto&-SG:NOM_kto-to V|zabolet'&PFV:INTRANS-PAST:SG:MASC 
+%sit:	edet mashina s sirenoj.
+*CHI:	mama prishla.
+%mor:	N|mama&ANI:FEM-SG:NOM V|prijti&PFV:INTRANS-PAST:SG:FEM 
+*BAB:	ne znaju ja.
+%mra:	PTL|ne V|znat'&IMPF:TRANS-PRES:1S PRO|ja&-SG:NOM 
+*CHI:	ja tozhe ne znaju.
+%mor:	PRO|ja&-SG:NOM CONJ|tozhe PTL|ne V|znat'&IMPF:TRANS-PRES:1S 
+%sit:	igraet s babushkoj v komnate, v prixozhej slyshen shum.
+*CHI:	bylo bol'no, proshlo.
+%mor:	V|byt'&IMPF:INTRANS-PAST:SG:NEUT PRED|bol'no V|projti&PFV:TRANS-PAST:SG:NEUT 
+%sit:	pokazyvaet na ladoshku.
+*CHI:	na dache upala.
+%mor:	PREP|na N|dacha&INANI:FEM-SG:LOC V|upast'&PFV:INTRANS-PAST:SG:FEM 
+%som:	daet pojasnenie.
+*CHI:	willst@deut du@deut morozhenoe, [baba].
+%mor:	V|wollen&IMPF:INTRANS-PRES:2S_willst@deut PRO|du&-SG:NOM_du@deut N|morozhenoe&INANI:NEUT-SG:ACC N|baba&ANI:FEM-SG:NOM_[baba] 
+%sit:	protjagivaet babushke morozhenoe.
+*CHI:	na stol kapnula.
+%mor:	PREP|na N|stol&INANI:MASC-SG:ACC V|kapnut'&PFV:TRANS-PAST:SG:FEM 
+%sit:	sama est sup.
+*CHI:	est' iz tarelochki.
+%mor:	V|est'&IMPF:TRANS-INF PREP|iz N|tarelochka&INANI:FEM-SG:GEN 
+*CHI:	e~to tarelochka.
+%mor:	PRO|e~tot&-SG:NEUT:NOM N|tarelochka&INANI:FEM-SG:NOM 
+%com:	daet pojasnenie.
+*BAB:	pojdem guljat' ili mamu podozhdem?
+%mra:	V|pojti&PFV:INTRANS-FUT:1P V|guljat'&IMPF:INTRANS-INF CONJ|ili N|mama&ANI:FEM-SG:ACC V|podozhdat'&PFV:TRANS-FUT:1P 
+*CHI:	budem ne guljat'.
+%mor:	V|byt'&IMPF:INTRANS-PRES:1P PTL|ne V|guljat'&IMPF:INTRANS-INF 
+%sit:	sobirajutsja na progulku.
+*CHI:	otkusi, [baba], a teper', daj.
+%mor:	V|otkusit'&PFV:TRANS-IMP:SG N|baba&ANI:FEM-SG:NOM_[baba] CONJ|a ADV|teper' V|dat'&PFV:TRANS-IMP:SG 
+%sit:	protjagivaet babushke ogurec.
+*CHI:	potom eshche grenochek.
+%mor:	ADV|potom ADV|eshche  N|grenochek&INANI:MASC-SG:ACC 
+%sit:	razgovor za zavtrakom, est grenok.
+*CHI:	na, [baba], pit' tebe.
+%mor:	INTERJ|na N|baba&ANI:FEM-SG:NOM_[baba] V|pit'&IMPF:TRANS-INF PRO|ty&-SG:DAT 
+%sit:	protjagivaet babushke butylku.
+*MAM:	gde moi tapki?
+%mra:	ADV|gde PRO|moj&-PL:NOM N|tapka&INANI:FEM-PL:NOM 
+*CHI:	von, mama, 0v komnatu idi, tam tvoi tapki.
+%mor:	ADV|von N|mama&ANI:FEM-SG:NOM PREP|v_0v N|komnata&INANI:FEM-SG:ACC V|idti&IMPF:INTRANS-IMP:SG ADV|tam PRO|tvoj&-PL:NOM N|tapka&INANI:FEM-PL:NOM 
+%sit:	mama xodit po kvartire v poiskax tapok.
+*CHI:	aufmachen@deut chistit' zuby baba.
+%mor:	V|aufmachen&IMPF:TRANS-INF_aufmachen@deut V|chistit'&IMPF:TRANS-INF N|zub&INANI:MASC-PL:ACC N|baba&ANI:FEM-SG:NOM 
+%sit:	smotrit, kak babushka chistit zuby.
+*CHI:	ja malen'kuju tozhe lozhku voz'mu, malen'kuju.
+%mor:	PRO|ja&-SG:NOM ADJ|malen'kij&-SG:FEM:ACC CONJ|tozhe N|lozhka&INANI:FEM-SG:ACC V|vzjat'&PFV:TRANS-FUT:1S ADJ|malen'kij&-SG:FEM:ACC 
+%sit:	sidit za stolom, za zavtrakom.
+*CHI:	kasha gorjachaja, [baba], duj.
+%mor:	N|kasha&INANI:FEM-SG:NOM ADJ|gorjachij&-SG:FEM:NOM N|baba&ANI:FEM-SG:NOM_[baba] V|dut'&IMPF:TRANS-IMP:SG 
+*CHI:	[baba], duj kashku, ona gorjachaja.
+%mor:	N|baba&ANI:FEM-SG:NOM_[baba] V|dut'&IMPF:TRANS-IMP:SG N|kashka&INANI:FEM-SG:ACC PRO|on&-SG:FEM:NOM ADJ|gorjachij&-SG:FEM:NOM 
+%sit:	prodolzhenie razgovora.
+*CHI:	davaj lozhku narisovaem@inno-v-.
+%mor:	PTL|davaj  N|lozhka&INANI:FEM-SG:ACC V|narisovat'&PFV:TRANS-FUT:1P_narisovaem@inno-v- 
+%sit:	sidit s babushkoj za stolom, risuet.
+*CHI:	vot tak veter duet.
+%mor:	PTL|vot ADV|tak N|veter&INANI:MASC-SG:NOM V|dut'&IMPF:TRANS-PRES:3S 
+%sit:	zakryvaet lico rukami.
+*CHI:	vnachale grenochek i potom malina.
+%mor:	ADV|vnachale N|grenochek&INANI:MASC-SG:NOM CONJ|i ADV|potom N|malina&INANI:FEM-SG:NOM 
+%sit:	razgovor za zavtrakom.
+*CHI:	mama vniz poshla, von poshla.
+%mor:	N|mama&ANI:FEM-SG:NOM ADV|vniz V|pojti&PFV:INTRANS-PAST:SG:FEM ADV|von V|pojti&PFV:INTRANS-PAST:SG:FEM 
+%sit:	spuskaetsja s mamoj i babushkoj po lestnice, mama idet vperedi.
+*CHI:	stojat' mozhno.
+%mor:	V|stojat'&IMPF:INTRANS-INF PRED|mozhno 
+%sit:	stoit s mamoj i babushkoj na perrone v metro.
+*CHI:	poezd idet.
+%mor:	N|poezd&INANI:MASC-SG:NOM V|idti&IMPF:INTRANS-PRES:3S 
+%sit:	v metro, poezd vyezzhaet iz tunnelja.
+*CHI:	glazki net otkryla.
+%mor:	N|glazok&INANI:MASC-PL:ACC PTL|net V|otkryt'&PFV:TRANS-PAST:SG:FEM 
+%sit:	v vagone metro.
+*CHI:	suxarik dam@errv-.
+%mor:	N|suxarik&INANI:MASC-SG:ACC V|dat'&PFV:TRANS-FUT:1S_dam@errv- 
+%sit:	prosit suxarik.
+*CHI:	poezd dlinnyj-dlinnyj.
+%mor:	N|poezd&INANI:MASC-SG:NOM ADJ|dlinnyj&-SG:MASC:NOM_dlinnyj-dlinnyj 
+%sit:	smotrit iz okna poezda na proxodjashchij po vstrechnomu puti poezd metro.
+*CHI:	tut ezdili.
+%mor:	ADV|tut V|ezdit'&IMPF:INTRANS-PAST:PL 
+%sit:	smotrit iz okna poezda na parallel'nyj put'.
+@End

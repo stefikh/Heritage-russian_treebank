@@ -1,0 +1,2019 @@
+\par *MAM:\tab tak, Kate dva goda, pjat' mesjacev i dvadcat' dnej.
+\par %mra:\tab PTL|tak N|katja&ANI:FEM-SG:DAT NUM|dva&-NOM N|god&INANI:MASC-SG:GEN NUM|pjat'&-NOM N|mesjac&INANI:MASC-PL:GEN CONJ|i NUM|dvadcat'&-NOM N|den'&INANI:MASC-PL:GEN 
+\par *MAM:\tab chto ty delaesh'?
+\par %mra:\tab PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|delat'&IMPF:TRANS-PRES:2S 
+\par *CHI:\tab igraju v kameshki.
+\par %mor:\tab V|igrat'&IMPF:TRANS-PRES:1S PREP|v N|kameshek&INANI:MASC-PL:ACC 
+\par *MAM:\tab eshche raz?
+\par %mra:\tab ADV|eshche  N|raz&INANI:MASC-SG:ACC  
+\par *CHI:\tab kameshki.
+\par %mor:\tab N|kameshek&INANI:MASC-PL:NOM 
+\par *MAM:\tab kameshkami igraesh', da?
+\par %mra:\tab N|kameshek&INANI:MASC-PL:INSTR V|igrat'&IMPF:TRANS-PRES:2S PTL|da 
+\par *CHX:\tab da.
+\par *MAM:\tab a chto ty s nimi delaesh', s kameshkami?
+\par %mra:\tab PTL|a PRO|chto&-SG:ACC PRO|ty&-SG:NOM PREP|s PRO|on&-PL:INSTR V|delat'&IMPF:TRANS-PRES:2S PREP|s N|kameshek&INANI:MASC-PL:INSTR 
+\par *CHI:\tab sjuda skladyvaju.
+\par %mor:\tab ADV|sjuda V|skladyvat'&IMPF:TRANS-PRES:1S 
+\par }{\fs20\lang2058\langfe1031\langnp2058\insrsid13135152\charrsid13135152 *MAM:\tab kuda sjuda?
+\par %mra:\tab ADV|kuda ADV|sjuda 
+\par *CHI:\tab sjuda.
+\par %mor:\tab ADV|sjuda 
+\par *MAM:\tab a chto e~to?
+\par %mra:\tab PTL|a PRO|chto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM 
+\par *CHI:\tab e~to kameshki.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM N|kameshek&INANI:MASC-PL:NOM 
+\par *MAM:\tab e~to banochka takaja.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM N|banochka&INANI:FEM-SG:NOM PRO|takoj&-SG:FEM:NOM 
+\par *MAM:\tab ty skladyvaesh' banochki, oj, kameshki, v banochku.
+\par %mra:\tab PRO|ty&-SG:NOM V|skladyvat'&IMPF:TRANS-PRES:2S N|banochka&INANI:FEM-PL:ACC INTERJ|oj N|kameshek&INANI:MASC-PL:ACC PREP|v N|banochka&INANI:FEM-SG:ACC 
+\par }{\fs20\lang1033\langfe1031\langnp1033\insrsid13135152\charrsid13135152 %sit:\tab Katja syplet kameshki v banku.
+\par *CHX:\tab xxx.
+\par *MAX:\tab a?
+\par *CHI:\tab brosaju.
+\par %mor:\tab V|brosat'&IMPF:TRANS-PRES:1S 
+\par *MAM:\tab kto?
+\par %mra:\tab PRO|kto&-SG:NOM 
+\par *CHI:\tab ich@deut [3].
+\par %mor:\tab PRO|ich&-SG:NOM_ich@deut 
+\par *MAM:\tab net, nado ne tak prilepit'.
+\par %mra:\tab PTL|net PRED|nado PTL|ne ADV|tak V|prilepit'&PFV:TRANS-INF 
+\par %sit:\tab mama pomogaet Kate.
+\par *MAM:\tab a vot tak, posmotri.
+\par %mra:\tab CONJ|a PTL|vot ADV|tak V|posmotret'&PFV:TRANS-IMP:SG 
+\par *MAM:\tab esli ty vot tak prilepish' sjuda?
+\par %mra:\tab CONJ|esli PRO|ty&-SG:NOM PTL|vot ADV|tak V|prilepit'&PFV:TRANS-FUT:2S ADV|sjuda 
+\par %sit:\tab mama prilepljaet skotch k kryshke banki.
+\par *MAM:\tab vot.
+\par %mra:\tab PTL|vot 
+\par *CHX:\tab da.
+\par *MAM:\tab potom ty mozhesh' vot tak zakryvat'.
+\par %mra:\tab ADV|potom PRO|ty&-SG:NOM V|moch'&IMPF:INTRANS-PRES:2S PTL|vot ADV|tak V|zakryvat'&IMPF:TRANS-INF 
+\par *MAM:\tab vot tak zakryvat', oj, podozhdi.
+\par %mra:\tab PTL|vot ADV|tak V|zakryvat'&IMPF:TRANS-INF INTERJ|oj V|podozhdat'&PFV:TRANS-IMP:SG 
+\par *MAM:\tab nado vot tak.
+\par %mra:\tab PRED|nado PTL|vot ADV|tak 
+\par *MAM:\tab tak zakryli, vidish', prilepili sjuda i tak otkryvat' mozhno kryshku i kryshka budet derzhat'sja.
+\par %mra:\tab ADV|tak V
+|zakryt'&PFV:TRANS-PAST:PL V|videt'&IMPF:TRANS-PRES:2S V|prilepit'&PFV:TRANS-PAST:PL ADV|sjuda CONJ|i ADV|tak V|otkryvat'&IMPF:TRANS-INF PRED|mozhno N|kryshka&INANI:FEM-SG:ACC CONJ|i N|kryshka&INANI:FEM-SG:NOM V|byt'&IMPF:INTRANS-PRES:3S V|derzhat'sja&IMP
+F:INTRANS-INF 
+\par %sit:\tab Katja perekladyvaet kameshki.
+\par *MAM:\tab vsjo ty brosaesh' i brosaesh' kameshki # v banochku.
+\par %mra:\tab ADV|vse PRO|ty&-SG:NOM V|brosat'&IMPF:TRANS-PRES:2S CONJ|i V|brosat'&IMPF:TRANS-PRES:2S N|kameshek&INANI:MASC-PL:ACC PREP|v N|banochka&INANI:FEM-SG:ACC 
+\par *MAM:\tab e~to morskie kameshki, my ix nashli na more.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM ADJ|morskoj&-PL:NOM N|kameshek&INANI:MASC-PL:NOM PRO|my&-PL:NOM PRO|on&-PL:ACC V|najti&PFV:TRANS-PAST:PL PREP|na N|more&INANI:NEUT-SG:LOC 
+\par *CHI:\tab a chego, [mama], a chego nashli na more?
+\par %mor:\tab PTL|a PRO|chto&-SG:GEN N|mama&ANI:FEM-SG:NOM_[mama] PTL|a PRO|chto&-SG:GEN V|najti&PFV:TRANS-PAST:PL PREP|na N|more&INANI:NEUT-SG:LOC 
+\par *MAM:\tab e~ti kameshki na more+/.
+\par %mra:\tab PRO|e~tot&-PL:ACC N|kameshek&INANI:MASC-PL:ACC PREP|na N|more&INANI:NEUT-SG:LOC_more+/ 
+\par *CHI:\tab a chego+/?
+\par %mor:\tab PTL|a PRO|chto&-SG:GEN_chego+/ 
+\par *MAM:\tab kogda ja byla v Italii s papoj, ja xodila po beregu morskomu i sobirala e~ti kameshki.
+\par %mra:\tab ADV|kogda PRO|ja&-SG:NOM V|byt'&IMPF:INTRANS-PAST:SG:FEM PREP|v N|ital
+ija&INANI:FEM-SG:LOC PREP|s N|papa&ANI:MASC-SG:INSTR PRO|ja&-SG:NOM V|xodit'&IMPF:INTRANS-PAST:SG:FEM PREP|po N|bereg&INANI:MASC-SG:DAT ADJ|morskoj&-SG:MASC:DAT CONJ|i V|sobirat'&IMPF:TRANS-PAST:SG:FEM PRO|e~tot&-PL:ACC N|kameshek&INANI:MASC-PL:ACC 
+
+\par *CHI:\tab kak Lars, da, vot podbiraet vot xxx.
+\par %mor:\tab CONJ|kak N|lars&ANI:MASC-SG:NOM PTL|da PTL|vot V|podbirat'&IMPF:TRANS-PRES:3S PTL|vot XXX|xxx  
+\par *MAM:\tab kak kto, glaz?
+\par %mra:\tab CONJ|kak PRO|kto&-SG:NOM N|glaz&INANI:MASC-SG:NOM 
+\par *CHI:\tab net, mishka Lars.
+\par %mor:\tab PTL|net N|mishka&ANI:MASC-SG:NOM N|lars&ANI:MASC-SG:NOM 
+\par *MAM:\tab laz?
+\par %mra:\tab N|laz&INANI:MASC-SG:NOM 
+\par *MAM:\tab a, Lars, medvezhonok Lars+/?
+\par %mra:\tab PTL|a N|lars&ANI:MASC-SG:NOM N|medvezhonok&ANI:MASC-SG:NOM N|lars&ANI:MASC-SG:NOM_lars+/ 
+\par *CHX:\tab da.
+\par *MAM:\tab da, kak medvezhonok Lars.
+\par %mra:\tab PTL|da CONJ|kak N|medvezhonok&ANI:MASC-SG:NOM N|lars&ANI:MASC-SG:NOM 
+\par %sit:\tab Katja idet k grifel'noj doske.
+\par *MAM:\tab chto ty delaesh', Katja, teper', &m?
+\par %mra:\tab PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|delat'&IMPF:TRANS-PRES:2S N|katja&ANI:FEM-SG:NOM ADV|teper' &m  
+\par *MAM:\tab chto ty delaesh'?
+\par %mra:\tab PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|delat'&IMPF:TRANS-PRES:2S 
+\par *CHI:\tab a mozhno mne, [mama], xxx, da.
+\par %mor:\tab CONJ|a PRED|mozhno PRO|ja&-SG:DAT N|mama&ANI:FEM-SG:NOM_[mama] XXX|xxx  PTL|da 
+\par %com:\tab xxx, Katja govorit po-nemecki.
+\par *MAM:\tab u tebja mnogo mesta.
+\par %mra:\tab PREP|u PRO|ty&-SG:GEN ADV|mnogo N|mesto&INANI:NEUT-SG:GEN 
+\par *MAM:\tab chto e~to ty, po-nemecki razgovarivaesh'?
+\par %mra:\tab PRO|chto&-SG:NOM PTL|e~to PRO|ty&-SG:NOM ADV|po-nemecki V|razgovarivat'&IMPF:INTRANS-PRES:2S 
+\par *MAM:\tab ty so mnoj po-russki razgovarivaj.
+\par %mra:\tab PRO|ty&-SG:NOM PREP|so PRO|ja&-SG:INSTR ADV|po-russki V|razgovarivat'&IMPF:INTRANS-IMP:SG 
+\par *CHI:\tab xxx mne mesta, [mama].
+\par %mor:\tab XXX|xxx  PRO|ja&-SG:DAT N|mesto&INANI:NEUT-SG:GEN N|mama&ANI:FEM-SG:NOM_[mama] 
+\par *MAM:\tab von u tebja ochen' mnogo mesta, tut na doske.
+\par %mra:\tab PTL|von PREP|u PRO|ty&-SG:GEN ADV|ochen' ADV|mnogo N|mesto&INANI:NEUT-SG:GEN ADV|tut PREP|na N|doska&INANI:FEM-SG:LOC 
+\par *MAM:\tab Katja risuet melom na doske, da?
+\par %mra:\tab N|katja&ANI:FEM-SG:NOM V|risovat'&IMPF:TRANS-PRES:3S N|mel&INANI:MASC-SG:INSTR PREP|na N|doska&INANI:FEM-SG:LOC PTL|da 
+\par *MAM:\tab tol'ko ja ne ponimaju, chego ty risuesh'?
+\par %mra:\tab CONJ|tol'ko PRO|ja&-SG:NOM PTL|ne V|ponimat'&IMPF:TRANS-PRES:1S PRO|chto&-SG:GEN PRO|ty&-SG:NOM V|risovat'&IMPF:TRANS-PRES:2S 
+\par *CHI:\tab papinu bukvu.
+\par %mor:\tab ADJ|papin&-SG:FEM:ACC N|bukva&INANI:FEM-SG:ACC 
+\par *MAM:\tab papinu bukvu narisovala?
+\par %mra:\tab ADJ|papin&-SG:FEM:ACC N|bukva&INANI:FEM-SG:ACC V|narisovat'&PFV:TRANS-PAST:SG:FEM 
+\par *MAM:\tab takuju bol'shuju.
+\par %mra:\tab PRO|takoj&-SG:FEM:ACC ADJ|bol'shoj&-SG:FEM:ACC 
+\par *CHI:\tab xxx, vot jazyk.
+\par %mor:\tab XXX|xxx  ADV|vot N|jazyk&INANI:MASC-SG:NOM 
+\par *MAM:\tab &mgg, e~to, kto e~to?
+\par %mra:\tab &mgg PRO|e~tot&-SG:NEUT:NOM PRO|kto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM 
+\par *CHI:\tab e~to zmeja.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM N|zmeja&ANI:FEM-SG:NOM 
+\par *MAM:\tab poxozhe, pravil'no.
+\par %mra:\tab ADV|poxozhe ADV|pravil'no  
+\par *CHI:\tab a e~to+/.
+\par %mor:\tab CONJ|a PRO|e~tot&-SG:NEUT:NOM_e~to+/ 
+\par *MAM:\tab xxx poxozhe.
+\par %mra:\tab XXX|xxx  ADV|poxozhe 
+\par *MAM:\tab chego ty, ja ne ponjala, chego ty govorish'?
+\par %mra:\tab PRO|chto&-SG:GEN PRO|ty&-SG:NOM PRO|ja&-SG:NOM PTL|ne V|ponjat'&PFV:TRANS-PAST:SG:FEM PRO|chto&-SG:GEN PRO|ty&-SG:NOM V|govorit'&IMPF:TRANS-PRES:2S 
+\par *CHI:\tab e~to zmeja takaja.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM N|zmeja&ANI:FEM-SG:NOM PRO|takoj&-SG:FEM:NOM 
+\par *MAM:\tab aga, zmeja, da.
+\par %mra:\tab PTL|aga N|zmeja&ANI:FEM-SG:NOM PTL|da 
+\par %sit:\tab mama pomogaet Kate, tozhe risuet.
+\par *MAM:\tab kak ona, polzaet vot tak.
+\par %mra:\tab ADV|kak PRO|on&-SG:FEM:NOM V|polzat'&IMPF:INTRANS-PRES:3S PTL|vot ADV|tak 
+\par *MAM:\tab a gde ona polzet?
+\par %mra:\tab PTL|a ADV|gde PRO|on&-SG:FEM:NOM V|polzti&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab vot zdes' vot.
+\par %mor:\tab PTL|vot ADV|zdes' PTL|vot 
+\par *MAM:\tab po doroge, da, polzet, posmotri?
+\par %mra:\tab PREP|po N|doroga&INANI:FEM-SG:DAT PTL|da V|polzti&IMPF:INTRANS-PRES:3S V|posmotret'&PFV:TRANS-IMP:SG 
+\par *CHI:\tab e~to, e~to chto e~to?
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM PRO|e~tot&-SG:NEUT:NOM PRO|chto&-SG:NOM PTL|e~to 
+\par *MAM:\tab e~to tozhe zmeja vot u menja tut.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM CONJ|tozhe N|zmeja&ANI:FEM-SG:NOM PTL|vot PREP|u PRO|ja&-SG:GEN ADV|tut 
+\par *CHI:\tab a ja beluju narisovala, a ja beluju.
+\par %mor:\tab CONJ|a PRO|ja&-SG:NOM ADJ|belyj&-SG:FEM:ACC V|narisovat'&PFV:TRANS-PAST:SG:FEM CONJ|a PRO|ja&-SG:NOM ADJ|belyj&-SG:FEM:ACC 
+\par *MAM:\tab &mgg, a ja rozovuju.
+\par %mra:\tab &mgg CONJ|a PRO|ja&-SG:NOM ADJ|rozovyj&-SG:FEM:ACC 
+\par *CHI:\tab a ja beluju, budet moja zmeja.
+\par %mor:\tab CONJ|a PRO|ja&-SG:NOM ADJ|belyj&-SG:FEM:ACC V|byt'&IMPF:INTRANS-PRES:3S PRO|moj&-SG:FEM:NOM N|zmeja&ANI:FEM-SG:NOM 
+\par %sit:\tab Katja pokazyvaet na dosku.
+\par *CHI:\tab vot e~to, [mama], vot e~to dym idet u vot e~togo.
+\par %mor:\tab PTL|vot PRO|e~tot&-SG:NEUT:NOM N|mama&ANI:FEM-SG:NOM_[mama] PTL|vot PRO|e~tot&-SG:NEUT:NOM N|dym&INANI:MASC-SG:NOM V|idti&IMPF:INTRANS-PRES:3S PREP|u PTL|vot PRO|e~tot&-SG:MASC:GEN 
+\par *CHI:\tab e~to chto?
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM PRO|chto&-SG:NOM 
+\par *MAM:\tab e~to zmeja.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM N|zmeja&ANI:FEM-SG:NOM 
+\par *MAM:\tab e~to chto, u nee dym idet?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PRO|chto&-SG:NOM PREP|u PRO|on&-SG:FEM:GEN N|dym&INANI:MASC-SG:NOM V|idti&IMPF:INTRANS-PRES:3S 
+\par *CHX:\tab da.
+\par *MAM:\tab a chego e~to u nee dym idet?
+\par %mra:\tab CONJ|a ADV|chego PTL|e~to PREP|u PRO|on&-SG:FEM:GEN N|dym&INANI:MASC-SG:NOM V|idti&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab potomu chto ona pechku topit.
+\par %mor:\tab CONJ|potomu chto  PRO|on&-SG:FEM:NOM N|pechka&INANI:FEM-SG:ACC V|topit'&IMPF:TRANS-PRES:3S 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab oj, slomalos'.
+\par %mor:\tab INTERJ|oj V|slomat'sja&PFV:INTRANS-PAST:SG:NEUT 
+\par *MAM:\tab chego ty?
+\par %mra:\tab PRO|chto&-SG:GEN PRO|ty&-SG:NOM 
+\par *CHI:\tab slomalos'.
+\par %mor:\tab V|slomat'sja&PFV:INTRANS-PAST:SG:NEUT 
+\par *MAM:\tab melok slomalsja, da.
+\par %mra:\tab N|melok&INANI:MASC-SG:NOM V|slomat'sja&PFV:INTRANS-PAST:SG:MASC PTL|da 
+\par *MAM:\tab a gde e~to zmeja pechku topit?
+\par %mra:\tab CONJ|a ADV|gde PTL|e~to N|zmeja&ANI:FEM-SG:NOM N|pechka&INANI:FEM-SG:ACC V|topit'&IMPF:TRANS-PRES:3S 
+\par *MAM:\tab u nee zhe domika-to netu?
+\par %mra:\tab PREP|u PRO|on&-SG:FEM:GEN PTL|zhe N|domik&INANI:MASC-SG:GEN_domika-to PRED|netu 
+\par %sit:\tab Katja risuet.
+\par *CHI:\tab a <vot domik> [3], u ne(e)+/.
+\par %mor:\tab CONJ|a ADV|vot_<vot N|domik&INANI:MASC-SG:NOM_domik> PREP|u PRO|on&-SG:FEM:GEN_ne(e)+/ 
+\par *CHI:\tab u domika takoj [2] dym idet [2] i potom+//.
+\par %mor:\tab PREP|u N|domik&INANI:MASC-SG:GEN PRO|takoj&-SG:MASC:NOM N|dym&INANI:MASC-SG:NOM V|idti&IMPF:INTRANS-PRES:3S CONJ|i ADV|potom_potom+// 
+\par %sit:\tab Katja risuet na drugoj chasti doski.
+\par *CHI:\tab uprjamaja devochka vsegd(a)+/.
+\par %mor:\tab ADJ|uprjamyj&-SG:FEM:NOM N|devochka&ANI:FEM-SG:NOM ADV|vsegda_vsegd(a)+/ 
+\par *CHI:\tab vot [2].
+\par %mor:\tab PTL|vot 
+\par *MAM:\tab gde uprjamaja devochka?
+\par %mra:\tab ADV|gde ADJ|uprjamyj&-SG:FEM:NOM N|devochka&ANI:FEM-SG:NOM 
+\par *CHI:\tab vot, u nee glaz, <eshche odin glaz> [2].
+\par %mor:\tab PTL|vot PREP|u PRO|on&-SG:FEM:GEN N|glaz&INANI:MASC-SG:NOM ADV|eshche_<eshche  NUM|odin&-SG:MASC:NOM N|glaz&INANI:MASC-SG:NOM_glaz> 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab mnogo glaza@errn-.
+\par %mor:\tab ADV|mnogo N|glaz&INANI:MASC-SG:GEN_glaza@errn- 
+\par *MAM:\tab mnogo glaz.
+\par %mra:\tab ADV|mnogo N|glaz&INANI:MASC-PL:GEN 
+\par %com:\tab mama popravljaet Katju.
+\par *CHI:\tab odin stirat' mozhno, odin vot xxx+/?
+\par %mor:\tab NUM|odin&-SG:MASC:ACC V|stirat'&IMPF:TRANS-INF PRED|mozhno NUM|odin&-SG:MASC:ACC PTL|vot XXX|xxx_xxx+/  
+\par *MAM:\tab skol'ko ostalos' glaz?
+\par %mra:\tab NUM|skol'ko&-NOM V|ostat'sja&PFV:INTRANS-PAST:SG:NEUT N|glaz&INANI:MASC-PL:GEN 
+\par *CHI:\tab odin.
+\par %mor:\tab NUM|odin&-SG:MASC:NOM 
+\par *MAX:\tab &mgg.
+\par %sit:\tab Katja beret korobochki s ciframi i bukvami, peresypaet ix.
+\par *CHI:\tab chego+/?
+\par %mor:\tab PTL|chego
+\par *CHI:\tab xxx sekunda, vot [2] sjuda ix, vot sju(da)+/.
+\par %mor:\tab XXX|xxx  N|sekunda&INANI:FEM-SG:NOM PTL|vot ADV|sjuda PRO|on&-PL:ACC PTL|vot ADV|sjuda_sju(da)+/ 
+\par *MAM:\tab a zachem ty cifry k bukvam peresypala?
+\par %mra:\tab PTL|a ADV|zachem PRO|ty&-SG:NOM N|cifra&INANI:FEM-PL:ACC PREP|k N|bukva&INANI:FEM-PL:DAT V|peresypat'&PFV:TRANS-PAST:SG:FEM 
+\par *CHI:\tab tam [2] mozhno sjud(a)+//.
+\par %mor:\tab ADV|tam PRED|mozhno ADV|sjuda_sjud(a)+// 
+\par *CHI:\tab sjuda, a sjuda drugie cifry.
+\par %mor:\tab ADV|sjuda CONJ|a ADV|sjuda PRO|drugoj&-PL:ACC N|cifra&INANI:FEM-PL:ACC 
+\par %sit:\tab Katja perebiraet cifry.
+\par *CHI:\tab tri, sem', vo(sem')+//.
+\par %mor:\tab NUM|tri&-NOM NUM|sem'&-NOM NUM|vosem'&-NOM_vo(sem')+// 
+\par *CHI:\tab vosem', devjat', shest', sem', nol'+/.
+\par %mor:\tab NUM|vosem'&-NOM NUM|devjat'&-NOM NUM|shest'&-NOM NUM|sem'&-NOM N|nol'&INANI:MASC-SG:NOM_nol'+/ 
+\par %sit:\tab mama pokazyvaet na cifru.
+\par *MAM:\tab e~to vot nol'+/.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PTL|vot N|nol'&INANI:MASC-SG:NOM_nol'+/ 
+\par *CHI:\tab pjatnadcat', e~to slomalos' vse.
+\par %mor:\tab NUM|pjatnadcat'&-NOM PRO|e~tot&-SG:NEUT:NOM V|slomat'sja&PFV:INTRANS-PAST:SG:NEUT PRO|ves'&-SG:NEUT:NOM 
+\par *CHI:\tab vot tak, shestnadcat'.
+\par %mor:\tab PTL|vot ADV|tak NUM|shestnadcat'&-NOM 
+\par *CHI:\tab xxx, vot nuzhno vot sju(da)+//.
+\par %mor:\tab XXX|xxx  PTL|vot PRED|nuzhno PTL|vot ADV|sjuda_sju(da)+// 
+\par *CHI:\tab vot, daj sjuda.
+\par %mor:\tab PTL|vot V|dat'&PFV:TRANS-IMP:SG ADV|sjuda 
+\par *CHI:\tab i vot, vot sjuda+/.
+\par %mor:\tab CONJ|i PTL|vot PTL|vot ADV|sjuda_sjuda+/ 
+\par *MAM:\tab a tut vot eshche bukva odna, oj, cifra odna lezhit.
+\par %mra:\tab CONJ|a ADV|tut PTL|vot ADV|eshche  N|bukva&INANI:FEM-SG:NOM NUM|odin&-SG:FEM:NOM INTERJ|oj N|cifra&INANI:FEM-SG:NOM NUM|odin&-SG:FEM:NOM V|lezhat'&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab po-moemu, tak vot povernut'.
+\par %mor:\tab PTL|po-moemu ADV|tak PTL|vot V|povernut'&PFV:TRANS-INF 
+\par *MAM:\tab znaesh', chto e~to za cifra?
+\par %mra:\tab V|znat'&IMPF:TRANS-PRES:2S PRO|chto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM PREP|za N|cifra&INANI:FEM-SG:NOM 
+\par *CHI:\tab da, znaju.
+\par %mor:\tab PTL|da V|znat'&IMPF:TRANS-PRES:1S 
+\par *MAM:\tab chto e~to za cifra?
+\par %mra:\tab PRO|chto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM PREP|za N|cifra&INANI:FEM-SG:NOM 
+\par *CHI:\tab pjat'.
+\par %mor:\tab NUM|pjat'&-NOM 
+\par *MAM:\tab pravil'no, e~to cifra pjat'.
+\par %mra:\tab ADV|pravil'no  PRO|e~tot&-SG:NEUT:NOM N|cifra&INANI:FEM-SG:NOM NUM|pjat'&-NOM 
+\par %sit:\tab Katja beret cifru.
+\par *CHI:\tab a e~ta bukva plachet, ona grjaznaja, bukva pla(chet).
+\par %mor:\tab CONJ|a PRO|e~tot&-SG:FEM:NOM N|bukva&INANI:FEM-SG:NOM V|plakat'&IMPF:INTRANS-PRES:3S PRO|on&-SG:FEM:NOM ADJ|grjaznyj&-SG:FEM:NOM N|bukva&INANI:FEM-SG:NOM V|plakat'&IMPF:INTRANS-PRES:3S_pla(chet) 
+\par *CHI:\tab plachet.
+\par %mor:\tab V|plakat'&IMPF:INTRANS-PRES:3S 
+\par *MAM:\tab net, e~to ne bukva, e~to cifra tozhe, pjat'.
+\par %mra:\tab PTL|net PRO|e~tot&-SG:NEUT:NOM PTL|ne N|bukva&INANI:FEM-SG:NOM PRO|e~tot&-SG:NEUT:NOM N|cifra&INANI:FEM-SG:NOM CONJ|tozhe NUM|pjat'&-NOM 
+\par *MAM:\tab dve cifry pjat', pjat'desjat pjat'.
+\par %mra:\tab NUM|dve&-NOM N|cifra&INANI:FEM-SG:GEN NUM|pjat'&-NOM NUM|pjat'desjat&-NOM NUM|pjat'&-NOM 
+\par *MAM:\tab a e~to cifra devjat'.
+\par %mra:\tab CONJ|a PRO|e~tot&-SG:NEUT:NOM N|cifra&INANI:FEM-SG:NOM NUM|devjat'&-NOM 
+\par *MAM:\tab a esli tak perevernut', budet mjagkij znak.
+\par %mra:\tab CONJ|a CONJ|esli ADV|tak V|perevernut'&PFV:TRANS-INF V|byt'&IMPF:INTRANS-PRES:3S ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM 
+\par *CHI:\tab a gde mjagkij [2] znak?
+\par %mor:\tab CONJ|a ADV|gde ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM 
+\par *MAM:\tab mjagkij znak, e~to bukva, kotoraja ne proiznositsja, bukva bez zvuka.
+\par %mra:\tab ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM PRO|e~tot&-SG:NEUT:NOM N|bukva&INANI:FEM-SG:NOM PRO|kotoryj&-SG:FEM:NOM PTL|ne V|proiznosit'sja&IMPF:INTRANS-PRES:3S N|bukva&INANI:FEM-SG:NOM PREP|bez N|zvuk&INANI:MASC-SG:GEN 
+\par %sit:\tab Katja vysypaet bukvy iz korobki na pol.
+\par *CHI:\tab a gde, ja xochu+//.
+\par %mor:\tab CONJ|a ADV|gde PRO|ja&-SG:NOM V|xotet'&IMPF:INTRANS-PRES:1S_xochu+// 
+\par *CHI:\tab a gde Katina bukva?
+\par %mor:\tab CONJ|a ADV|gde ADJ|katin&-SG:FEM:NOM N|bukva&INANI:FEM-SG:NOM 
+\par *MAM:\tab da vot, ty zhe vse bukvy vysypala na pol, ishchi tut v e~toj kuche.
+\par %mra:\tab PTL|da ADV|vot PRO|ty&-SG:NOM PTL|zhe PRO|ves'&-PL:ACC N|bukva&INANI:FEM-PL:ACC V|vysypat'&PFV:TRANS-PAST:SG:FEM PREP|na N|pol&INANI:MASC-SG:ACC V|iskat'&IMPF:TRANS-IMP:SG ADV|tut PREP|v PRO|e~tot&-SG:FEM:LOC N|kucha&INANI:FEM-SG:LOC 
+\par *CHI:\tab vot Katina bukva napisana.
+\par %mor:\tab ADV|vot ADJ|katin&-SG:FEM:NOM N|bukva&INANI:FEM-SG:NOM PART|napisat'&PASS:PAST-SG:FEM 
+\par *CHI:\tab xxx e~to mjagkij znak?
+\par %mor:\tab XXX|xxx  PRO|e~tot&-SG:NEUT:NOM ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM 
+\par *CHI:\tab a gde mjagkij znak?
+\par %mor:\tab CONJ|a ADV|gde ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM 
+\par *MAM:\tab mjagkij znak upal, vot on.
+\par %mra:\tab ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM V|upast'&PFV:INTRANS-PAST:SG:MASC PTL|vot PRO|on&-SG:MASC:NOM 
+\par *CHI:\tab mjagkij znak, [mama]+/.
+\par %mor:\tab ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM N|mama&ANI:FEM-SG:NOM_[mama]+/ 
+\par *MAM:\tab mjagkij znak budet bukva &k'.
+\par %mra:\tab ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM V|byt'&IMPF:INTRANS-PRES:3S N|bukva&INANI:FEM-SG:NOM &k'
+\par *MAM:\tab ne, &k, a &k'.
+\par %mra:\tab PTL|ne &k CONJ|a &k'
+\par *CHI:\tab a vot e~to &ky, Katina bukva.
+\par %mor:\tab CONJ|a PTL|vot PRO|e~tot&-SG:NEUT:NOM &ky ADJ|katin&-SG:FEM:NOM N|bukva&INANI:FEM-SG:NOM 
+\par *CHI:\tab a chego bukva &n?
+\par %mor:\tab CONJ|a PRO|chto&-SG:GEN N|bukva&INANI:FEM-SG:NOM &n 
+\par *MAM:\tab a e~to bukva &z.
+\par %mra:\tab CONJ|a PRO|e~tot&-SG:NEUT:NOM N|bukva&INANI:FEM-SG:NOM &z
+\par *CHI:\tab a mozhno sdelaju tak, &zy [3]?
+\par %mor:\tab CONJ|a PRED|mozhno V|sdelat'&PFV:TRANS-FUT:1S ADV|tak &zy
+\par *CHI:\tab tak, da xxx?
+\par %mor:\tab ADV|tak PTL|da XXX|xxx  
+\par *CHI:\tab e~to mozhno vot tak mozhno.
+\par %mor:\tab PTL|e~to PRED|mozhno PTL|vot ADV|tak PRED|mozhno 
+\par *MAM:\tab net, e~to bukva &m.
+\par %mra:\tab PTL|net PRO|e~tot&-SG:NEUT:NOM N|bukva&INANI:FEM-SG:NOM &m  
+\par *CHI:\tab e~to mozhno vot tak+/.
+\par %mor:\tab PTL|e~to PRED|mozhno PTL|vot ADV|tak_tak+/ 
+\par *MAM:\tab &e~m, mamina.
+\par %mra:\tab &e~m ADJ|mamin&-SG:FEM:NOM 
+\par *CHI:\tab a chego ty tuda lokot' zasunula?
+\par %mor:\tab PTL|a ADV|chego PRO|ty&-SG:NOM ADV|tuda N|lokot'&INANI:MASC-SG:ACC V|zasunut'&PFV:TRANS-PAST:SG:FEM 
+\par *MAM:\tab kuda?
+\par %mra:\tab ADV|kuda 
+\par *CHI:\tab tuda.
+\par %mor:\tab ADV|tuda 
+\par *MAM:\tab ja lokot' ne zasunula, a ja tut cheshu spinku.
+\par %mra:\tab PRO|ja&-SG:NOM N|lokot'&INANI:MASC-SG:ACC PTL|ne V|zasunut'&PFV:TRANS-PAST:SG:FEM CONJ|a PRO|ja&-SG:NOM ADV|tut V|chesat'&IMPF:TRANS-PRES:1S N|spinka&INANI:FEM-SG:ACC 
+\par *CHI:\tab i ja xochu.
+\par %mor:\tab CONJ|i PRO|ja&-SG:NOM V|xotet'&IMPF:INTRANS-PRES:1S 
+\par *MAM:\tab davaj pocheshi tozhe spinku.
+\par %mra:\tab PTL|davaj  V|pochesat'&PFV:TRANS-IMP:SG CONJ|tozhe N|spinka&INANI:FEM-SG:ACC 
+\par *MAM:\tab vot, vidish', # mozhno tam gluboko spinku chesat'.
+\par %mra:\tab PTL|vot V|videt'&IMPF:TRANS-PRES:2S PRED|mozhno ADV|tam ADJ|glubokij&-SG:NEUT N|spinka&INANI:FEM-SG:ACC V|chesat'&IMPF:TRANS-INF 
+\par %sit:\tab Katja snova zanjalas' bukvami.
+\par *CHI:\tab vot, bukvu nashla maminu, a sjuda eshche ostal'nuju ja bukvu.
+\par %mor:\tab PTL|vot N|bukva&INANI:FEM-SG:ACC V|najti&PFV:TRANS-PAST:SG:FEM ADJ|mamin&-SG:FEM:ACC CONJ|a ADV|sjuda ADV|eshche  PRO|ostal'noj&-SG:FEM:ACC PRO|ja&-SG:NOM N|bukva&INANI:FEM-SG:ACC 
+\par *CHI:\tab vot sjuda mjagkij znak [3].
+\par %mor:\tab PTL|vot ADV|sjuda ADJ|mjagkij&-SG:MASC:ACC N|znak&INANI:MASC-SG:ACC 
+\par *CHI:\tab gde mjagkij znak, a gde on?
+\par %mor:\tab ADV|gde ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM CONJ|a ADV|gde PRO|on&-SG:MASC:NOM 
+\par *MAM:\tab vot mjagkij znak, zelenyj, vidish', tam?
+\par %mra:\tab ADV|vot ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM ADJ|zelenyj&-SG:MASC:NOM V|videt'&IMPF:TRANS-PRES:2S ADV|tam 
+\par *CHI:\tab a gde blau@deut mjagkij znak?
+\par %mor:\tab CONJ|a ADV|gde ADJ|blau&-SG:MASC:NOM_blau@deut ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM 
+\par *MAM:\tab ne blau@deut, a goluboj.
+\par %mra:\tab PTL|ne ADJ|blau&-SG:MASC:NOM_blau@deut CONJ|a ADJ|goluboj&-SG:MASC:NOM 
+\par *CHI:\tab a gde goluboj mjagkij znak, a?
+\par %mor:\tab PTL|a ADV|gde ADJ|goluboj&-SG:MASC:NOM ADJ|mjagkij&-SG:MASC:NOM N|znak&INANI:MASC-SG:NOM PTL|a 
+\par *MAM:\tab goluboj kuda-to upal, ja ne znaju kuda on upal.
+\par %mra:\tab ADJ|goluboj&-SG:MASC:NOM ADV|kuda_kuda-to V|upast'&PFV:INTRANS-PAST:SG:MASC PRO|ja&-SG:NOM PTL|ne V|znat'&IMPF:TRANS-PRES:1S ADV|kuda PRO|on&-SG:MASC:NOM V|upast'&PFV:INTRANS-PAST:SG:MASC 
+\par *CHI:\tab tam na ulice.
+\par %mor:\tab ADV|tam PREP|na N|ulica&INANI:FEM-SG:LOC 
+\par *MAM:\tab na ulice xolodno i veter.
+\par %mra:\tab PREP|na N|ulica&INANI:FEM-SG:LOC PRED|xolodno CONJ|i N|veter&INANI:MASC-SG:NOM 
+\par *CHI:\tab tam samolety letajut, milicionery guljajut.
+\par %mor:\tab ADV|tam N|samolet&INANI:MASC-PL:NOM V|letat'&IMPF:INTRANS-PRES:3P N|milicioner&ANI:MASC-PL:NOM V|guljat'&IMPF:INTRANS-PRES:3P 
+\par *MAM:\tab kto guljaet?
+\par %mra:\tab PRO|kto&-SG:NOM V|guljat'&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab milicionery.
+\par %mor:\tab N|milicioner&ANI:MASC-PL:NOM 
+\par *MAM:\tab milicionery?
+\par %mra:\tab N|milicioner&ANI:MASC-PL:NOM 
+\par *CHX:\tab &mgg.
+\par *MAM:\tab pravil'no, milicionery guljajut, a za nimi samolety letajut.
+\par %mra:\tab ADV|pravil'no  N|milicioner&ANI:MASC-PL:NOM V|guljat'&IMPF:INTRANS-PRES:3P CONJ|a PREP|za PRO|on&-PL:INSTR N|samolet&INANI:MASC-PL:NOM V|letat'&IMPF:INTRANS-PRES:3P 
+\par *CHI:\tab samolety na nebe ne letajut.
+\par %mor:\tab N|samolet&INANI:MASC-PL:NOM PREP|na N|nebo&INANI:NEUT-SG:LOC PTL|ne V|letat'&IMPF:INTRANS-PRES:3P 
+\par *MAM:\tab a gde oni letajut?
+\par %mra:\tab CONJ|a ADV|gde PRO|on&-PL:NOM V|letat'&IMPF:INTRANS-PRES:3P 
+\par *CHI:\tab oni na bereg(u)+//.
+\par %mor:\tab PRO|on&-PL:NOM PREP|na N|bereg&INANI:MASC-SG:LOC_bereg(u)+// 
+\par *CHI:\tab na+//.
+\par %mor:\tab PREP|na_na+// 
+\par *CHI:\tab po domu, po domu letajut.
+\par %mor:\tab PREP|po N|dom&INANI:MASC-SG:DAT PREP|po N|dom&INANI:MASC-SG:DAT V|letat'&IMPF:INTRANS-PRES:3P 
+\par *MAM:\tab net, po domu samolety ne letajut, Katja, chto ty pridumyvaesh'?
+\par %mra:\tab PTL|net PREP|po N|dom&INANI:MASC-SG:DAT N|samolet&INANI:MASC-PL:NOM PTL|ne V|letat'&IMPF:INTRANS-PRES:3P N|katja&ANI:FEM-SG:NOM PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|pridumyvat'&IMPF:TRANS-PRES:2S 
+\par *CHI:\tab da, letajut po domu.
+\par %mor:\tab PTL|da V|letat'&IMPF:INTRANS-PRES:3P PREP|po N|dom&INANI:MASC-SG:DAT 
+\par %sit:\tab mama pomogaet Kate sobrat' bukvy.
+\par *MAM:\tab davaj sjuda.
+\par %mra:\tab V|davat'&PFV:TRANS-IMP:SG ADV|sjuda 
+\par *CHI:\tab pust' e~to budet takoj mjagkij+//.
+\par %mor:\tab PTL|pust' PRO|e~tot&-SG:NEUT:NOM V|byt'&IMPF:INTRANS-PRES:3S PRO|takoj&-SG:MASC:NOM ADJ|mjagkij&-SG:MASC:NOM_mjagkij+// 
+\par *CHI:\tab [mama], ne nado vot.
+\par %mor:\tab N|mama&ANI:FEM-SG:NOM_[mama] PTL|ne PRED|nado PTL|vot 
+\par *CHI:\tab [mama], i tak krasivo.
+\par %mor:\tab N|mama&ANI:FEM-SG:NOM_[mama] CONJ|i ADV|tak ADV|krasivo 
+\par *CHI:\tab [mama], budet tak krasivo, kogda vot tak.
+\par %mor:\tab N|mama&ANI:FEM-SG:NOM_[mama] V|byt'&IMPF:INTRANS-PRES:3S ADV|tak ADV|krasivo CONJ|kogda PTL|vot ADV|tak 
+\par *MAM:\tab ja xochu vse bukovki i cifry polozhit' v korobku.
+\par %mra:\tab PRO|ja&-SG:NOM V|xotet'&IMPF:INTRANS-PRES:1S PRO|ves'&-PL:ACC N|bukovka&INANI:FEM-PL:ACC CONJ|i N|cifra&INANI:FEM-PL:ACC V|polozhit'&PFV:TRANS-INF PREP|v N|korobka&INANI:FEM-SG:ACC 
+\par *CHI:\tab net, a tak budet, ja dumaju, vot tak?
+\par %mor:\tab PTL|net CONJ|a ADV|tak V|byt'&IMPF:INTRANS-PRES:3S PRO|ja&-SG:NOM V|dumat'&IMPF:INTRANS-PRES:1S PTL|vot ADV|tak 
+\par *MAM:\tab davaj vmeste skladyvat'.
+\par %mra:\tab PTL|davaj  ADV|vmeste V|skladyvat'&IMPF:TRANS-INF 
+\par %sit:\tab Katja s mamoj skladyvajut cifry i bukvy.
+\par *MAM:\tab davaj-ka.
+\par %mra:\tab PTL|davaj_davaj-ka  
+\par %sit:\tab Katja kladet mimo korobki.
+\par *MAM:\tab Katja, ty vse razbrasyvaesh', ty chto?
+\par %mra:\tab N|katja&ANI:FEM-SG:NOM PRO|ty&-SG:NOM PRO|ves'&-SG:NEUT:ACC V|razbrasyvat'&IMPF:TRANS-PRES:2S PRO|ty&-SG:NOM PTL|chto 
+\par %sit:\tab Katja vozit korobku po polu.
+\par *MAM:\tab Katja, zachem ty vse vremja vozish' e~toj plastmassovoj korobkoj po polu, sozdaesh' shum?
+\par %mra:\tab N|katja&ANI:FEM-SG:NOM ADV|zachem PRO|ty&-SG:NOM ADV|vse vremja V|vozit'&IMPF:TRANS-PRES:2S PRO|e~tot&-SG:FEM:INSTR ADJ|plastmassovyj&-SG:FEM:INSTR N|korobka&IN
+ANI:FEM-SG:INSTR PREP|po N|pol&INANI:MASC-SG:DAT V|sozdavat'&IMPF:TRANS-PRES:2S N|shum&INANI:MASC-SG:ACC 
+\par *CHX:\tab xxx.
+\par *MAM:\tab a chto ty zdes' delaesh'?
+\par %mra:\tab PTL|a PRO|chto&-SG:ACC PRO|ty&-SG:NOM ADV|zdes' V|delat'&IMPF:TRANS-PRES:2S 
+\par *CHI:\tab ja ne sobiraju.
+\par %mor:\tab PRO|ja&-SG:NOM PTL|ne V|sobirat'&IMPF:TRANS-PRES:1S 
+\par *CHI:\tab chego zdes' svetofor?
+\par %mor:\tab ADV|chego ADV|zdes' N|svetofor&INANI:MASC-SG:NOM 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab xxx vot tak e~to sdelat', vot tak.
+\par %mor:\tab XXX|xxx  PTL|vot ADV|tak PRO|e~tot&-SG:NEUT:ACC V|sdelat'&PFV:TRANS-INF PTL|vot ADV|tak 
+\par *CHI:\tab mne nikak tak.
+\par %mor:\tab PRO|ja&-SG:DAT ADV|nikak ADV|tak 
+\par *CHI:\tab nado sobirat'.
+\par %mor:\tab PRED|nado V|sobirat'&IMPF:TRANS-INF 
+\par *MAM:\tab chto, mne teper' sobirat' nado?
+\par %mra:\tab PTL|chto PRO|ja&-SG:DAT ADV|teper' V|sobirat'&IMPF:TRANS-INF PRED|nado 
+\par *CHX:\tab da.
+\par *MAM:\tab a kuda ty cifry sobiraesh', a kuda - bukvy?
+\par %mra:\tab CONJ|a ADV|kuda PRO|ty&-SG:NOM N|cifra&INANI:FEM-PL:ACC V|sobirat'&IMPF:TRANS-PRES:2S CONJ|a ADV|kuda N|bukva&INANI:FEM-PL:ACC 
+\par %sit:\tab Katja pokazyvaet na korobku.
+\par *CHI:\tab sjuda [2] bu(kvy).
+\par %mor:\tab ADV|sjuda N|bukva&INANI:FEM-PL:ACC_bu(kvy) 
+\par *CHI:\tab cifry.
+\par %mor:\tab N|cifra&INANI:FEM-PL:ACC 
+\par *MAM:\tab sjuda cifry?
+\par %mra:\tab ADV|sjuda N|cifra&INANI:FEM-PL:ACC 
+\par *CHX:\tab da.
+\par %sit:\tab Katja s mamoj sobirajut cifry i bukvy.
+\par *CHI:\tab ja+/.
+\par %mor:\tab PRO|ja&-SG:NOM_ja+/ 
+\par *MAM:\tab oj.
+\par %mra:\tab INTERJ|oj 
+\par *CHX:\tab oj.
+\par *MAM:\tab upalo.
+\par %mra:\tab V|upast'&PFV:INTRANS-PAST:SG:NEUT 
+\par *CHI:\tab ja pomo(gaju)+//.
+\par %mor:\tab PRO|ja&-SG:NOM V|pomogat'&IMPF:INTRANS-PRES:1S_pomo(gaju)+// 
+\par *CHI:\tab ja pomogaju+/.
+\par %mor:\tab PRO|ja&-SG:NOM V|pomogat'&IMPF:INTRANS-PRES:1S_pomogaju+/ 
+\par *MAM:\tab ochen' xorosho, spasibo.
+\par %mra:\tab ADV|ochen' ADV|xorosho INTERJ|spasibo  
+\par *CHI:\tab a smotri, davaj xxx, samolet letit, &iii.
+\par %mor:\tab PTL|a V|smotret'&IMPF:TRANS-IMP:SG PTL|davaj  XXX|xxx  N|samolet&INANI:MASC-SG:NOM V|letet'&IMPF:INTRANS-PRES:3S &iii 
+\par *CHI:\tab xxx, vidish', samolet letit+/.
+\par %mor:\tab XXX|xxx  V|videt'&IMPF:TRANS-PRES:2S N|samolet&INANI:MASC-SG:NOM V|letet'&IMPF:INTRANS-PRES:3S_letit+/ 
+\par *MAX:\tab &mgg. 
+\par *CHX:\tab &iii.
+\par *MAM:\tab vizhu.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:1S 
+\par *CHI:\tab vverx potom, # vniz.
+\par %mor:\tab ADV|vverx ADV|potom ADV|vniz 
+\par *MAM:\tab vniz samolet letit, naverx.
+\par %mra:\tab ADV|vniz N|samolet&INANI:MASC-SG:NOM V|letet'&IMPF:INTRANS-PRES:3S ADV|naverx 
+\par *CHI:\tab a tam ljudi sidjat tam, i bolejut.
+\par %mor:\tab CONJ|a ADV|tam N|chelovek&ANI:MASC-PL:NOM V|sidet'&IMPF:INTRANS-PRES:3P ADV|tam CONJ|i V|bolet'&IMPF:INTRANS-PRES:3P 
+\par *MAM:\tab gde?
+\par %mra:\tab ADV|gde 
+\par *CHI:\tab vo tam, ljudi.
+\par %mor:\tab PTL|vo ADV|tam N|chelovek&ANI:MASC-PL:NOM 
+\par *MAM:\tab v samolete sidjat ljudi?
+\par %mra:\tab PREP|v N|samolet&INANI:MASC-SG:LOC V|sidet'&IMPF:INTRANS-PRES:3P N|chelovek&ANI:MASC-PL:NOM 
+\par *CHX:\tab da.
+\par *MAM:\tab a pochemu oni bolejut?
+\par %mra:\tab CONJ|a ADV|pochemu PRO|on&-PL:NOM V|bolet'&IMPF:INTRANS-PRES:3P 
+\par *CHI:\tab tam ushi bolejut@inno-v-, xxx naverx letit+/.
+\par %mor:\tab ADV|tam N|uxo&INANI:NEUT-PL:NOM V|bolet'&IMPF:INTRANS-PRES:3P_bolejut@inno-v- XXX|xxx  ADV|naverx V|letet'&IMPF:INTRANS-PRES:3S_letit+/ 
+\par *MAM:\tab a, ushi boljat u nix, zakladyvaet ushi, kogda naverx letish', da? 
+\par %mra:\tab PTL|a N|uxo&INANI:NEUT-PL:NOM V|bolet'&IMPF:INTRANS-PRES:3P PREP|u PRO|on&-PL:GEN V|zakladyvat'&IMPF:TRANS-PRES:3S N|uxo&INANI:NEUT-PL:ACC ADV|kogda ADV|naverx V|letet'&IMPF:INTRANS-PRES:2S PTL|da 
+\par *CHI:\tab oj, da, naverx letish' kogda.
+\par %mor:\tab INTERJ|oj PTL|da ADV|naverx V|letet'&IMPF:INTRANS-PRES:2S ADV|kogda 
+\par *MAM:\tab Katja, a kto budet zakanchivat' sborku?
+\par %mra:\tab N|katja&ANI:FEM-SG:NOM CONJ|a PRO|kto&-SG:NOM V|byt'&IMPF:INTRANS-PRES:3S V|zakanchivat'&IMPF:TRANS-INF N|sborka&INANI:FEM-SG:ACC 
+\par *CHI:\tab mama.
+\par %mor:\tab N|mama&ANI:FEM-SG:NOM 
+\par *MAM:\tab davaj, tebe mama snachala sobrala, ty vse razbrosala.
+\par %mra:\tab PTL|davaj  PRO|ty&-SG:DAT N|mama&ANI:FEM-SG:NOM ADV|snachala V|sobrat'&PFV:TRANS-PAST:SG:FEM PRO|ty&-SG:NOM PRO|ves'&-SG:NEUT:ACC V|razbrosat'&PFV:TRANS-PAST:SG:FEM 
+\par %sit:\tab Katja pokazyvaet mame bukvu.
+\par *CHI:\tab a smotri.
+\par %mor:\tab PTL|a V|smotret'&IMPF:TRANS-IMP:SG 
+\par *MAM:\tab tak, Katja, ty sobirala e~ti igrushki.
+\par %mra:\tab PTL|tak N|katja&ANI:FEM-SG:NOM PRO|ty&-SG:NOM V|sobirat'&IMPF:TRANS-PAST:SG:FEM PRO|e~tot&-PL:ACC N|igrushka&INANI:FEM-PL:ACC 
+\par *MAM:\tab ty menja poprosila podojti k tebe posmotret'?
+\par %mra:\tab PRO|ty&-SG:NOM PRO|ja&-SG:ACC V|poprosit'&PFV:TRANS-PAST:SG:FEM V|podojti&PFV:INTRANS-INF PREP|k PRO|ty&-SG:DAT V|posmotret'&PFV:TRANS-INF 
+\par *MAM:\tab poprosila, ja podoshla, ja sejchas ujdu, budesh' xxx sobirat'.
+\par %mra:\tab V|poprosit'&PFV:TRANS-PAST:SG:FEM PRO|ja&-SG:NOM V|podojti&PFV:INTRANS-PAST:SG:FEM PRO|ja&-SG:NOM ADV|sejchas V|ujti&PFV:INTRANS-FUT:1S V|byt'&IMPF:INTRANS-PRES:2S XXX|xxx  V|sobirat'&IMPF:TRANS-INF 
+\par *CHX:\tab xxx+/.
+\par *MAM:\tab budesh' odna tut sobirat' vse.
+\par %mra:\tab V|byt'&IMPF:INTRANS-PRES:2S ADJ|odin&-SG:FEM:NOM ADV|tut V|sobirat'&IMPF:TRANS-INF PRO|ves'&-SG:NEUT:ACC 
+\par *CHI:\tab xxx, [mama], pomogi mne e~tot samolet ubrat'.
+\par %mor:\tab XXX|xxx  N|mama&ANI:FEM-SG:NOM_[mama] V|pomoch'&PFV:INTRANS-IMP:SG PRO|ja&-SG:DAT PRO|e~tot&-SG:MASC:ACC N|samolet&INANI:MASC-SG:ACC V|ubrat'&PFV:TRANS-INF 
+\par *CHI:\tab e~to sjuda, sjuda e~to, sjuda bukvy, vse.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:ACC ADV|sjuda ADV|sjuda PRO|e~tot&-SG:NEUT:ACC ADV|sjuda N|bukva&INANI:FEM-PL:ACC PRO|ves'&-SG:NEUT:NOM 
+\par *CHI:\tab e~to sjuda bukvy, e~to xochu xxx sjuda.
+\par %mor:\tab PTL|e~to ADV|sjuda N|bukva&INANI:FEM-PL:ACC PRO|e~tot&-SG:NEUT:ACC V|xotet'&IMPF:INTRANS-PRES:1S XXX|xxx  ADV|sjuda 
+\par %sit:\tab Katja skladyvaet bukvy.
+\par *CHI:\tab sjuda bukvy, e~to vot sjuda nuzhno.
+\par %mor:\tab ADV|sjuda N|bukva&INANI:FEM-PL:ACC PRO|e~tot&-SG:NEUT:ACC PTL|vot ADV|sjuda PRED|nuzhno 
+\par *MAM:\tab nu, davaj teper' e~tu igru sobirat'.
+\par %mra:\tab PTL|nu PTL|davaj  ADV|teper' PRO|e~tot&-SG:FEM:ACC N|igra&INANI:FEM-SG:ACC V|sobirat'&IMPF:TRANS-INF 
+\par *CHX:\tab xxx.
+\par *CHI:\tab xxx skladyvaj.
+\par %mor:\tab XXX|xxx  V|skladyvat'&IMPF:TRANS-IMP:SG 
+\par *MAM:\tab chasti skladyvaj ot igry # v korobochku, vidish'?
+\par %mra:\tab N|chast'&INANI:FEM-PL:ACC V|skladyvat'&IMPF:TRANS-IMP:SG PREP|ot N|igra&INANI:FEM-SG:GEN PREP|v N|korobochka&INANI:FEM-SG:ACC V|videt'&IMPF:TRANS-PRES:2S 
+\par %sit:\tab Katja pyxtit.
+\par *MAM:\tab chto takoe?
+\par %mra:\tab PRO|chto&-SG:NOM PRO|takoj&-SG:NEUT:NOM 
+\par *MAM:\tab noga bolit?
+\par %mra:\tab N|noga&INANI:FEM-SG:NOM V|bolet'&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab [mama], xxx.
+\par %mor:\tab N|mama&ANI:FEM-SG:NOM_[mama] XXX|xxx  
+\par *MAM:\tab tapki-to ty ne odela?
+\par %mra:\tab N|tapka&INANI:FEM-PL:ACC_tapki-to PRO|ty&-SG:NOM PTL|ne V|odet'&PFV:TRANS-PAST:SG:FEM 
+\par *CHX:\tab mama, xxx.
+\par *MAM:\tab zabyla tapki odet'.
+\par %mra:\tab V|zabyt'&PFV:TRANS-PAST:SG:FEM N|tapka&INANI:FEM-PL:ACC V|odet'&PFV:TRANS-INF 
+\par *CHX:\tab zabyla.
+\par *CHI:\tab davaj porisuem, [mama], porisuem xxx.
+\par %mor:\tab PTL|davaj  V|porisovat'&PFV:TRANS-FUT:1P N|mama&ANI:FEM-SG:NOM_[mama] V|porisovat'&PFV:TRANS-FUT:1P XXX|xxx  
+\par *MAM:\tab nichego ne ponimaju, chto ty govorish'?
+\par %mra:\tab PRO|nichto&-SG:GEN PTL|ne V|ponimat'&IMPF:TRANS-PRES:1S PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|govorit'&IMPF:TRANS-PRES:2S 
+\par *CHI:\tab porisuem.
+\par %mor:\tab V|porisovat'&PFV:TRANS-FUT:1P 
+\par *MAM:\tab porisuem, nu, tak govori normal'no, a to ty tak govorish', nichego neponjatno.
+\par %mra:\tab V|porisovat'&PFV:TRANS-FUT:1P PTL|nu PTL|tak V|govorit'&IMPF:TRANS-IMP:SG ADV|normal'no CONJ|a CONJ|to PRO|ty&-SG:NOM ADV|tak V|govorit'&IMPF:TRANS-PRES:2S PRO|nichto&-SG:GEN ADV|neponjatno 
+\par *CHI:\tab porisuem davaj?
+\par %mor:\tab V|porisovat'&PFV:TRANS-FUT:1P PTL|davaj  
+\par *MAM:\tab davaj porisuem nemnozhko.
+\par %mra:\tab PTL|davaj  V|porisovat'&PFV:TRANS-FUT:1P ADV|nemnozhko 
+\par *CHX:\tab xxx.
+\par %com:\tab Katja krivljaetsja.
+\par *MAM:\tab Katja, ja nichego ne ponimaju, kogda ty tak govorish'.
+\par %mra:\tab N|katja&ANI:FEM-SG:NOM PRO|ja&-SG:NOM PRO|nichto&-SG:GEN PTL|ne V|ponimat'&IMPF:TRANS-PRES:1S CONJ|kogda PRO|ty&-SG:NOM ADV|tak V|govorit'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab ne koverkaj jazyk.
+\par %mra:\tab PTL|ne V|koverkat'&IMPF:TRANS-IMP:SG N|jazyk&INANI:MASC-SG:ACC 
+\par *CHI:\tab apfel@deut tut.
+\par %mor:\tab N|apfel&INANI:MASC-SG:NOM_apfel@deut ADV|tut 
+\par *CHI:\tab ja tebe budu davat', [mama], shpil'ku moju.
+\par %mor:\tab PRO|ja&-SG:NOM PRO|ty&-SG:DAT V|byt'&IMPF:INTRANS-PRES:1S V|davat'&IMPF:TRANS-INF N|mama&ANI:FEM-SG:NOM_[mama] N|shpil'ka&INANI:FEM-SG:ACC PRO|moj&-SG:FEM:ACC 
+\par *MAM:\tab e~to ne shpil'ka, a zakolochka.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PTL|ne N|shpil'ka&INANI:FEM-SG:NOM CONJ|a N|zakolochka&INANI:FEM-SG:NOM 
+\par *CHI:\tab daj, davaj zakolochku, [mama].
+\par %mor:\tab V|dat'&PFV:TRANS-IMP:SG V|davat'&PFV:TRANS-IMP:SG N|zakolochka&INANI:FEM-SG:ACC N|mama&ANI:FEM-SG:NOM_[mama] 
+\par *MAM:\tab e~to kakogo cveta u tebja karandashik?
+\par %mra:\tab PTL|e~to PRO|kakoj&-SG:MASC:GEN N|cvet&INANI:MASC-SG:GEN PREP|u PRO|ty&-SG:GEN N|karandashik&INANI:MASC-SG:NOM 
+\par *CHI:\tab &e~e~e~, krasnyj+/.
+\par %mor:\tab &e~e~e~ N|krasnyj&ANI:MASC-SG:NOM_krasnyj+/ 
+\par *MAM:\tab net, e~to ne krasnyj, e~to rozovyj.
+\par %mra:\tab PTL|net PRO|e~tot&-SG:NEUT:NOM PTL|ne ADJ|krasnyj&-SG:MASC:NOM PRO|e~tot&-SG:NEUT:NOM ADJ|rozovyj&-SG:MASC:NOM 
+\par *CHI:\tab rozovyj vzjala, rozovyj.
+\par %mor:\tab ADJ|rozovyj&-SG:MASC:ACC V|vzjat'&PFV:TRANS-PAST:SG:FEM ADJ|rozovyj&-SG:MASC:ACC 
+\par *CHI:\tab ja xochu rozovyj+/.
+\par %mor:\tab PRO|ja&-SG:NOM V|xotet'&IMPF:INTRANS-PRES:1S ADJ|rozovyj&-SG:MASC:ACC_rozovyj+/ 
+\par *MAM:\tab tak, ja sejchas dam tebe novyj listik.
+\par %mra:\tab PTL|tak PRO|ja&-SG:NOM ADV|sejchas V|dat'&PFV:TRANS-FUT:1S PRO|ty&-SG:DAT ADJ|novyj&-SG:MASC:ACC N|listik&INANI:MASC-SG:ACC 
+\par *CHI:\tab pochemu novyj listik?
+\par %mor:\tab ADV|pochemu ADJ|novyj&-SG:MASC:ACC N|listik&INANI:MASC-SG:ACC 
+\par *MAM:\tab e~tot my uzhe izrisovali.
+\par %mra:\tab PRO|e~tot&-SG:MASC:ACC PRO|my&-PL:NOM ADV|uzhe V|izrisovat'&PFV:TRANS-PAST:PL 
+\par *CHI:\tab chego xxx?
+\par %mor:\tab ADV|chego XXX|xxx  
+\par *CHI:\tab a chego tetju mne nariso(vala)?
+\par %mor:\tab CONJ|a ADV|chego N|tetja&ANI:FEM-SG:ACC PRO|ja&-SG:DAT V|narisovat'&PFV:TRANS-PAST:SG:FEM_nariso(vala) 
+\par *CHI:\tab narisovala tetju?
+\par %mor:\tab V|narisovat'&PFV:TRANS-PAST:SG:FEM N|tetja&ANI:FEM-SG:ACC 
+\par *MAM:\tab ty menja poprosila narisovat' tetju, ja tebe narisovala tetju.
+\par %mra:\tab PRO|ty&-SG:NOM PRO|ja&-SG:ACC V|poprosit'&PFV:TRANS-PAST:SG:FEM V|narisovat'&PFV:TRANS-INF N|tetja&ANI:FEM-SG:ACC PRO|ja&-SG:NOM PRO|ty&-SG:DAT V|narisovat'&PFV:TRANS-PAST:SG:FEM N|tetja&ANI:FEM-SG:ACC 
+\par *MAM:\tab xxx bol'shoj list belyj, vidish'?
+\par %mra:\tab XXX|xxx  ADJ|bol'shoj&-SG:MASC:NOM N|list&INANI:MASC-SG:NOM ADJ|belyj&-SG:MASC:NOM V|videt'&IMPF:TRANS-PRES:2S 
+\par %sit:\tab Katja vodit karandashom po bumage.
+\par *MAM:\tab e~to chto e~to u tebja poluchilos'?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PRO|chto&-SG:NOM PTL|e~to PREP|u PRO|ty&-SG:GEN V|poluchit'sja&PFV:INTRANS-PAST:SG:NEUT 
+\par *CHI:\tab luk i ljudi.
+\par %mor:\tab N|luk&INANI:MASC-SG:NOM CONJ|i N|chelovek&ANI:MASC-PL:NOM 
+\par *MAM:\tab a e~to?
+\par %mra:\tab CONJ|a PRO|e~tot&-SG:NEUT:NOM 
+\par *CHI:\tab e~to, # ja ne znaju kak.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM PRO|ja&-SG:NOM PTL|ne V|znat'&IMPF:TRANS-PRES:1S ADV|kak 
+\par *MAM:\tab chego?
+\par %mra:\tab PTL|chego 
+\par *CHI:\tab ne znaju kak # nazyvaetsja.
+\par %mor:\tab PTL|ne V|znat'&IMPF:TRANS-PRES:1S ADV|kak V|nazyvat'sja&IMPF:INTRANS-PRES:3S 
+\par %sit:\tab Katja prodolzhaet vodit' karandashom po bumage.
+\par *CHI:\tab krasnaja, blau@deut+/.
+\par %mor:\tab ADJ|krasnyj&-SG:FEM:NOM ADJ|blau&-SG:MASC:NOM_blau@deut+/ 
+\par *MAM:\tab goluboj cvet.
+\par %mra:\tab ADJ|goluboj&-SG:MASC:NOM N|cvet&INANI:MASC-SG:NOM 
+\par *CHI:\tab xxx, krasnyj.
+\par %mor:\tab XXX|xxx  ADJ|krasnyj&-SG:MASC:NOM 
+\par *MAM:\tab davaj luchshe pravoj rukoj, pravoj luchshe.
+\par %mra:\tab PTL|davaj  ADV|luchshe ADJ|pravyj&-SG:FEM:INSTR N|ruka&INANI:FEM-SG:INSTR ADJ|pravyj&-SG:FEM:INSTR ADV|luchshe 
+\par %com:\tab Katja risovala levoj rukoj.
+\par *CHI:\tab vot tak, raznocvetnye karandashi xochet.
+\par %mor:\tab PTL|vot ADV|tak ADJ|raznocvetnyj&-PL:ACC N|karandash&INANI:MASC-PL:ACC V|xotet'&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab vot, potom vot+/.
+\par %mor:\tab PTL|vot ADV|potom PTL|vot_vot+/ 
+\par *MAM:\tab stvol poluchilsja dereva, da?
+\par %mra:\tab N|stvol&INANI:MASC-SG:NOM V|poluchit'sja&PFV:INTRANS-PAST:SG:MASC N|derevo&INANI:NEUT-SG:GEN PTL|da 
+\par *CHI:\tab vot derevo+/.
+\par %mor:\tab ADV|vot N|derevo&INANI:NEUT-SG:NOM_derevo+/ 
+\par %sit:\tab mama pomogaet Kate.
+\par *MAM:\tab derevo, a u nego listva zelenaja, vidish'?
+\par %mra:\tab N|derevo&INANI:NEUT-SG:NOM CONJ|a PREP|u PRO|on&-SG:MASC:GEN N|listva&INANI:FEM-SG:NOM ADJ|zelenyj&-SG:FEM:NOM V|videt'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab krona takaja zelenaja.
+\par %mra:\tab N|krona&INANI:FEM-SG:NOM PRO|takoj&-SG:FEM:NOM ADJ|zelenyj&-SG:FEM:NOM 
+\par *CHI:\tab a gde belaja+//?
+\par %mor:\tab CONJ|a ADV|gde ADJ|belyj&-SG:FEM:NOM_belaja+// 
+\par *CHI:\tab belyj karandash?
+\par %mor:\tab ADJ|belyj&-SG:MASC:NOM N|karandash&INANI:MASC-SG:NOM 
+\par *CHI:\tab a gde belyj karandash?
+\par %mor:\tab CONJ|a ADV|gde ADJ|belyj&-SG:MASC:NOM N|karandash&INANI:MASC-SG:NOM 
+\par *MAM:\tab a belogo karandasha netu.
+\par %mra:\tab CONJ|a ADJ|belyj&-SG:MASC:GEN N|karandash&INANI:MASC-SG:GEN PRED|netu 
+\par *CHI:\tab a u menja est'+/.
+\par %mor:\tab CONJ|a PREP|u PRO|ja&-SG:GEN V|byt'&IMPF:INTRANS-PRES:3S_est' 
+\par *MAM:\tab davaj my narisuem grib eshche pod derevom zdes', vot smotri.
+\par %mra:\tab PTL|davaj  PRO|my&-PL:NOM V|narisovat'&PFV:TRANS-FUT:1P N|grib&INANI:MASC-SG:ACC ADV|eshche  PREP|pod N|derevo&INANI:NEUT-SG:INSTR ADV|zdes' PTL|vot V|smotret'&IMPF:TRANS-IMP:SG 
+\par *MAM:\tab vidish', von tut, na zemle takoj stoit grib.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PTL|von ADV|tut PREP|na N|zemlja&INANI:FEM-SG:LOC PRO|takoj&-SG:MASC:NOM V|stojat'&IMPF:INTRANS-PRES:3S N|grib&INANI:MASC-SG:NOM 
+\par *CHI:\tab rastet moj grib.
+\par %mor:\tab V|rasti&IMPF:TRANS-PRES:3S PRO|moj&-SG:MASC:NOM N|grib&INANI:MASC-SG:NOM 
+\par *MAM:\tab da, xoroshij, borovik.
+\par %mra:\tab PTL|da ADJ|xoroshij&-SG:MASC:NOM N|borovik&INANI:MASC-SG:NOM 
+\par *CHI:\tab mozhno ego est'?
+\par %mor:\tab PRED|mozhno PRO|on&-SG:MASC:ACC V|est'&IMPF:TRANS-INF 
+\par *MAM:\tab borovik mozhno est'.
+\par %mra:\tab N|borovik&INANI:MASC-SG:ACC PRED|mozhno V|est'&IMPF:TRANS-INF 
+\par *CHI:\tab a gde borovik?
+\par %mor:\tab CONJ|a ADV|gde N|borovik&INANI:MASC-SG:NOM 
+\par *MAM:\tab a vot borovik ja narisovala.
+\par %mra:\tab PTL|a ADV|vot N|borovik&INANI:MASC-SG:ACC PRO|ja&-SG:NOM V|narisovat'&PFV:TRANS-PAST:SG:FEM 
+\par *CHX:\tab ka+/.
+\par *MAM:\tab grib borovik.
+\par %mra:\tab N|grib&INANI:MASC-SG:NOM N|borovik&INANI:MASC-SG:NOM 
+\par *MAM:\tab kakoj grib nel'zja est', &m?
+\par %mra:\tab PRO|kakoj&-SG:MASC:ACC N|grib&INANI:MASC-SG:ACC PRED|nel'zja V|est'&IMPF:TRANS-INF &m  
+\par *CHI:\tab poganku.
+\par %mor:\tab N|poganka&INANI:FEM-SG:ACC 
+\par *MAM:\tab pravil'no+/.
+\par %mra:\tab ADV|pravil'no_pravil'no+/  
+\par *CHI:\tab poganki.
+\par %mor:\tab N|poganka&INANI:FEM-PL:ACC 
+\par *MAM:\tab poganki ne edjat.
+\par %mra:\tab N|poganka&INANI:FEM-PL:ACC PTL|ne V|est'&IMPF:TRANS-PRES:3P 
+\par *MAM:\tab a eshche kakoj nel'zja est'?
+\par %mra:\tab CONJ|a ADV|eshche  PRO|kakoj&-SG:MASC:ACC PRED|nel'zja V|est'&IMPF:TRANS-INF 
+\par *CHI:\tab &e~, krasnyj.
+\par %mor:\tab &e~ ADJ|krasnyj&-SG:MASC:ACC 
+\par *MAM:\tab krasnyj, a kak on nazyvaetsja takoj krasnyj # s belymi tochechkami?
+\par %mra:\tab ADJ|krasnyj&-SG:MASC:ACC CONJ|a ADV|kak PRO|on&-SG:MASC:NOM V|nazyvat'sja&IMPF:INTRANS-PRES:3S PRO|takoj&-SG:MASC:NOM ADJ|krasnyj&-SG:MASC:NOM PREP|s ADJ|belyj&-PL:INSTR N|tochechka&INANI:FEM-PL:INSTR 
+\par *CHI:\tab &me~e~, ne znaju.
+\par %mor:\tab &me~e~ PTL|ne V|znat'&IMPF:TRANS-PRES:1S 
+\par *MAM:\tab zabyla?
+\par %mra:\tab V|zabyt'&PFV:TRANS-PAST:SG:FEM 
+\par *CHX:\tab da.
+\par *MAM:\tab chto e~to za grib ja narisovala?
+\par %mra:\tab PRO|chto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM PREP|za N|grib&INANI:MASC-SG:ACC PRO|ja&-SG:NOM V|narisovat'&PFV:TRANS-PAST:SG:FEM 
+\par *CHI:\tab &xmm, ne znaju.
+\par %mor:\tab &xmm PTL|ne V|znat'&IMPF:TRANS-PRES:1S 
+\par *MAM:\tab e~to muxomor.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM N|muxomor&INANI:MASC-SG:NOM 
+\par *CHX:\tab muxomor.
+\par *MAM:\tab teper' ty cvetochek xochesh' risovat', da?
+\par %mra:\tab ADV|teper' PRO|ty&-SG:NOM N|cvetochek&INANI:MASC-SG:ACC V|xotet'&IMPF:INTRANS-PRES:2S V|risovat'&IMPF:TRANS-INF PTL|da 
+\par *MAM:\tab na stole ne nado risovat'.
+\par %mra:\tab PREP|na N|stol&INANI:MASC-SG:LOC PTL|ne PRED|nado V|risovat'&IMPF:TRANS-INF 
+\par %sit:\tab mama daet Kate karandash.
+\par *MAM:\tab na, risuj cvetochek+/.
+\par %mra:\tab INTERJ|na V|risovat'&IMPF:TRANS-IMP:SG N|cvetochek&INANI:MASC-SG:ACC_cvetochek+/ 
+\par *CHI:\tab xxx, keine@deut cvetochek ich@deut mach@deut xxx keine@deut+/.
+\par %mor:\tab XXX|xxx  PRO|kein&-SG:FEM:ACC_keine@deut N|cvetochek&INANI:MASC-SG:ACC PRO|ich&-SG:NOM_ich@deut V|machen&IMPF:TRANS-IMP:SG_mach@deut XXX|xxx  PRO|kein&-SG:FEM:ACC_keine@deut+/ 
+\par *MAM:\tab skazhi po-russki, ne nado risovat' cvetochek.
+\par %mra:\tab V|skazat'&PFV:TRANS-IMP:SG ADV|po-russki PTL|ne PRED|nado V|risovat'&IMPF:TRANS-INF N|cvetochek&INANI:MASC-SG:ACC 
+\par *CHI:\tab nicht@deut cvetochek [2].
+\par %mor:\tab PTL|nicht_nicht@deut N|cvetochek&INANI:MASC-SG:ACC_cvetochek 
+\par *MAM:\tab a chto nado risovat'?
+\par %mra:\tab CONJ|a PRO|chto&-SG:ACC PRED|nado V|risovat'&IMPF:TRANS-INF 
+\par %sit:\tab mama risuet.
+\par *MAM:\tab togda lepestochki budu vot takie.
+\par %mra:\tab ADV|togda N|lepestochek&INANI:MASC-PL:ACC V|byt'&IMPF:INTRANS-PRES:1S PTL|vot PRO|takoj&-PL:ACC 
+\par *MAM:\tab krasivye lepestochki?
+\par %mra:\tab ADJ|krasivyj&-PL:NOM N|lepestochek&INANI:MASC-PL:NOM 
+\par *CHX:\tab net.
+\par *CHI:\tab ja blau@deut xoch(u).
+\par %mor:\tab PRO|ja&-SG:NOM ADJ|blau&-SG:MASC:ACC_blau@deut V|xotet'&IMPF:INTRANS-PRES:1S_xoch(u) 
+\par *CHI:\tab vot e~to tvoj ljubimyj blau@deut.
+\par %mor:\tab PTL|vot PRO|e~tot&-SG:NEUT:NOM PRO|tvoj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM ADJ|blau&-SG:MASC:NOM_blau@deut 
+\par *MAM:\tab net, e~to tvoj ljubimyj, sinij e~to.
+\par %mra:\tab PTL|net PRO|e~tot&-SG:NEUT:NOM PRO|tvoj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM ADJ|sinij&-SG:MASC:NOM PRO|e~tot&-SG:NEUT:NOM 
+\par *CHI:\tab e~to moj ljubimyj.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM PRO|moj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM 
+\par *CHI:\tab a kakoj tvoj ljubimyj blau@deut?
+\par %mor:\tab CONJ|a PRO|kakoj&-SG:MASC:NOM PRO|tvoj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM ADJ|blau&-SG:MASC:NOM_blau@deut 
+\par *MAM:\tab vot e~to sinij, ja tozhe ljublju sinij, da.
+\par %mra:\tab PTL|vot PRO|e~tot&-SG:NEUT:NOM ADJ|sinij&-SG:MASC:NOM PRO|ja&-SG:NOM CONJ|tozhe V|ljubit'&IMPF:TRANS-PRES:1S ADJ|sinij&-SG:MASC:ACC PTL|da 
+\par *CHI:\tab ja ljublju si(nij)+//.
+\par %mor:\tab PRO|ja&-SG:NOM V|ljubit'&IMPF:TRANS-PRES:1S ADJ|sinij&-SG:MASC:ACC_si(nij)+// 
+\par *CHI:\tab vot tebe, [mama].
+\par %mor:\tab PTL|vot PRO|ty&-SG:DAT  N|mama&ANI:FEM-SG:NOM_[mama] 
+\par %sit:\tab Katja daet mame karandash.
+\par *CHI:\tab [mama], sinij.
+\par %mor:\tab N|mama&ANI:FEM-SG:NOM ADJ|sinij&-SG:MASC:NOM 
+\par *MAM:\tab &mgg, spasibo, sejchas tozhe sinij narisuju cvetochek.
+\par %mra:\tab PTL|mgg_&mgg INTERJ|spasibo  ADV|sejchas CONJ|tozhe ADJ|sinij&-SG:MASC:ACC V|narisovat'&PFV:TRANS-FUT:1S N|cvetochek&INANI:MASC-SG:ACC 
+\par *MAX:\tab xxx.
+\par *CHI:\tab moj ljubimyj cvetoch(ek).
+\par %mor:\tab PRO|moj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM N|cvetochek&INANI:MASC-SG:NOM_cvetoch(ek) 
+\par *CHI:\tab ljubimyj moj blau@deut, ljubimyj [2],  moj blau@deut karandash.
+\par %mor:\tab ADJ|ljubimyj&-SG:MASC:NOM PRO|moj&-SG:MASC:NOM ADJ|blau&-SG:MASC:NOM_blau@deut ADJ|ljubimyj&-SG:MASC:NOM PRO|moj&-SG:MASC:NOM ADJ|blau&-SG:MASC:NOM_blau@deut N|karandash&INANI:MASC-SG:NOM 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab moj cvetochek ljubimyj [2].
+\par %mor:\tab PRO|moj&-SG:MASC:NOM N|cvetochek&INANI:MASC-SG:NOM ADJ|ljubimyj&-SG:MASC:NOM 
+\par %com:\tab povtorjaet neskol'ko raz.
+\par *CHI:\tab e~to tozhe, e~to moj?
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM CONJ|tozhe PRO|e~tot&-SG:NEUT:NOM PRO|moj&-SG:MASC:NOM 
+\par *MAM:\tab vidish', kakoj ja krasivyj+//.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PRO|kakoj&-SG:MASC:NOM PRO|ja&-SG:NOM ADJ|krasivyj&-SG:MASC:NOM_krasivyj+// 
+\par *MAM:\tab skol'ko zdes' cvetochkov ja narisovala?
+\par %mra:\tab NUM|skol'ko&-ACC ADV|zdes' N|cvetochek&INANI:MASC-PL:GEN PRO|ja&-SG:NOM V|narisovat'&PFV:TRANS-PAST:SG:FEM 
+\par *CHI:\tab vot tak mozhno cvetochek.
+\par %mor:\tab PTL|vot ADV|tak PRED|mozhno N|cvetochek&INANI:MASC-SG:ACC 
+\par *MAM:\tab skol'ko ja narisovala?
+\par %mra:\tab NUM|skol'ko&-ACC PRO|ja&-SG:NOM V|narisovat'&PFV:TRANS-PAST:SG:FEM 
+\par *CHI:\tab dva.
+\par %mor:\tab NUM|dva&-ACC 
+\par *MAM:\tab tri, chety(re)+/.
+\par %mra:\tab NUM|tri&-ACC NUM|chetyre&-ACC_chety(re)+/ 
+\par %sit:\tab Katja daet mame karandash.
+\par *CHI:\tab na, chernyj, na, [mama], chernyj.
+\par %mor:\tab INTERJ|na ADJ|chernyj&-SG:MASC:ACC INTERJ|na N|mama&ANI:FEM-SG:NOM_[mama] ADJ|chernyj&-SG:MASC:ACC 
+\par *MAM:\tab i dva.
+\par %mra:\tab CONJ|i NUM|dva&-NOM 
+\par *MAM:\tab a chto ja budu chernym risovat'?
+\par %mra:\tab PTL|a PRO|chto&-SG:ACC PRO|ja&-SG:NOM V|byt'&IMPF:INTRANS-PRES:1S ADJ|chernyj&-SG:MASC:INSTR V|risovat'&IMPF:TRANS-INF 
+\par *CHI:\tab kub takoj, kak ja.
+\par %mor:\tab N|kub&INANI:MASC-SG:ACC PRO|takoj&-SG:MASC:ACC CONJ|kak PRO|ja&-SG:NOM 
+\par *CHI:\tab net [2], vot tak.
+\par %mor:\tab PTL|net PTL|vot ADV|tak 
+\par %sit:\tab Katja vodit karandashom po maminomu risunku.
+\par *MAM:\tab ty togda zarisuesh' vse.
+\par %mra:\tab PRO|ty&-SG:NOM ADV|togda V|zarisovat'&PFV:TRANS-FUT:2S PRO|ves'&-SG:NEUT:ACC 
+\par *CHX:\tab da.
+\par *MAM:\tab davaj my Katju narisuem.
+\par %mra:\tab PTL|davaj  PRO|my&-PL:NOM N|katja&ANI:FEM-SG:ACC V|narisovat'&PFV:TRANS-FUT:1P 
+\par *CHX:\tab mm.
+\par *MAM:\tab raz, dva, glaz, dva, nos.
+\par %mra:\tab NUM|raz&SG:NOM NUM|dva&-NOM N|glaz&INANI:MASC-SG:NOM NUM|dva&-NOM N|nos&INANI:MASC-SG:NOM 
+\par *MAM:\tab vidish', e~to rot?
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PRO|e~tot&-SG:NEUT:NOM N|rot&INANI:MASC-SG:NOM 
+\par %sit:\tab Katja prizhalas' k mame.
+\par *CHI:\tab &me~e~, koljuchaja kakaja mama.
+\par %mor:\tab &me~e~ ADJ|koljuchij&-SG:FEM:NOM PRO|kakoj&-SG:FEM:NOM N|mama&ANI:FEM-SG:NOM 
+\par *MAM:\tab ja ne koljuchaja, razve ja koljuchaja?
+\par %mra:\tab PRO|ja&-SG:NOM PTL|ne ADJ|koljuchij&-SG:FEM:NOM PTL|razve PRO|ja&-SG:NOM ADJ|koljuchij&-SG:FEM:NOM 
+\par *CHX:\tab &o-o+/.
+\par *MAM:\tab u menja zhe netu borody?
+\par %mra:\tab PREP|u PRO|ja&-SG:GEN PTL|zhe PRED|netu N|boroda&INANI:FEM-SG:GEN 
+\par %sit:\tab Katja beret karandash.
+\par *CHI:\tab ja budu tak, glaz [2], tochka, zapjataja.
+\par %mor:\tab PRO|ja&-SG:NOM V|byt'&IMPF:INTRANS-PRES:1S ADV|tak N|glaz&INANI:MASC-SG:NOM N|tochka&INANI:FEM-SG:NOM N|zapjataja&INANI:FEM-SG:NOM 
+\par *CHI:\tab tochka [2], zapjataja [2].
+\par %mor:\tab N|tochka&INANI:FEM-SG:NOM N|zapjataja&INANI:FEM-SG:NOM 
+\par *CHI:\tab vidish', netu mal'chika takogo, kak pesenka poet, kak, &mm, u Jany.
+\par %mor:\tab V|videt'&IMPF:TRANS-PRES:2S PRED|netu N|mal'chik&ANI:MASC-SG:GEN PRO|takoj&-SG:MASC:GEN CONJ|kak N|pesenka&INANI:FEM-SG:NOM V|pet'&IMPF:TRANS-PRES:3S CONJ|kak &mm PREP|u N|jana&ANI:FEM-SG:GEN 
+\par *MAM:\tab chego u tebja netu, kak u Jany?
+\par %mra:\tab PRO|chto&-SG:GEN PREP|u PRO|ty&-SG:GEN PRED|netu CONJ|kak PREP|u N|jana&ANI:FEM-SG:GEN 
+\par *CHI:\tab net u menja+//.
+\par %mor:\tab PRED|net PREP|u PRO|ja&-SG:GEN_menja+// 
+\par *CHI:\tab ja [2] plachu, da, Jana+//.
+\par %mor:\tab PRO|ja&-SG:NOM V|plakat'&IMPF:INTRANS-PRES:1S PTL|da N|jana&ANI:FEM-SG:NOM_jana+// 
+\par *CHI:\tab uexala Jana, ja plachu.
+\par %mor:\tab V|uexat'&PFV:INTRANS-PAST:SG:FEM N|jana&ANI:FEM-SG:NOM PRO|ja&-SG:NOM V|plakat'&IMPF:INTRANS-PRES:1S 
+\par *MAM:\tab tak pochemu ty plachesh'?
+\par %mra:\tab CONJ|tak ADV|pochemu PRO|ty&-SG:NOM V|plakat'&IMPF:INTRANS-PRES:2S 
+\par *CHI:\tab potomu chto Jana uexala moja.
+\par %mor:\tab CONJ|potomu chto  N|jana&ANI:FEM-SG:NOM V|uexat'&PFV:INTRANS-PAST:SG:FEM PRO|moj&-SG:FEM:NOM 
+\par *MAM:\tab da ona ne tvoja, ona zh k nam nenadolgo tol'ko priezzhala i vse.
+\par %mra:\tab PTL|da PRO|on&-SG:FEM:NOM PTL|ne PRO|tvoj&-SG:FEM:NOM PRO|on&-SG:FEM:NOM PTL|zh PREP|k PRO|my&-PL:DAT ADV|nenadolgo PTL|tol'ko V|priezzhat'&IMPF:INTRANS-PAST:SG:FEM CONJ|i PRO|ves'&-SG:NEUT:NOM 
+\par *CHI:\tab a gde Jana?
+\par %mor:\tab CONJ|a ADV|gde N|jana&ANI:FEM-SG:NOM 
+\par *MAM:\tab ona doma u sebja, my s nej poigrali i vse, xvatit.
+\par %mra:\tab PRO|on&-SG:FEM:NOM ADV|doma PREP|u PRO|sebja&-SG:GEN PRO|my&-PL:NOM PREP|s PRO|on&-SG:FEM:INSTR V|poigrat'&PFV:TRANS-PAST:PL CONJ|i PRO|ves'&-SG:NEUT:NOM V|xvatit'&PFV:INTRANS-FUT:3S 
+\par *CHI:\tab a chego ona tuda poshla?
+\par %mor:\tab PTL|a ADV|chego PRO|on&-SG:FEM:NOM ADV|tuda V|pojti&PFV:INTRANS-PAST:SG:FEM 
+\par *MAM:\tab ona poexala k sebe domoj, v drugoj gorod.
+\par %mra:\tab PRO|on&-SG:FEM:NOM V|poexat'&PFV:INTRANS-PAST:SG:FEM PREP|k PRO|sebja&-SG:DAT ADV|domoj PREP|v PRO|drugoj&-SG:MASC:ACC N|gorod&INANI:MASC-SG:ACC 
+\par *CHI:\tab a chego, k Majklu?
+\par %mor:\tab PTL|a ADV|chego PREP|k N|majkl&ANI:MASC-SG:DAT 
+\par *MAM:\tab net, ej v shkolu nado, # u nee brat'ja, sestrichki est'.
+\par %mra:\tab PTL|net PRO|on&-SG:FEM:DAT PREP|v N|shkola&INANI:FEM-SG:ACC PRED|nado PREP|u PRO|on&-SG:FEM:GEN N|brat&ANI:MASC-PL:NOM N|sestrichka&ANI:FEM-PL:NOM V|byt'&IMPF:INTRANS-PRES:3S_est' 
+\par *CHI:\tab kakie?
+\par %mor:\tab PRO|kakoj&-PL:NOM 
+\par *MAM:\tab odin brat i chetyre sestry u nee.
+\par %mra:\tab NUM|odin&-SG:MASC:NOM N|brat&ANI:MASC-SG:NOM CONJ|i NUM|chetyre&-NOM N|sestra&ANI:FEM-SG:GEN PREP|u PRO|on&-SG:FEM:GEN 
+\par *MAM:\tab oj, tri sestry.
+\par %mra:\tab INTERJ|oj NUM|tri&-NOM N|sestra&ANI:FEM-SG:GEN 
+\par *MAM:\tab odin brat u nee eshche i tri sestry, vsego ix pjat' chelovek v sem'e, pjat' detej+/
+\par %mra:\tab NUM|odin&-SG:MASC:NOM N|brat&ANI:MASC-SG:NOM PREP|u PRO|on&-SG:FEM:GEN ADV|eshche  CONJ|i NUM|tri&-NOM N|sestra&ANI:FEM-SG:GEN PRO|ves'&-SG:MASC:GEN PRO|on&-PL:GEN NUM|pjat'&-NOM N|chelovek&ANI:MASC-SG:NOM PREP|
+v N|sem'ja&INANI:FEM-SG:LOC NUM|pjat'&-NOM N|rebenok&ANI:MASC-PL:GEN_detej+/ 
+\par *CHI:\tab a chego+/?
+\par %mor:\tab CONJ|a ADV|chego_chego+/ 
+\par *MAM:\tab tak mnogo rodilos'.
+\par %mra:\tab ADV|tak ADV|mnogo V|rodit'sja&:INTRANS-PAST:SG:NEUT 
+\par %sit:\tab Katja beret knigu.
+\par *CHI:\tab xxx, ja sama istoriju pochitaju.
+\par %mor:\tab XXX|xxx  PRO|ja&-SG:NOM PRO|sam&-SG:FEM:NOM N|istorija&INANI:FEM-SG:ACC V|pochitat'&PFV:TRANS-FUT:1S 
+\par *MAM:\tab nu davaj, pochitaj sama istoriju.
+\par %mra:\tab PTL|nu PTL|davaj  V|pochitat'&PFV:TRANS-IMP:SG PRO|sam&-SG:FEM:NOM N|istorija&INANI:FEM-SG:ACC 
+\par *CHI:\tab &xe~e~, kakaja istorija.
+\par %mor:\tab &xe~e~ PRO|kakoj&-SG:FEM:NOM N|istorija&INANI:FEM-SG:NOM 
+\par %sit:\tab Katja otkryvaet knigu.
+\par *CHI:\tab xm, ne ponimaju.
+\par %mor:\tab INTERJ|xm PTL|ne V|ponimat'&IMPF:TRANS-PRES:1S 
+\par *CHI:\tab zhila-byla starushka.
+\par %mor:\tab V|zhit'&IMPF:INTRANS-PAST:SG:FEM_zhila-byla N|starushka&ANI:FEM-SG:NOM 
+\par *CHI:\tab ja ne ponimaju, zhila-byla starushka+/.
+\par %mor:\tab PRO|ja&-SG:NOM PTL|ne V|ponimat'&IMPF:TRANS-PRES:1S V|zhit'&IMPF:INTRANS-PAST:SG:FEM_zhila-byla N|starushka&ANI:FEM-SG:NOM_starushka+/ 
+\par *MAM:\tab e~to drugaja istorija, e~to ne pro starushku.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PRO|drugoj&-SG:FEM:NOM N|istorija&INANI:FEM-SG:NOM PRO|e~tot&-SG:NEUT:NOM PTL|ne PREP|pro N|starushka&ANI:FEM-SG:ACC 
+\par *MAM:\tab e~to, vidish', pro kogo?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM V|videt'&IMPF:TRANS-PRES:2S PREP|pro PRO|kto&-SG:ACC 
+\par *MAM:\tab pro devochku.
+\par %mra:\tab PREP|pro N|devochka&ANI:FEM-SG:ACC 
+\par *CHX:\tab da.
+\par *MAM:\tab devochka zhila-byla, ona v sadu dnem guljala.
+\par %mra:\tab N|devochka&ANI:FEM-SG:NOM V|zhit'&IMPF:INTRANS-PAST:SG:FEM_zhila-byla PRO|on&-SG:FEM:NOM PREP|v N|sad&INANI:MASC-SG:LOC ADV|dnem V|guljat'&IMPF:INTRANS-PAST:SG:FEM 
+\par *MAM:\tab s kem ona guljala, &m?
+\par %mra:\tab PREP|s PRO|kto&-SG:INSTR PRO|on&-SG:FEM:NOM V|guljat'&IMPF:INTRANS-PAST:SG:FEM &m  
+\par *CHI:\tab vot+/.
+\par %mor:\tab PTL|vot_vot+/ 
+\par *MAM:\tab s mishkoj so svoim, vidish'?
+\par %mra:\tab PREP|s N|mishka&ANI:MASC-SG:INSTR PREP|so PRO|svoj&-SG:MASC:INSTR V|videt'&IMPF:TRANS-PRES:2S 
+\par *CHX:\tab da.
+\par *MAM:\tab i kormila ego xlebom.
+\par %mra:\tab CONJ|i V|kormit'&IMPF:TRANS-PAST:SG:FEM PRO|on&-SG:MASC:ACC N|xleb&INANI:MASC-SG:INSTR 
+\par *MAM:\tab sejchas vot pokormit ego xlebom, poguljajut oni, poigrajut, potom on pop'et chaj, potom ona ego ulozhit spat'.
+\par %mra:\tab ADV|sejchas PTL|vot V|pokormit'&PFV:TRANS-FUT:3S PRO|on&-SG:MASC:ACC N|xleb&INANI:MASC-SG:INSTR V|poguljat'&
+PFV:INTRANS-FUT:3P PRO|on&-PL:NOM V|poigrat'&PFV:TRANS-FUT:3P ADV|potom PRO|on&-SG:MASC:NOM V|popit'&PFV:TRANS-FUT:3S N|chaj&INANI:MASC-SG:ACC ADV|potom PRO|on&-SG:FEM:NOM PRO|on&-SG:MASC:ACC V|ulozhit'&PFV:TRANS-FUT:3S V|spat'&IMPF:INTRANS-INF 
+\par %sit:\tab Katja molcha smotrit na kartinku.
+\par *MAM:\tab vidish', tut krovatka stoit.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S ADV|tut N|krovatka&INANI:FEM-SG:NOM V|stojat'&IMPF:INTRANS-PRES:3S 
+\par %sit:\tab mama perevorachivaet stranicu.
+\par *MAM:\tab a zdes' ptichki, e~to mama, a e~to rebenok.
+\par %mra:\tab CONJ|a ADV|zdes' N|ptichka&ANI:FEM-PL:NOM PRO|e~tot&-SG:NEUT:NOM N|mama&ANI:FEM-SG:NOM CONJ|a PRO|e~tot&-SG:NEUT:NOM N|rebenok&ANI:MASC-SG:NOM 
+\par *MAM:\tab chto mama govorit svoemu rebenku?
+\par %mra:\tab PRO|chto&-SG:ACC N|mama&ANI:FEM-SG:NOM V|govorit'&IMPF:TRANS-PRES:3S PRO|svoj&-SG:MASC:DAT N|rebenok&ANI:MASC-SG:DAT 
+\par *CHI:\tab ne padaj.
+\par %mor:\tab PTL|ne V|padat'&IMPF:INTRANS-IMP:SG 
+\par *MAM:\tab pravil'no.
+\par %mra:\tab ADV|pravil'no  
+\par *MAM:\tab a eshche chto?
+\par %mra:\tab CONJ|a ADV|eshche  PRO|chto&-SG:ACC 
+\par *CHI:\tab ja ne znaju.
+\par %mor:\tab PRO|ja&-SG:NOM PTL|ne V|znat'&IMPF:TRANS-PRES:1S 
+\par *MAM:\tab mama-ptichka govorit, ostorozhno, kogda budesh' vyletat' iz gnezda.
+\par %mra:\tab N|mama&ANI:FEM-SG:NOM_mama-ptichka V|govorit'&IMPF:TRANS-PRES:3S ADV|ostorozhno ADV|kogda V|byt'&IMPF:INTRANS-PRES:2S V|vyletat'&IMPF:INTRANS-INF PREP|iz N|gnezdo&INANI:NEUT-SG:GEN 
+\par *MAM:\tab posmotri, net li tut sovy?
+\par %mra:\tab V|posmotret'&PFV:TRANS-IMP:SG PRED|net PTL|li ADV|tut N|sova&ANI:FEM-SG:GEN 
+\par *MAM:\tab ona mozhet sxvatit' takix malen'kix ptichek.
+\par %mra:\tab PRO|on&-SG:FEM:NOM V|moch'&IMPF:INTRANS-PRES:3S V|sxvatit'&PFV:TRANS-INF PRO|takoj&-PL:ACC ADJ|malen'kij&-PL:ACC N|ptichka&ANI:FEM-PL:ACC 
+\par %sit:\tab mama pokazyvaet na kartinku.
+\par *MAM:\tab a kto tam szadi edet, posmotri?
+\par %mra:\tab PTL|a PRO|kto&-SG:NOM ADV|tam ADV|szadi V|exat'&IMPF:INTRANS-PRES:3S V|posmotret'&PFV:TRANS-IMP:SG 
+\par *CHI:\tab &me~e~, Sofija.
+\par %mor:\tab &me~e~ N|sofija&ANI:FEM-SG:NOM 
+\par *MAM:\tab e~to Sofija, ty dumaesh'?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM N|sofija&ANI:FEM-SG:NOM PRO|ty&-SG:NOM V|dumat'&IMPF:INTRANS-PRES:2S 
+\par *CHI:\tab da, Sofija.
+\par %mor:\tab PTL|da N|sofija&ANI:FEM-SG:NOM 
+\par *MAM:\tab a na chem ona edet, posmotri-ka+/?
+\par %mra:\tab PTL|a PREP|na PRO|chto&-SG:LOC PRO|on&-SG:FEM:NOM V|exat'&IMPF:INTRANS-PRES:3S V|posmotret'&PFV:TRANS-IMP:SG_posmotri-ka+/ 
+\par *CHI:\tab na velosipede.
+\par %mor:\tab PREP|na N|velosiped&INANI:MASC-SG:LOC 
+\par *MAM:\tab pravil'no.
+\par %mra:\tab ADV|pravil'no  
+\par *MAM:\tab a s kem ona edet?
+\par %mra:\tab PTL|a PREP|s PRO|kto&-SG:INSTR PRO|on&-SG:FEM:NOM V|exat'&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab s mal'chikom.
+\par %mor:\tab PREP|s N|mal'chik&ANI:MASC-SG:INSTR 
+\par *MAM:\tab kak ego zovut?
+\par %mra:\tab ADV|kak PRO|on&-SG:MASC:ACC V|zvat'&IMPF:TRANS-PRES:3P 
+\par *CHI:\tab tozhe Sofija.
+\par %mor:\tab CONJ|tozhe N|sofija&ANI:FEM-SG:NOM 
+\par *MAM:\tab net, u mal'chika ne byvaet takogo imeni, u mal'chikov drugie imena.
+\par %mra:\tab PTL|net PREP|u N|mal'chik&ANI:MASC-SG:GEN PTL|ne V|byvat'&IMPF:INTRANS-PRES:3S PRO|takoj&-SG:MASC:GEN N|imja&INANI:NEUT-SG:GEN PREP|u N|mal'chik&ANI:MASC-PL:GEN PRO|drugoj&-PL:NOM N|imja&INANI:NEUT-PL:NOM 
+\par *MAM:\tab ne znaesh', kak ego zovut?
+\par %mra:\tab PTL|ne V|znat'&IMPF:TRANS-PRES:2S ADV|kak PRO|on&-SG:MASC:ACC V|zvat'&IMPF:TRANS-PRES:3P 
+\par *CHX:\tab net [2].
+\par *MAM:\tab naprimer, ego mogut zvat' Volodja.
+\par %mra:\tab PTV|naprimer PRO|on&-SG:MASC:ACC V|moch'&IMPF:INTRANS-PRES:3P V|zvat'&IMPF:TRANS-INF N|volodja&ANI:MASC-SG:NOM 
+\par *CHI:\tab Volodja ego zovut [2].
+\par %mor:\tab N|volodja&ANI:MASC-SG:NOM PRO|on&-SG:MASC:ACC V|zvat'&IMPF:TRANS-PRES:3P 
+\par *CHI:\tab tak ego zovut, Volodja ego zovut.
+\par %mor:\tab ADV|tak PRO|on&-SG:MASC:ACC V|zvat'&IMPF:TRANS-PRES:3P N|volodja&ANI:MASC-SG:NOM PRO|on&-SG:MASC:ACC V|zvat'&IMPF:TRANS-PRES:3P 
+\par *MAM:\tab e~to drugoj mal'chik, on edet na velosipede i vezet svoix zverej.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PRO|drugoj&-SG:MASC:NOM N|mal'chik&ANI:MASC-SG:NOM PRO|on&-SG:MASC:NOM V|exat'&IMPF:INTRANS-PRES:3S PREP|na N|velosiped&INANI:MASC-SG:LOC CONJ|i V|vezti&IMPF:TRANS-PRES:3S PRO|svoj&-PL:ACC N|zver'&ANI:MASC-PL:ACC 
+\par *MAM:\tab vidish', vot ego tut zveri vse, na telezhke.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PTL|vot PRO|on&-SG:MASC:GEN ADV|tut N|zver'&ANI:MASC-PL:NOM PRO|ves'&-PL:NOM PREP|na N|telezhka&INANI:FEM-SG:LOC 
+\par *MAM:\tab a zdes', oni vse po odnomu narisovany i kazhdyj zver' chego-to delaet.
+\par %mra:\tab CONJ|a ADV|zdes' PRO|on&-PL:NOM PRO|ves'&-PL:NOM PREP|po NUM|odin&-SG:MASC:DAT PART|narisovat'&PASS:PAST-PL CONJ|i PRO|kazhdyj&-SG:MASC:NOM N|zver'&ANI:MASC-SG:NOM PRO|chto&-SG:GEN_chego-to V|delat'&IMPF:TRANS-PRES:3S 
+\par *MAM:\tab chto oni delajut, zveri?
+\par %mra:\tab PRO|chto&-SG:ACC PRO|on&-PL:NOM V|delat'&IMPF:TRANS-PRES:3P N|zver'&ANI:MASC-PL:NOM 
+\par *CHI:\tab oblizyvajut nos.
+\par %mor:\tab V|oblizyvat'&IMPF:TRANS-PRES:3P N|nos&INANI:MASC-SG:ACC 
+\par %sit:\tab Katja vysovyvaet jazyk.
+\par *MAM:\tab kto e~to oblizyvaet chashku?
+\par %mra:\tab PRO|kto&-SG:NOM PTL|e~to V|oblizyvat'&IMPF:TRANS-PRES:3S N|chashka&INANI:FEM-SG:ACC 
+\par *CHI:\tab sobaka.
+\par %mor:\tab N|sobaka&ANI:FEM-SG:NOM 
+\par *MAM:\tab pravil'no.
+\par %mra:\tab ADV|pravil'no  
+\par *MAM:\tab vidish', ona chashku lizhet.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PRO|on&-SG:FEM:NOM N|chashka&INANI:FEM-SG:ACC V|lizat'&IMPF:TRANS-PRES:3S 
+\par *CHI:\tab pochemu ona lizhet?
+\par %mor:\tab ADV|pochemu PRO|on&-SG:FEM:NOM V|lizat'&IMPF:TRANS-PRES:3S 
+\par *MAM:\tab molochko p'et.
+\par %mra:\tab N|molochko&INANI:NEUT-SG:ACC V|pit'&IMPF:TRANS-PRES:3S 
+\par %sit:\tab mama perevorachivaet stranicu.
+\par *MAM:\tab davaj dal'she smotret'.
+\par %mra:\tab PTL|davaj  ADV|dal'she V|smotret'&IMPF:TRANS-INF 
+\par *MAM:\tab o, a e~to sovsem malen'kij shchenok eshche.
+\par %mra:\tab INTERJ|o CONJ|a PRO|e~tot&-SG:NEUT:NOM ADV|sovsem ADJ|malen'kij&-SG:MASC:NOM N|shchenok&ANI:MASC-SG:NOM ADV|eshche  
+\par *MAM:\tab vidish', on eshche xodit' ne mozhet kak sleduet.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PRO|on&-SG:MASC:NOM ADV|eshche  V|xodit'&IMPF:INTRANS-INF PTL|ne V|moch'&IMPF:INTRANS-PRES:3S CONJ|kak V|sledovat'&IMPF:INTRANS-PRES:3S 
+\par *MAM:\tab chto on tut delaet, posmotri-ka?
+\par %mra:\tab PRO|chto&-SG:ACC PRO|on&-SG:MASC:NOM ADV|tut V|delat'&IMPF:TRANS-PRES:3S V|posmotret'&PFV:TRANS-IMP:SG_posmotri-ka 
+\par %sit:\tab Katja molcha smotrit na kartinku.
+\par *MAM:\tab nu-ka, rasskazhi mne.
+\par %mra:\tab PTL|nu_nu-ka V|rasskazat'&PFV:TRANS-IMP:SG PRO|ja&-SG:DAT 
+\par *MAM:\tab vnachale on poshel xxx, reshil pojti vniz po stupen'kam.
+\par %mra:\tab ADV|vnachale PRO|on&-SG:MASC:NOM V|pojti&PFV:INTRANS-PAST:SG:MASC XXX|xxx  V|reshit'&PFV:TRANS-PAST:SG:MASC V|pojti&PFV:INTRANS-INF ADV|vniz PREP|po N|stupen'ka&INANI:FEM-PL:DAT 
+\par *MAM:\tab i poskol'znulsja i svalilsja, vidish'?
+\par %mra:\tab CONJ|i V|poskol'znut'sja&PFV:INTRANS-PAST:SG:MASC CONJ|i V|svalit'sja&PFV:INTRANS-PAST:SG:MASC V|videt'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab prjamo mordoj vniz.
+\par %mra:\tab PTL|prjamo N|morda&INANI:FEM-SG:INSTR ADV|vniz 
+\par %sit:\tab mama prodolzhaet rasskaz.
+\par *MAM:\tab potom uvidel tufel'ku maminu i stal ee gryzt'.
+\par %mra:\tab ADV|potom V|uvidet'&PFV:TRANS-PAST:SG:MASC N|tufel'ka&INANI:FEM-SG:ACC ADJ|mamin&-SG:FEM:ACC CONJ|i V|stat'&PFV:INTRANS-PAST:SG:MASC PRO|on&-SG:FEM:ACC V|gryzt'&IMPF:TRANS-INF 
+\par *MAM:\tab pogryz-pogryz i uvidel noski za dver'ju.
+\par %mra:\tab V|pogryzt'&PFV:TRANS-PAST:SG:MASC_pogryz-pogryz CONJ|i V|uvidet'&PFV:TRANS-PAST:SG:MASC N|nosok&INANI:MASC-PL:ACC PREP|za N|dver'&INANI:FEM-SG:INSTR 
+\par *MAM:\tab obnjuxal e~ti noski vse i potom uvidel+//?
+\par %mra:\tab V|obnjuxat'&PFV:TRANS-PAST:SG:MASC PRO|e~tot&-PL:NOM N|nosok&INANI:MASC-PL:ACC PRO|ves'&-PL:ACC CONJ|i ADV|potom V|uvidet'&PFV:TRANS-PAST:SG:MASC_uvidel+// 
+\par *CHI:\tab porosenka.
+\par %mor:\tab N|porosenok&ANI:MASC-SG:ACC 
+\par *MAM:\tab kogo?
+\par %mra:\tab PRO|kto&-SG:ACC 
+\par *CHX:\tab porosenka.
+\par *MAM:\tab kto e~to, e~to kukla.
+\par %mra:\tab PRO|kto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM PRO|e~tot&-SG:NEUT:NOM N|kukla&INANI:FEM-SG:NOM 
+\par *CHX:\tab kukla.
+\par *MAM:\tab kuklu on uvidel, chto on delaet s e~toj kukloj?
+\par %mra:\tab N|kukla&INANI:FEM-SG:ACC PRO|on&-SG:MASC:NOM V|uvidet'&PFV:TRANS-PAST:SG:MASC PRO|chto&-SG:ACC PRO|on&-SG:MASC:NOM V|delat'&IMPF:TRANS-PRES:3S PREP|s PRO|e~tot&-SG:FEM:INSTR N|kukla&INANI:FEM-SG:INSTR 
+\par *CHI:\tab igraet xxx.
+\par %mor:\tab V|igrat'&IMPF:TRANS-PRES:3S XXX|xxx  
+\par *MAM:\tab sxvatil ee, vidish', kuklu i neset ee kuda-to, neponjatno kuda.
+\par %mra:\tab V|sxvatit'&PFV:TRANS-PAST:SG:MASC PRO|on&-SG:FEM:ACC V|videt'&IMPF:TRANS-PRES:2S N|kukla&INANI:FEM-SG:ACC CONJ|i V|nesti&IMPF:TRANS-PRES:3S PRO|on&-SG:FEM:ACC ADV|kuda_kuda-to ADV|neponjatno ADV|kuda 
+\par %sit:\tab mama perevorachivaet stranicu.
+\par *MAM:\tab a dal'she, posmotri-ka.
+\par %mra:\tab CONJ|a ADV|dal'she V|posmotret'&PFV:TRANS-IMP:SG_posmotri-ka 
+\par *MAM:\tab e~to chto, znaesh', za rastenie takoe ili+/?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PRO|chto&-SG:NOM V|znat'&IMPF:TRANS-PRES:2S PREP|za N|rastenie&INANI:NEUT-SG:NOM PRO|takoj&-SG:NEUT:NOM CONJ|ili_ili+/ 
+\par *CHI:\tab koljuchki.
+\par %mor:\tab N|koljuchka&INANI:FEM-PL:NOM 
+\par *MAM:\tab koljuchki, na kakom rastenii koljuchki?
+\par %mra:\tab N|koljuchka&INANI:FEM-PL:NOM PREP|na PRO|kakoj&-SG:NEUT:LOC N|rastenie&INANI:NEUT-SG:LOC N|koljuchka&INANI:FEM-PL:NOM 
+\par *CHI:\tab na zemle rastut.
+\par %mor:\tab PREP|na N|zemlja&INANI:FEM-SG:LOC V|rasti&IMPF:TRANS-PRES:3P 
+\par *MAM:\tab na kaktuse, e~to kaktus.
+\par %mra:\tab PREP|na N|kaktus&INANI:MASC-SG:LOC PRO|e~tot&-SG:NEUT:NOM N|kaktus&INANI:MASC-SG:NOM 
+\par *CHX:\tab kaktus?
+\par *MAM:\tab da, takoe rastenie, kaktus, vse koljuchee.
+\par %mra:\tab PTL|da PRO|takoj&-SG:NEUT:NOM N|rastenie&INANI:NEUT-SG:NOM N|kaktus&INANI:MASC-SG:NOM PRO|ves'&-SG:NEUT:NOM ADJ|koljuchij&-SG:NEUT:NOM 
+\par *MAM:\tab on xotel do nego dotronut'sja i ukolol sebe lapu, vidish', kak bol'no?
+\par %mra:\tab PRO|on&-SG:MASC:NOM V|xotet'&IMPF:INTRANS-PAST:SG:MASC PREP|do PRO|on&-SG:MASC:GEN V|dotronut'sja&PFV:INTRANS-INF CONJ|i V|ukolot'&PFV:TRANS-PAST:SG:MASC PRO|sebja&-SG:DAT N|lapa&INANI:FEM-SG:ACC V|videt'&IMPF:TRANS-PRES:2S ADV|kak PRED|bol'no 
+
+\par *MAM:\tab otdernul lapu, von emu kak bol'no.
+\par %mra:\tab V|otdernut'&PFV:TRANS-PAST:SG:MASC N|lapa&INANI:FEM-SG:ACC PTL|von PRO|on&-SG:MASC:DAT ADV|kak PRED|bol'no 
+\par *CHI:\tab koljuchki, koljuchka, koljuchki potomu chto.
+\par %mor:\tab N|koljuchka&INANI:FEM-PL:NOM N|koljuchka&INANI:FEM-SG:NOM N|koljuchka&INANI:FEM-PL:NOM CONJ|potomu chto  
+\par *CHX:\tab xxx.
+\par %sit:\tab Katja pokazyvaet na kartinku.
+\par *CHI:\tab von lebedi.
+\par %mor:\tab ADV|von N|lebed'&ANI:MASC-PL:NOM 
+\par *MAM:\tab gde lebedi?
+\par %mra:\tab ADV|gde N|lebed'&ANI:MASC-PL:NOM 
+\par *CHI:\tab vot+/.
+\par %mor:\tab ADV|vot_vot+/ 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab vot lebedi.
+\par %mor:\tab ADV|vot N|lebed'&ANI:MASC-PL:NOM 
+\par *CHI:\tab vot oslik vot+/.
+\par %mor:\tab ADV|vot N|oslik&ANI:MASC-SG:NOM PTL|vot_vot+/ 
+\par *MAM:\tab e~to mama, vidish'?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM N|mama&ANI:FEM-SG:NOM V|videt'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab mama-oslik i u nee kto?
+\par %mra:\tab N|mama&ANI:FEM-SG:NOM_mama-oslik CONJ|i PREP|u PRO|on&-SG:FEM:GEN PRO|kto&-SG:NOM 
+\par *CHI:\tab tozhe osliki+/.
+\par %mor:\tab CONJ|tozhe N|oslik&ANI:MASC-PL:NOM_osliki+/ 
+\par *MAM:\tab dva oslenka.
+\par %mra:\tab NUM|dva&-NOM N|oslenok&ANI:MASC-SG:GEN 
+\par *MAM:\tab e~to mama-lebed' i u nee malen'kie, kto?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM N|mama&ANI:FEM-SG:NOM_mama-lebed' CONJ|i PREP|u PRO|on&-SG:FEM:GEN ADJ|malen'kij&-PL:NOM PRO|kto&-SG:NOM 
+\par %com:\tab Katja chixaet.
+\par *CHX:\tab xxx.
+\par *MAX:\tab &mgg.
+\par *CHI:\tab kakie sopli.
+\par %mor:\tab PRO|kakoj&-PL:NOM N|sopli&INANI-PL:NOM 
+\par *MAM:\tab oj.
+\par %mra:\tab INTERJ|oj 
+\par *CHX:\tab xxx.
+\par *MAM:\tab gde kapjushon?
+\par %mra:\tab ADV|gde N|kapjushon&INANI:MASC-SG:NOM 
+\par *CHI:\tab a gde kapjushon [2]+/?
+\par %mor:\tab CONJ|a ADV|gde N|kapjushon&INANI:MASC-SG:NOM 
+\par *MAM:\tab ja dumala, ty govorish' chto-to mne pro kapjushon?
+\par %mra:\tab PRO|ja&-SG:NOM V|dumat'&IMPF:INTRANS-PAST:SG:FEM PRO|ty&-SG:NOM V|govorit'&IMPF:TRANS-PRES:2S PRO|chto&-SG:ACC_chto-to PRO|ja&-SG:DAT PREP|pro N|kapjushon&INANI:MASC-SG:ACC 
+\par *CHX:\tab kapjushon.
+\par *MAM:\tab tut est' kapjushon gde-nibud'?
+\par %mra:\tab ADV|tut V|byt'&IMPF:INTRANS-PRES:3S_est' N|kapjushon&INANI:MASC-SG:NOM ADV|gde_gde-nibud' 
+\par *CHX:\tab netu.
+\par *MAM:\tab ja ne vizhu kapjushona.
+\par %mra:\tab PRO|ja&-SG:NOM PTL|ne V|videt'&IMPF:TRANS-PRES:1S N|kapjushon&INANI:MASC-SG:GEN 
+\par *MAM:\tab ja vizhu tol'ko, chto tut sidit devochka na divane, vidish', na odejale i chitaet knizhku # koshke svoej, vidish'?
+\par %mra:\tab PRO|ja&-SG:NOM V|videt'&IMPF:TRANS-PRES:1S CONJ|
+tol'ko CONJ|chto ADV|tut V|sidet'&IMPF:INTRANS-PRES:3S N|devochka&ANI:FEM-SG:NOM PREP|na N|divan&INANI:MASC-SG:LOC V|videt'&IMPF:TRANS-PRES:2S PREP|na N|odejalo&INANI:NEUT-SG:LOC CONJ|i V|chitat'&IMPF:TRANS-PRES:3S N|knizhka&INANI:FEM-SG:ACC N|koshka&ANI:
+FEM-SG:DAT PRO|svoj&-SG:FEM:DAT V|videt'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab a koshka uvidela tut narisovannuju babochku i dumaet, chto e~to babochka nastojashchaja i xochet ee lapoj tak sxvatit'.
+\par %mra:\tab CONJ|a N|koshka&ANI:FEM-SG:NOM V|uvidet'&PFV:TRANS-PAST:SG:FEM A
+DV|tut PART|narisovat'&PASS:PAST-SG:FEM:ACC N|babochka&ANI:FEM-SG:ACC CONJ|i V|dumat'&IMPF:INTRANS-PRES:3S CONJ|chto PRO|e~tot&-SG:NEUT:NOM N|babochka&ANI:FEM-SG:NOM ADJ|nastojashchij&-SG:FEM:NOM CONJ|i V|xotet'&IMPF:INTRANS-PRES:3S PRO|on&-SG:FEM:ACC N|l
+apa&INANI:FEM-SG:INSTR ADV|tak V|sxvatit'&PFV:TRANS-INF 
+\par %sit:\tab Katja pokazyvaet na kartinku.
+\par *CHI:\tab vot majskij [2] zhuk xxx.
+\par %mor:\tab PTL|vot ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM XXX|xxx  
+\par *MAM:\tab da, e~to vot majskij zhuk, pravil'no.
+\par %mra:\tab PTL|da PRO|e~tot&-SG:NEUT:NOM PTL|vot ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM ADV|pravil'no  
+\par %sit:\tab Katja idet za drugoj knigoj.
+\par *CHI:\tab ja tebe sejchas eshche vot takoj@errpro- bol'shoj@erradj- majskij@erradj- [2] zhuk@errn-.
+\par %mor:\tab PRO|ja&-SG:NOM PRO|ty&-SG:DAT ADV|sejchas ADV|eshche  PTL|vot PRO|takoj&-SG:MASC:NOM@errpro- ADJ|bol'shoj&-SG:MASC:NOM@erradj- ADJ|majskij&-SG:MASC:NOM@erradj- N|zhuk&ANI:MASC-SG:NOM@errn- 
+\par *CHI:\tab tebe pokazhu, gde majskij zhuk.
+\par %mor:\tab PRO|ty&-SG:DAT V|pokazat'&PFV:TRANS-FUT:1S ADV|gde ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM 
+\par *MAM:\tab Katja skazala, sejchas tebe pokazhu eshche, gde majskij zhuk.
+\par %mra:\tab N|katja&ANI:FEM-SG:NOM V|skazat'&PFV:TRANS-PAST:SG:FEM ADV|sejchas PRO|ty&-SG:DAT V|pokazat'&PFV:TRANS-FUT:1S ADV|eshche  ADV|gde ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM 
+\par *MAM:\tab gde majskij zhuk eshche?
+\par %mra:\tab ADV|gde ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM ADV|eshche  
+\par %sit:\tab Katja vozvrashchaetsja s knigoj.
+\par *CHI:\tab vot on, tam xxx, navernoe.
+\par %mor:\tab ADV|vot PRO|on&-SG:MASC:NOM ADV|tam XXX|xxx  PTV|navernoe 
+\par %sit:\tab Katja listaet knigu.
+\par *CHI:\tab tam dal'she, vidish', smotri, tam dal'she on.
+\par %mor:\tab ADV|tam ADV|dal'she V|videt'&IMPF:TRANS-PRES:2S V|smotret'&IMPF:TRANS-IMP:SG ADV|tam ADV|dal'she PRO|on&-SG:MASC:NOM 
+\par *MAM:\tab listaesh' ty knizhku?
+\par %mra:\tab V|listat'&IMPF:TRANS-PRES:2S PRO|ty&-SG:NOM N|knizhka&INANI:FEM-SG:ACC 
+\par *MAM:\tab davaj listaj.
+\par %mra:\tab PTL|davaj  V|listat'&IMPF:TRANS-IMP:SG 
+\par *CHI:\tab tam est' xxx zhuk.
+\par %mor:\tab ADV|tam V|byt'&IMPF:INTRANS-PRES:3S_est' XXX|xxx  N|zhuk&ANI:MASC-SG:NOM 
+\par *MAM:\tab ja poka chto ne vizhu majskogo zhuka.
+\par %mra:\tab PRO|ja&-SG:NOM ADV|poka chto PTL|ne V|videt'&IMPF:TRANS-PRES:1S ADJ|majskij&-SG:MASC:ACC N|zhuk&ANI:MASC-SG:ACC 
+\par *CHX:\tab net, xxx.
+\par *CHI:\tab a ja ishchu majskij@erradj- zhuk@errn-.
+\par %mor:\tab CONJ|a PRO|ja&-SG:NOM V|iskat'&IMPF:TRANS-PRES:1S ADJ|majskij&-SG:MASC:NOM_majskij@erradj- N|zhuk&ANI:MASC-SG:NOM_zhuk@errn- 
+\par *MAM:\tab Katja, ty ishchesh' majskogo zhuka, a ne majskij zhuk.
+\par %mra:\tab N|katja&ANI:FEM-SG:NOM PRO|ty&-SG:NOM V|iskat'&IMPF:TRANS-PRES:2S ADJ|majskij&-SG:MASC:ACC N|zhuk&ANI:MASC-SG:ACC CONJ|a PTL|ne ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM 
+\par *CHI:\tab [mama], ja xochu+//.
+\par %mor:\tab N|mama&ANI:FEM-SG:NOM_[mama] PRO|ja&-SG:NOM V|xotet'&IMPF:INTRANS-PRES:1S_xochu+// 
+\par *CHI:\tab davaj poishchem majskogo zhuka.
+\par %mor:\tab PTL|davaj  V|poiskat'&PFV:TRANS-FUT:1P ADJ|majskij&-SG:MASC:ACC N|zhuk&ANI:MASC-SG:ACC 
+\par *MAM:\tab davaj, kak on vygljadit, kakogo on cveta, davaj smotret'?
+\par %mra:\tab PTL|davaj  CONJ|kak PRO|on&-SG:MASC:NOM V|vygljadet'&IMPF:INTRANS-PRES:3S PRO|kakoj&-SG:MASC:GEN PRO|on&-SG:MASC:NOM N|cvet&INANI:MASC-SG:GEN PTL|davaj  V|smotret'&IMPF:TRANS-INF 
+\par %sit:\tab mama pokazyvaet na kartinku.
+\par *MAM:\tab zdes' est' majskij zhuk?
+\par %mra:\tab ADV|zdes' V|byt'&IMPF:INTRANS-PRES:3S_est' ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM 
+\par *MAM:\tab e~to kto vot zdes' na cvetochke sidit+/?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PRO|kto&-SG:NOM PTL|vot ADV|zdes' PREP|na N|cvetochek&INANI:MASC-SG:LOC V|sidet'&IMPF:INTRANS-PRES:3S_sidit+/ 
+\par *CHI:\tab babochka.
+\par %mor:\tab N|babochka&ANI:FEM-SG:NOM 
+\par *MAM:\tab pravil'no, e~to babochka, a e~to kto?
+\par %mra:\tab ADV|pravil'no  PRO|e~tot&-SG:NEUT:NOM N|babochka&ANI:FEM-SG:NOM CONJ|a PRO|e~tot&-SG:NEUT:NOM PRO|kto&-SG:NOM 
+\par *CHI:\tab ptichka.
+\par %mor:\tab N|ptichka&ANI:FEM-SG:NOM 
+\par *MAM:\tab e~to ptichka, zdes' majskogo zhuka netu.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM N|ptichka&ANI:FEM-SG:NOM ADV|zdes' ADJ|majskij&-SG:MASC:GEN N|zhuk&ANI:MASC-SG:GEN PRED|netu 
+\par %sit:\tab mama perevernula stranicu.
+\par *MAM:\tab tak, zdes' vot tozhe babochka, ja vizhu, sidit na cvetochke, vidish'?
+\par %mra:\tab PTL|tak ADV|zdes' PTL|vot CONJ|tozhe N|babochka&ANI:FEM-SG:NOM PRO|ja&-SG:NOM V|videt'&IMPF:TRANS-PRES:1S V|sidet'&IMPF:INTRANS-PRES:3S PREP|na N|cvetochek&INANI:MASC-SG:LOC V|videt'&IMPF:TRANS-PRES:2S 
+\par *CHX:\tab da.
+\par *MAM:\tab majskogo zhuka tut tozhe netu.
+\par %mra:\tab ADJ|majskij&-SG:MASC:GEN N|zhuk&ANI:MASC-SG:GEN ADV|tut CONJ|tozhe PRED|netu 
+\par *CHI:\tab majskij zhuk tam dal'she.
+\par %mor:\tab ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM ADV|tam ADV|dal'she 
+\par %sit:\tab mama listaet knigu.
+\par *MAM:\tab davaj smotret', tut est' kto-nibud', kto poxozh na zhuka?
+\par %mra:\tab PTL|davaj  V|smotret'&IMPF:TRANS-INF ADV|tut V|byt'&IMPF:INTRANS-PRES:3S_est' PRO|kto&-SG:NOM_kto-nibud' PRO|kto&-SG:NOM ADJ|poxozhij&-SG:MASC PREP|na N|zhuk&ANI:MASC-SG:ACC 
+\par *CHX:\tab net.
+\par *MAM:\tab e~to vot cherepaxa, vidish'?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PTL|vot N|cherepaxa&ANI:FEM-SG:NOM V|videt'&IMPF:TRANS-PRES:2S 
+\par *CHX:\tab da.
+\par *MAM:\tab tozhe ne poxozha, nikto tut ne poxozh.
+\par %mra:\tab CONJ|tozhe PTL|ne ADJ|poxozhij&-SG:FEM PRO|nikto&-SG:NOM ADV|tut PTL|ne ADJ|poxozhij&-SG:MASC 
+\par *MAM:\tab tak, na sledujushchej stranice, chto my vidim?
+\par %mra:\tab PTL|tak PREP|na ADJ|sledujushchij&-SG:FEM:LOC N|stranica&INANI:FEM-SG:LOC PRO|chto&-SG:ACC PRO|my&-PL:NOM V|videt'&IMPF:TRANS-PRES:1P 
+\par *MAM:\tab vidish', djadja tut nalivaet chajnik, oj, iz chajnika nalivaet chaj.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S N|djadja&ANI:MASC-SG:NOM ADV|tut V|nalivat'&IMPF:TRANS-PRES:3S N|chajnik&INANI:MASC-SG:ACC INTERJ|oj PREP|iz N|chajnik&INANI:MASC-SG:GEN V|nalivat'&IMPF:TRANS-PRES:3S N|chaj&INANI:MASC-SG:ACC 
+\par *CHI:\tab ax.
+\par %mor:\tab INTERJ|ax 
+\par *MAM:\tab zhukov tut tozhe netu.
+\par %mra:\tab N|zhuk&ANI:MASC-PL:GEN ADV|tut CONJ|tozhe PRED|netu 
+\par *MAM:\tab esli my perevernem stranicu eshche odnu, to tozhe ne uvidim+//.
+\par %mra:\tab CONJ|esli PRO|my&-PL:NOM V|perevernut'&PFV:TRANS-FUT:1P N|stranica&INANI:FEM-SG:ACC ADV|eshche  NUM|odin&-SG:FEM:ACC CONJ|to CONJ|tozhe PTL|ne V|uvidet'&PFV:TRANS-FUT:1P_uvidim+// 
+\par *MAM:\tab zdes' est' vot tol'ko babochka opjat', kakie-to ljudi i vse.
+\par %mra:\tab ADV|zdes' V|byt'&IMPF:INTRANS-PRES:3S_est' PTL|vot PTL|tol'ko N|babochka&ANI:FEM-SG:NOM ADV|opjat' PRO|kakoj&-PL:NOM_kakie-to N|chelovek&ANI:MASC-PL:NOM CONJ|i PRO|ves'&-SG:NEUT:NOM 
+\par %sit:\tab mama perevernula ocherednuju stranicu.
+\par *MAM:\tab von gde majskij zhuk.
+\par %mra:\tab ADV|von ADV|gde ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM 
+\par *CHI:\tab gde majskij zhuk?
+\par %mor:\tab ADV|gde ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM 
+\par *MAM:\tab nashla?
+\par %mra:\tab V|najti&PFV:TRANS-PAST:SG:FEM 
+\par *CHX:\tab mm.
+\par *MAM:\tab vot e~to poxozhe na zhuka ili net?
+\par %mra:\tab PTL|vot PRO|e~tot&-SG:NEUT:NOM ADJ|poxozhij&-SG:NEUT PREP|na N|zhuk&ANI:MASC-SG:ACC CONJ|ili PTL|net 
+\par *CHX:\tab xxx net.
+\par *MAM:\tab a kto e~to?
+\par %mra:\tab CONJ|a PRO|kto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM 
+\par *CHI:\tab tam, &e~e~, ja ne znaju kto+/.
+\par %mor:\tab ADV|tam &e~e~ PRO|ja&-SG:NOM PTL|ne V|znat'&IMPF:TRANS-PRES:1S PRO|kto&-SG:NOM_kto+/ 
+\par *MAM:\tab oj, e~to poxozhe bol'she na gusenicu.
+\par %mra:\tab INTERJ|oj PRO|e~tot&-SG:NEUT:NOM ADJ|poxozhij&-SG:NEUT ADV|bol'she PREP|na N|gusenica&ANI:FEM-SG:ACC 
+\par *MAM:\tab znachit e~to gusenica, a ne zhuk.
+\par %mra:\tab CONJ|znachit PRO|e~tot&-SG:NEUT:NOM N|gusenica&ANI:FEM-SG:NOM CONJ|a PTL|ne N|zhuk&ANI:MASC-SG:NOM 
+\par *MAM:\tab znachit v e~toj knizhke netu zhuka.
+\par %mra:\tab CONJ|znachit PREP|v PRO|e~tot&-SG:FEM:LOC N|knizhka&INANI:FEM-SG:LOC PRED|netu N|zhuk&ANI:MASC-SG:GEN 
+\par %sit:\tab Katja tjanet knigu.
+\par *MAM:\tab Katja, ty sejchas porvesh' gusenicu.
+\par %mra:\tab N|katja&ANI:FEM-SG:NOM PRO|ty&-SG:NOM ADV|sejchas V|porvat'&PFV:TRANS-FUT:2S N|gusenica&ANI:FEM-SG:ACC 
+\par *MAM:\tab netu tut zhuka, nado posmotret' v drugoj knizhke eshche.
+\par %mra:\tab PRED|netu ADV|tut N|zhuk&ANI:MASC-SG:GEN PRED|nado V|posmotret'&PFV:TRANS-INF PREP|v PRO|drugoj&-SG:FEM:LOC N|knizhka&INANI:FEM-SG:LOC ADV|eshche  
+\par *CHI:\tab a tam est'+/.
+\par %mor:\tab CONJ|a ADV|tam V|byt'&IMPF:INTRANS-PRES:3S_est' 
+\par *MAM:\tab v drugoj, da?
+\par %mra:\tab PREP|v PRO|drugoj&-SG:FEM:LOC PTL|da 
+\par *CHI:\tab est' tam.
+\par %mor:\tab V|byt'&IMPF:INTRANS-PRES:3S_est' ADV|tam 
+\par %sit:\tab Katja snova daet mame knigu.
+\par *MAM:\tab est', vot v e~toj knizhke?
+\par %mra:\tab V|byt'&IMPF:INTRANS-PRES:3S_est' PTL|vot PREP|v PRO|e~tot&-SG:FEM:LOC N|knizhka&INANI:FEM-SG:LOC 
+\par *CHX:\tab da.
+\par *MAM:\tab ty uverena?
+\par %mra:\tab PRO|ty&-SG:NOM V|uverit'&PFV:TRANS-SG:FEM 
+\par *MAM:\tab tak my zhe posmotreli tam vse stranicy i nichego ne nashli.
+\par %mra:\tab CONJ|tak PRO|my&-PL:NOM PTL|zhe V|posmotret'&PFV:TRANS-PAST:PL ADV|tam PRO|ves'&-PL:ACC  N|stranica&INANI:FEM-PL:ACC CONJ|i PRO|nichto&-SG:GEN PTL|ne V|najti&PFV:TRANS-PAST:PL 
+\par *CHX:\tab da.
+\par %sit:\tab Katja idet za drugoj knigoj.
+\par *CHI:\tab sejchas ja xxx.
+\par %mor:\tab ADV|sejchas PRO|ja&-SG:NOM XXX|xxx  
+\par %sit:\tab Katja prinosit knigu.
+\par *MAM:\tab tak, a e~to, chto e~to takoe?
+\par %mra:\tab PTL|tak CONJ|a PRO|e~tot&-SG:NEUT:NOM PRO|chto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM PRO|takoj&-SG:NEUT:NOM 
+\par *MAM:\tab e~to chto ty sdelala?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|sdelat'&PFV:TRANS-PAST:SG:FEM 
+\par *MAM:\tab e~to ty uzhe ischirkala knizhku?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PRO|ty&-SG:NOM ADV|uzhe V|ischirkat'&PFV:TRANS-PAST:SG:FEM N|knizhka&INANI:FEM-SG:ACC 
+\par *CHX:\tab da.
+\par *MAM:\tab a zachem ty ischirkala?
+\par %mra:\tab PTL|a ADV|zachem PRO|ty&-SG:NOM V|ischirkat'&PFV:TRANS-PAST:SG:FEM 
+\par *CHI:\tab potomu chto karandashom.
+\par %mor:\tab CONJ|potomu chto  N|karandash&INANI:MASC-SG:INSTR 
+\par *MAM:\tab a kto tebe razreshaet?
+\par %mra:\tab PTL|a PRO|kto&-SG:NOM PRO|ty&-SG:DAT V|razreshat'&IMPF:TRANS-PRES:3S 
+\par *CHX:\tab xxx.
+\par *MAM:\tab kto?
+\par %mra:\tab PRO|kto&-SG:NOM 
+\par %com:\tab mama vskrikivaet.
+\par *CHI:\tab sama ischirkala.
+\par %mor:\tab PRO|sam&-SG:FEM:NOM V|ischirkat'&PFV:TRANS-PAST:SG:FEM 
+\par *MAM:\tab bezobrazie.
+\par %mra:\tab N|bezobrazie&INANI:NEUT-SG:NOM 
+\par %sit:\tab Katja listaet knigu.
+\par *CHI:\tab sejchas ja najdu+/.
+\par %mor:\tab ADV|sejchas PRO|ja&-SG:NOM V|najti&PFV:TRANS-FUT:1S_najdu+/ 
+\par *MAM:\tab pozhalujsta, na knizhkax bol'she ne chirikaj.
+\par %mra:\tab INTERJ|pozhalujsta PREP|na N|knizhka&INANI:FEM-PL:LOC ADV|bol'she PTL|ne V|chirikat'&IMPF:INTRANS-IMP:SG 
+\par *CHI:\tab ne budu chirikat'.
+\par %mor:\tab PTL|ne V|byt'&IMPF:INTRANS-PRES:1S V|chirikat'&IMPF:INTRANS-INF 
+\par *CHI:\tab ja najdu majskij@erradj- zhuk@errn-.
+\par %mor:\tab PRO|ja&-SG:NOM V|najti&PFV:TRANS-FUT:1S ADJ|majskij&-SG:MASC:NOM_majskij@erradj- N|zhuk&ANI:MASC-SG:NOM_zhuk@errn- 
+\par *MAM:\tab majskogo zhuka.
+\par %mra:\tab ADJ|majskij&-SG:MASC:ACC N|zhuk&ANI:MASC-SG:ACC 
+\par %com:\tab mama popravljaet Katju.
+\par *CHI:\tab majskogo zhuka ja najdu.
+\par %mor:\tab ADJ|majskij&-SG:MASC:ACC N|zhuk&ANI:MASC-SG:ACC PRO|ja&-SG:NOM V|najti&PFV:TRANS-FUT:1S 
+\par *CHI:\tab zdes' est'+/.
+\par %mor:\tab ADV|zdes' V|byt'&IMPF:INTRANS-PRES:3S_est' 
+\par *MAM:\tab net, oni tam v nachale.
+\par %mra:\tab PTL|net PRO|on&-PL:NOM ADV|tam PREP|v N|nachalo&INANI:NEUT-SG:LOC 
+\par *CHI:\tab tam v nachale?
+\par %mor:\tab ADV|tam PREP|v N|nachalo&INANI:NEUT-SG:LOC 
+\par *MAM:\tab tak, davaj.
+\par %mra:\tab PTL|tak PTL|davaj  
+\par *MAM:\tab vidish', e~to devochka, Djujmovochka.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PRO|e~tot&-SG:NEUT:NOM N|devochka&ANI:FEM-SG:NOM N|djujmovochka&ANI:FEM-SG:NOM 
+\par *CHI:\tab e~to pauka@errn-.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM N|pauk&ANI:MASC-SG:GEN_pauka@errn- 
+\par *MAM:\tab chego?
+\par %mra:\tab PTL|chego 
+\par *CHI:\tab zhuk.
+\par %mor:\tab N|zhuk&ANI:MASC-SG:NOM 
+\par %sit:\tab Katja listaet stranicy.
+\par *CHX:\tab netu, net.
+\par *CHI:\tab vot+/.
+\par %mor:\tab ADV|vot_vot+/ 
+\par *MAM:\tab vot zhuk, da.
+\par %mra:\tab ADV|vot N|zhuk&ANI:MASC-SG:NOM PTL|da 
+\par *CHX:\tab da+/.
+\par *MAM:\tab e~to vot majskij zhuk i est'.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PTL|vot ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM PTL|i V|byt'&IMPF:INTRANS-PRES:3S_est' 
+\par *CHX:\tab da.
+\par *MAM:\tab majskij zhuk, vidish', vot on?
+\par %mra:\tab ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM V|videt'&IMPF:TRANS-PRES:2S ADV|vot PRO|on&-SG:MASC:NOM 
+\par *CHX:\tab da.
+\par *MAM:\tab kakoj, vidish', xxx, vidish'?
+\par %mra:\tab PRO|kakoj&-SG:MASC:NOM V|videt'&IMPF:TRANS-PRES:2S XXX|xxx  V|videt'&IMPF:TRANS-PRES:2S 
+\par *CHX:\tab da.
+\par *MAM:\tab vot kakoj majskij zhuk xoroshij.
+\par %mra:\tab PTL|vot PRO|kakoj&-SG:MASC:NOM ADJ|majskij&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM ADJ|xoroshij&-SG:MASC:NOM 
+\par *MAM:\tab xxx kakoj, vidish'?
+\par %mra:\tab XXX|xxx  PRO|kakoj&-SG:MASC:NOM V|videt'&IMPF:TRANS-PRES:2S 
+\par *CHX:\tab da.
+\par *MAM:\tab usy u nego von kakie bol'shie, zuby takie xoroshie.
+\par %mra:\tab N|usy&INANI-PL:NOM PREP|u PRO|on&-SG:MASC:GEN PTL|von PRO|kakoj&-PL:NOM ADJ|bol'shoj&-PL:NOM N|zub&INANI:MASC-PL:NOM PRO|takoj&-PL:NOM ADJ|xoroshij&-PL:NOM 
+\par *CHI:\tab da, smeetsja.
+\par %mor:\tab PTL|da V|smejat'sja&IMPF:INTRANS-PRES:3S 
+\par *MAM:\tab smeetsja, da, nravitsja emu.
+\par %mra:\tab V|smejat'sja&IMPF:INTRANS-PRES:3S PTL|da V|nravit'sja&IMPF:INTRANS-PRES:3S PRO|on&-SG:MASC:DAT 
+\par *CHI:\tab da, a devochku on pones na derevo.
+\par %mor:\tab PTL|da CONJ|a N|devochka&ANI:FEM-SG:ACC PRO|on&-SG:MASC:NOM V|ponesti&PFV:TRANS-PAST:SG:MASC PREP|na N|derevo&INANI:NEUT-SG:ACC 
+\par *MAM:\tab na derevo pones, a zachem on pones ee na derevo?
+\par %mra:\tab PREP|na N|derevo&INANI:NEUT-SG:ACC V|ponesti&PFV:TRANS-PAST:SG:MASC CONJ|a ADV|zachem PRO|on&-SG:MASC:NOM V|ponesti&PFV:TRANS-PAST:SG:MASC PRO|on&-SG:FEM:ACC PREP|na N|derevo&INANI:NEUT-SG:ACC 
+\par *CHI:\tab potomu chto on+//.
+\par %mor:\tab CONJ|potomu chto  PRO|on&-SG:MASC:NOM_on+// 
+\par *CHI:\tab potomu chto on xochet na derevo, tak naverx # xochet.
+\par %mor:\tab CONJ|potomu chto  PRO|on&-SG:MASC:NOM V|xotet'&IMPF:INTRANS-PRES:3S PREP|na N|derevo&INANI:NEUT-SG:ACC ADV|tak ADV|naverx V|xotet'&IMPF:INTRANS-PRES:3S 
+\par *MAM:\tab ochen' ponravilas' zhuku e~ta devochka, da?
+\par %mra:\tab ADV|ochen' V|ponravit'sja&PFV:INTRANS-PAST:SG:FEM N|zhuk&ANI:MASC-SG:DAT PRO|e~tot&-SG:FEM:NOM N|devochka&ANI:FEM-SG:NOM PTL|da 
+\par *CHX:\tab da+/.
+\par *MAM:\tab i on stal svoim druz'jam pokazyvat', zhukam.
+\par %mra:\tab CONJ|i PRO|on&-SG:MASC:NOM V|stat'&PFV:INTRANS-PAST:SG:MASC PRO|svoj&-PL:DAT N|drug&ANI:MASC-PL:DAT V|pokazyvat'&IMPF:TRANS-INF N|zhuk&ANI:MASC-PL:DAT 
+\par *MAM:\tab a zhukam ponravilis'+//?
+\par %mra:\tab CONJ|a N|zhuk&ANI:MASC-PL:DAT V|ponravit'sja&PFV:INTRANS-PAST:PL_ponravilis'+// 
+\par *MAM:\tab ponravilas' devochka?
+\par %mra:\tab V|ponravit'sja&PFV:INTRANS-PAST:SG:FEM N|devochka&ANI:FEM-SG:NOM 
+\par *CHX:\tab da.
+\par *MAM:\tab net, im ne ponravilas', oni govorjat, sovsem ona nekrasivaja.
+\par %mra:\tab PTL|net PRO|on&-PL:DAT PTL|ne V|ponravit'sja&PFV:INTRANS-PAST:SG:FEM PRO|on&-PL:NOM V|govorit'&IMPF:TRANS-PRES:3P ADV|sovsem PRO|on&-SG:FEM:NOM ADJ|nekrasivyj&-SG:FEM:NOM 
+\par *MAM:\tab u nee netu usikov dazhe, vidish'?
+\par %mra:\tab PREP|u PRO|on&-SG:FEM:GEN PRED|netu N|usiki&INANI-PL:GEN PTL|dazhe V|videt'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab i nog malo u nee.
+\par %mra:\tab CONJ|i N|noga&INANI:FEM-PL:GEN PRED|malo PREP|u PRO|on&-SG:FEM:GEN 
+\par %sit:\tab Katja molcha smotrit na kartinku.
+\par *MAM:\tab vidish', ne ponravilas' zhukam.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PTL|ne V|ponravit'sja&PFV:INTRANS-PAST:SG:FEM N|zhuk&ANI:MASC-PL:DAT 
+\par %sit:\tab mama pokazyvaet na kartinku.
+\par *MAM:\tab vidish', e~to lupa, smotrit v lupu e~tot zhuk.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PRO|e~tot&-SG:NEUT:NOM N|lupa&INANI:FEM-SG:NOM V|smotret'&IMPF:TRANS-PRES:3S PREP|v N|lupa&INANI:FEM-SG:ACC PRO|e~tot&-SG:MASC:NOM N|zhuk&ANI:MASC-SG:NOM 
+\par *MAM:\tab on ploxo vidit, ochkov u nego netu, on tak vzjal lupu poe~tomu, v lupu razgljadyvaet.
+\par %mra:\tab PRO|on&-SG:MASC:NOM ADV|ploxo V|videt'&IMPF:TRANS-PRES:3S N|ochki&INANI:PL:GEN PREP|u PRO|on&-SG:MASC:GEN PRED|ne
+tu PRO|on&-SG:MASC:NOM PTL|tak V|vzjat'&PFV:TRANS-PAST:SG:MASC N|lupa&INANI:FEM-SG:ACC ADV|poe~tomu PREP|v N|lupa&INANI:FEM-SG:ACC V|razgljadyvat'&IMPF:TRANS-PRES:3S 
+\par *MAM:\tab sam on tozhe nekrasivyj, vidish', kakoj?
+\par %mra:\tab PRO|sam&-SG:MASC:NOM PRO|on&-SG:MASC:NOM CONJ|tozhe ADJ|nekrasivyj&-SG:MASC:NOM V|videt'&IMPF:TRANS-PRES:2S PRO|kakoj&-SG:MASC:NOM 
+\par *MAM:\tab kakoj-to nos u nego dlinnyj, volosiki tut eshche.
+\par %mra:\tab PRO|kakoj&-SG:MASC:NOM_kakoj-to N|nos&INANI:MASC-SG:NOM PREP|u PRO|on&-SG:MASC:GEN ADJ|dlinnyj&-SG:MASC:NOM N|volosiki&INANI-PL:NOM ADV|tut ADV|eshche  
+\par %sit:\tab Katja listaet knigu dal'she.
+\par *CHI:\tab on <xxx lastochku> [2].
+\par %mor:\tab PRO|on&-SG:MASC:NOM XXX|xxx_<xxx  N|lastochka&ANI:FEM-SG:ACC_lastochku>
+\par *MAM:\tab i lastoch(ka).
+\par %mra:\tab CONJ|i N|lastochka&ANI:FEM-SG:NOM_lastoch(ka) 
+\par *MAM:\tab net, lastochka vot zdes'.
+\par %mra:\tab PTL|net N|lastochka&ANI:FEM-SG:NOM PTL|vot ADV|zdes' 
+\par *MAM:\tab vot, vidish'?
+\par %mra:\tab PTL|vot V|videt'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab a chto s lastochkoj sluchilos'?
+\par %mra:\tab PTL|a PRO|chto&-SG:NOM PREP|s N|lastochka&ANI:FEM-SG:INSTR V|sluchit'sja&PFV:INTRANS-PAST:SG:NEUT 
+\par *CHI:\tab stuchit ono tam, tuk-tuk.
+\par %mor:\tab V|stuchat'&IMPF:INTRANS-PRES:3S PRO|on&-SG:NEUT:NOM ADV|tam ONOM|tuk_tuk-tuk 
+\par *MAM:\tab chto u nee stuchit?
+\par %mra:\tab PRO|chto&-SG:NOM PREP|u PRO|on&-SG:FEM:GEN V|stuchat'&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab tam serde(chko).
+\par %mor:\tab ADV|tam N|serdechko&INANI:NEUT-SG:NOM_serde(chko) 
+\par *CHI:\tab serdechko.
+\par %mor:\tab N|serdechko&INANI:NEUT-SG:NOM 
+\par *MAM:\tab pravil'no, serdechko stuchit.
+\par %mra:\tab ADV|pravil'no  N|serdechko&INANI:NEUT-SG:NOM V|stuchat'&IMPF:INTRANS-PRES:3S 
+\par *MAM:\tab a chto e~to znachit, esli u nee serdechko stuchit?
+\par %mra:\tab CONJ|a PRO|chto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM V|znachit'&IMPF:TRANS-PRES:3S CONJ|esli PREP|u PRO|on&-SG:FEM:GEN N|serdechko&INANI:NEUT-SG:NOM V|stuchat'&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab tuk-tuk.
+\par %mor:\tab ONOM|tuk_tuk-tuk 
+\par *MAM:\tab znachit, ona zhiva eshche, da?
+\par %mra:\tab PTV|znachit PRO|on&-SG:FEM:NOM ADJ|zhivoj&-SG:FEM ADV|eshche  PTL|da 
+\par *CHX:\tab da.
+\par *MAM:\tab vse podumali, chto uzhe lastochka nezhivaja, vidish'?
+\par %mra:\tab PRO|ves'&-PL:NOM V|podumat'&PFV:INTRANS-PAST:PL CONJ|chto ADV|uzhe N|lastochka&ANI:FEM-SG:NOM ADJ|nezhivoj&-SG:FEM:NOM V|videt'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab a devochka obnjala ee vot tak, prilozhila ruku k grudi i chuvstvuet, stuchit serdechko u nee tam.
+\par %mra:\tab CONJ|a N|devochka&ANI:FEM-SG:NOM V|obnjat'&PFV:TRANS-PAST:SG:FEM PRO|on&-SG:FEM:ACC PTL|vot ADV|tak V|prilozhit'&PFV:TRANS-PAST:SG:FEM N|ruka&INANI:FEM-
+SG:ACC PREP|k N|grud'&INANI:FEM-SG:DAT CONJ|i V|chuvstvovat'&IMPF:TRANS-PRES:3S V|stuchat'&IMPF:INTRANS-PRES:3S N|serdechko&INANI:NEUT-SG:NOM PREP|u PRO|on&-SG:FEM:GEN ADV|tam 
+\par *MAM:\tab da, znachit ona zhivaja, podumala devochka.
+\par %mra:\tab PTL|da CONJznachit PRO|on&-SG:FEM:NOM ADJ|zhivoj&-SG:FEM:NOM V|podumat'&PFV:INTRANS-PAST:SG:FEM N|devochka&ANI:FEM-SG:NOM 
+\par *MAM:\tab i reshila, chto mozhno ee spasti, da, e~tu lastochku?
+\par %mra:\tab CONJ|i V|reshit'&PFV:TRANS-PAST:SG:FEM CONJ|chto PRED|mozhno PRO|on&-SG:FEM:ACC V|spasti&PFV:TRANS-INF PTL|da PRO|e~tot&-SG:FEM:ACC N|lastochka&ANI:FEM-SG:ACC 
+\par *MAM:\tab stala za nej uxazhivat', za lastochkoj.
+\par %mra:\tab V|stat'&PFV:INTRANS-PAST:SG:FEM PREP|za PRO|on&-SG:FEM:INSTR V|uxazhivat'&IMPF:INTRANS-INF PREP|za N|lastochka&ANI:FEM-SG:INSTR 
+\par %sit:\tab Katja pokazyvaet na kartinku.
+\par *CHI:\tab vot gde lastochka.
+\par %mor:\tab ADV|vot ADV|gde N|lastochka&ANI:FEM-SG:NOM 
+\par %sit:\tab Katja perevorachivaet stranicu.
+\par *CHI:\tab vot, a vidish', kak ona smeetsja+/.
+\par %mor:\tab PTL|vot CONJ|a V|videt'&IMPF:TRANS-PRES:2S ADV|kak PRO|on&-SG:FEM:NOM V|smejat'sja&IMPF:INTRANS-PRES:3S_smeetsja+/ 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab raduetsja.
+\par %mor:\tab V|radovat'sja&IMPF:INTRANS-PRES:3S 
+\par *MAX:\tab &mm.
+\par *CHI:\tab vidish'?
+\par %mor:\tab V|videt'&IMPF:TRANS-PRES:2S 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab vot lastochku, a eshche zhuk tam.
+\par %mor:\tab PTL|vot N|lastochka&ANI:FEM-SG:ACC CONJ|a ADV|eshche  N|zhuk&ANI:MASC-SG:NOM ADV|tam 
+\par %sit:\tab Katja listaet knigu.
+\par *CHI:\tab xxx smotret'+/.
+\par %mor:\tab XXX|xxx  V|smotret'&IMPF:TRANS-INF_smotret'+/ 
+\par *MAM:\tab a e~to, kto takie?
+\par %mra:\tab CONJ|a PRO|e~tot&-SG:NEUT:NOM PRO|kto&-SG:NOM PRO|takoj&-PL:NOM 
+\par *CHI:\tab &xm, mal'chiki.
+\par %mor:\tab &xm N|mal'chik&ANI:MASC-PL:NOM 
+\par *MAM:\tab mal'chiki, malen'kie e~l'fy, da?
+\par %mra:\tab N|mal'chik&ANI:MASC-PL:NOM ADJ|malen'kij&-PL:NOM N|e~l'f&ANI:MASC-PL:NOM PTL|da 
+\par *CHX:\tab da.
+\par *MAM:\tab vidish', u nix krylyshki est', malen'kie e~l'fy.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PREP|u PRO|on&-PL:GEN N|krylyshko&INANI:NEUT-PL:NOM V|byt'&IMPF:INTRANS-PRES:3S_est' ADJ|malen'kij&-PL:NOM N|e~l'f&ANI:MASC-PL:NOM 
+\par *CHX:\tab da.
+\par *MAM:\tab vidish', a e~to korol' e~l'fov.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S CONJ|a PRO|e~tot&-SG:NEUT:NOM N|korol'&ANI:MASC-SG:NOM N|e~l'f&ANI:MASC-PL:GEN 
+\par *MAM:\tab on tak vljubilsja v devochku malen'kuju, chto predlozhil stat' ego zhenoj.
+\par %mra:\tab PRO|on&-SG:MASC:NOM ADV|tak V|vljubit'sja&PFV:INTRANS-PAST:SG:MASC PREP|v N|devochka&ANI:FEM-SG:ACC ADJ|malen'kij&-SG:FEM:ACC CONJ|chto V|predlozhit'&PFV:TRANS-PAST:SG:MASC V|stat'&PFV:INTRANS-INF PRO|on&-SG:MASC:GEN N|zhena&ANI:FEM-SG:INSTR 
+
+\par *MAM:\tab vidish', kakoj on krasivyj+/?
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PRO|kakoj&-SG:MASC:NOM PRO|on&-SG:MASC:NOM ADJ|krasivyj&-SG:MASC:NOM_krasivyj+/ 
+\par *CHI:\tab on, e~to+//.
+\par %mor:\tab PRO|on&-SG:MASC:NOM PRO|e~tot&-SG:NEUT:NOM_e~to+// 
+\par *CHI:\tab ona bol'shaja, ona mozhet v shkolu xodit', vot e~ta devochka.
+\par %mor:\tab PRO|on&-SG:FEM:NOM ADJ|bol'shoj&-SG:FEM:NOM PRO|on&-SG:FEM:NOM V|moch'&IMPF:INTRANS-PRES:3S PREP|v N|shkola&INANI:FEM-SG:ACC V|xodit'&IMPF:INTRANS-INF PTL|vot PRO|e~tot&-SG:FEM:NOM N|devochka&ANI:FEM-SG:NOM 
+\par *MAM:\tab bol'shaja, ona mozhet uzhe xodit', da.
+\par %mra:\tab ADJ|bol'shoj&-SG:FEM:NOM PRO|on&-SG:FEM:NOM V|moch'&IMPF:INTRANS-PRES:3S ADV|uzhe V|xodit'&IMPF:INTRANS-INF PTL|da 
+\par *CHI:\tab da, v shkolu+/.
+\par %mor:\tab PTL|da PREP|v N|shkola&INANI:FEM-SG:ACC_shkolu+/ 
+\par *MAM:\tab a ty mozhesh' xodit' ili+/?
+\par %mra:\tab CONJ|a PRO|ty&-SG:NOM V|moch'&IMPF:INTRANS-PRES:2S V|xodit'&IMPF:INTRANS-INF CONJ|ili_ili+/ 
+\par *CHI:\tab da, xochu+//.
+\par %mor:\tab PTL|da V|xotet'&IMPF:INTRANS-PRES:1S_xochu+// 
+\par *CHI:\tab da, mogu.
+\par %mor:\tab PTL|da V|moch'&IMPF:INTRANS-PRES:1S 
+\par *MAM:\tab xochesh' ty tozhe v shkolu, da?
+\par %mra:\tab V|xotet'&IMPF:INTRANS-PRES:2S PRO|ty&-SG:NOM CONJ|tozhe PREP|v N|shkola&INANI:FEM-SG:ACC PTL|da 
+\par *CHI:\tab da, xochu.
+\par %mor:\tab PTL|da V|xotet'&IMPF:INTRANS-PRES:1S 
+\par *MAM:\tab a chto tam v shkole delajut?
+\par %mra:\tab PTL|a PRO|chto&-SG:ACC ADV|tam PREP|v N|shkola&INANI:FEM-SG:LOC V|delat'&IMPF:TRANS-PRES:3P 
+\par *CHI:\tab pisa(t')+//.
+\par %mor:\tab V|pisat'&IMPF:TRANS-INF_pis(at')
+\par *CHI:\tab pisat'@errv-.
+\par %mor:\tab V|pisat'&IMPF:TRANS-INF_pisat'@errv- 
+\par *MAM:\tab pisat' mozhno, pravil'no.
+\par %mra:\tab V|pisat'&IMPF:TRANS-INF PRED|mozhno ADV|pravil'no  
+\par *MAM:\tab a eshche chto?
+\par %mra:\tab CONJ|a ADV|eshche  PRO|chto&-SG:ACC 
+\par *CHI:\tab risovat'.
+\par %mor:\tab V|risovat'&IMPF:TRANS-INF 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab pisat', knizhki chitat'.
+\par %mor:\tab V|pisat'&IMPF:TRANS-INF N|knizhka&INANI:FEM-PL:ACC V|chitat'&IMPF:TRANS-INF 
+\par *MAM:\tab pravil'no.
+\par %mra:\tab ADV|pravil'no  
+\par *CHI:\tab vot bumazhka, xochu xxx.
+\par %mor:\tab PTL|vot N|bumazhka&INANI:FEM-SG:NOM V|xotet'&IMPF:INTRANS-PRES:1S XXX|xxx  
+\par *MAX:\tab xxx.
+\par *MAM:\tab my sejchas uzhe pojdem spat' s toboj.
+\par %mra:\tab PRO|my&-PL:NOM ADV|sejchas ADV|uzhe V|pojti&PFV:INTRANS-FUT:1P V|spat'&IMPF:INTRANS-INF PREP|s PRO|ty&-SG:INSTR 
+\par %new:\tab episode
+\par *CHI:\tab ty chto, e~to dazhe ja ne znaju chto.
+\par %mor:\tab PRO|ty&-SG:NOM PRO|chto&-SG:NOM  PRO|e~tot&-SG:NEUT:NOM PTL|dazhe PRO|ja&-SG:NOM PTL|ne V|znat'&IMPF:TRANS-PRES:1S PRO|chto&-SG:NOM 
+\par %sit:\tab Katja risuet.
+\par *MAM:\tab ne znaesh', chto ty narisovala?
+\par %mra:\tab PTL|ne V|znat'&IMPF:TRANS-PRES:2S PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|narisovat'&PFV:TRANS-PAST:SG:FEM 
+\par *CHI:\tab ne, ne znaju.
+\par %mor:\tab PTL|ne PTL|ne V|znat'&IMPF:TRANS-PRES:1S 
+\par *CHI:\tab soln(yshko).
+\par %mor:\tab N|solnyshko&INANI:NEUT-SG:NOM_soln(yshko) 
+\par *CHI:\tab solnyshko [2].
+\par %mor:\tab N|solnyshko&INANI:NEUT-SG:NOM 
+\par *CHI:\tab vot luchiki, vot u nego tut luchiki+/.
+\par %mor:\tab PTL|vot N|luchik&INANI:MASC-PL:NOM PTL|vot PREP|u PRO|on&-SG:MASC:GEN ADV|tut N|luchik&INANI:MASC-PL:NOM_luchiki+/ 
+\par *MAM:\tab luchiki, pravil'no.
+\par %mra:\tab N|luchik&INANI:MASC-PL:NOM ADV|pravil'no  
+\par *CHI:\tab solnyshko, ja e~to vot.
+\par %mor:\tab N|solnyshko&INANI:NEUT-SG:NOM PRO|ja&-SG:NOM PRO|e~tot&-SG:NEUT:ACC PTL|vot 
+\par *CHI:\tab na, [mama], tebe.
+\par %mor:\tab INTERJ|na N|mama&ANI:FEM-SG:NOM_[mama] PRO|ty&-SG:DAT 
+\par *MAM:\tab a chto ty mne daesh'?
+\par %mra:\tab CONJ|a PRO|chto&-SG:ACC PRO|ty&-SG:NOM PRO|ja&-SG:DAT V|davat'&IMPF:TRANS-PRES:2S 
+\par *CHI:\tab e~to[2] karandash.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM_e~to[2] N|karandash&INANI:MASC-SG:NOM 
+\par *CHI:\tab a, e~to ne xxx.
+\par %mor:\tab PTL|a PRO|e~tot&-SG:NEUT:NOM PTL|ne XXX|xxx  
+\par %sit:\tab Katja perebiraet karandashi.
+\par *CHI:\tab oj, gde moj lju(bimyj).
+\par %mor:\tab INTERJ|oj ADV|gde PRO|moj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM_lju(bimyj) 
+\par *CHI:\tab ljubimyj cvet?
+\par %mor:\tab ADJ|ljubimyj&-SG:MASC:NOM N|cvet&INANI:MASC-SG:NOM 
+\par *CHI:\tab vot moj ljubimyj cvet.
+\par %mor:\tab ADV|vot PRO|moj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM N|cvet&INANI:MASC-SG:NOM 
+\par *MAM:\tab &mgg, pravil'no.
+\par %mra:\tab &mgg ADV|pravil'no  
+\par *MAM:\tab chto ty narisovala?
+\par %mra:\tab PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|narisovat'&PFV:TRANS-PAST:SG:FEM 
+\par *CHI:\tab skamejku.
+\par %mor:\tab N|skamejka&INANI:FEM-SG:ACC 
+\par *MAM:\tab skamejku?
+\par %mra:\tab N|skamejka&INANI:FEM-SG:ACC 
+\par *CHX:\tab da.
+\par %sit:\tab mama beret karandash.
+\par *MAM:\tab skamejka vot tak risuetsja, smotri.
+\par %mra:\tab N|skamejka&INANI:FEM-SG:NOM PTL|vot ADV|tak V|risovat'sja&IMPF:INTRANS-PRES:3S V|smotret'&IMPF:TRANS-IMP:SG 
+\par %sit:\tab mama risuet.
+\par *MAM:\tab spinka na skamejke i nozhki.
+\par %mra:\tab N|spinka&INANI:FEM-SG:NOM PREP|na N|skamejka&INANI:FEM-SG:LOC CONJ|i N|nozhka&INANI:FEM-PL:NOM 
+\par *CHI:\tab e~to chto tut?
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM PRO|chto&-SG:NOM ADV|tut 
+\par *MAM:\tab e~to ja narisovala skamejku.
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PRO|ja&-SG:NOM V|narisovat'&PFV:TRANS-PAST:SG:FEM N|skamejka&INANI:FEM-SG:ACC 
+\par *CHI:\tab a moja ljubimaja+//.
+\par %mor:\tab CONJ|a PRO|moj&-SG:FEM:NOM ADJ|ljubimyj&-SG:FEM:NOM_ljubimaja+// 
+\par *CHI:\tab e~to moj ljubimyj cvet.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM PRO|moj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM N|cvet&INANI:MASC-SG:NOM 
+\par *MAM:\tab da, ochen' krasivyj, zelenyj, mne tozhe nravitsja.
+\par %mra:\tab PTL|da ADV|ochen' ADJ|krasivyj&-SG:MASC:NOM ADJ|zelenyj&-SG:MASC:NOM PRO|ja&-SG:DAT CONJ|tozhe V|nravit'sja&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab nravitsja?
+\par %mor:\tab V|nravit'sja&IMPF:INTRANS-PRES:3S 
+\par *MAM:\tab ochen'.
+\par %mra:\tab ADV|ochen' 
+\par %sit:\tab Katja perebiraet karandashi.
+\par *CHX:\tab ochen'.
+\par *CHI:\tab i vot e~tot moj nravitsja [2].
+\par %mor:\tab CONJ|i PTL|vot PRO|e~tot&-SG:MASC:NOM PRO|moj&-SG:MASC:NOM V|nravit'sja&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab i eshche vot e~tot, i vot mne nravitsja, i vot e~tot nravitsja, i vot e~to mne nravitsja+/.
+\par %mor:\tab CONJ|i ADV|eshche  PTL|vot PRO|e~tot&-SG:MASC:NOM CONJ|i PTL|vot PRO|ja&-SG:DAT V|nravit'sja&IMPF:INTRANS-PRES:3S CONJ|i PTL|vot PRO|e~tot&-SG:MASC:NOM V|nravit'sja&IMPF:INTRANS-PRES:3S CONJ|i PTL|vot PRO|e~tot&-SG:NEUT:NOM PRO|
+ja&-SG:DAT V|nravit'sja&IMPF:INTRANS-PRES:3S_nravitsja+/ 
+\par *MAM:\tab da, davaj, chistyj listik sdelaem.
+\par %mra:\tab PTL|da PTL|davaj  ADJ|chistyj&-SG:MASC:ACC N|listik&INANI:MASC-SG:ACC V|sdelat'&PFV:TRANS-FUT:1P 
+\par *CHX:\tab da.
+\par %sit:\tab Katja s mamoj perebirajut listy bumagi.
+\par *CHI:\tab mama, ja xochu pisat'.
+\par %mor:\tab N|mama&ANI:FEM-SG:NOM PRO|ja&-SG:NOM V|xotet'&IMPF:INTRANS-PRES:1S V|pisat'&IMPF:INTRANS-INF 
+\par *MAM:\tab pisat' xochesh'?
+\par %mra:\tab V|pisat'&IMPF:INTRANS-INF V|xotet'&IMPF:INTRANS-PRES:2S 
+\par *CHX:\tab da.
+\par *MAM:\tab nu, pojdem.
+\par %mra:\tab PTL|nu V|pojti&PFV:INTRANS-FUT:1P 
+\par %new:\tab episode
+\par *MAM:\tab mishka puteshestvuet.
+\par %mra:\tab N|mishka&ANI:MASC-SG:NOM V|puteshestvovat'&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab von, xxx, ja vot tak e~to derevo, vot derevo narisovala.
+\par %mor:\tab PTL|von XXX|xxx  PRO|ja&-SG:NOM PTL|vot ADV|tak PRO|e~tot&-SG:NEUT:ACC N|derevo&INANI:NEUT-SG:ACC ADV|vot N|derevo&INANI:NEUT-SG:ACC V|narisovat'&PFV:TRANS-PAST:SG:FEM 
+\par *MAM:\tab xoroshee derevo.
+\par %mra:\tab ADJ|xoroshij&-SG:NEUT:NOM N|derevo&INANI:NEUT-SG:NOM 
+\par *MAM:\tab a kakoe e~to derevo?
+\par %mra:\tab PTL|a PRO|kakoj&-SG:NEUT:NOM PRO|e~tot&-SG:NEUT:NOM N|derevo&INANI:NEUT-SG:NOM 
+\par *CHI:\tab zelenoe.
+\par %mor:\tab ADJ|zelenyj&-SG:NEUT:NOM 
+\par *MAM:\tab zelenoe, berezka, da, navernoe?
+\par %mra:\tab ADJ|zelenyj&-SG:NEUT:NOM N|berezka&INANI:FEM-SG:NOM PTL|da PTVnavernoe 
+\par *CHI:\tab da, berezka.
+\par %mor:\tab PTL|da N|berezka&INANI:FEM-SG:NOM 
+\par *MAM:\tab a u berezki malen'kie takie chernye tochechki na stvole+/.
+\par %mra:\tab CONJ|a PREP|u N|berezka&INANI:FEM-SG:GEN ADJ|malen'kij&-PL:NOM PRO|takoj&-PL:NOM ADJ|chernyj&-PL:NOM N|tochechka&INANI:FEM-PL:NOM PREP|na N|stvol&INANI:MASC-SG:LOC_stvole+/ 
+\par *CHI:\tab u nee xxx stvol chernyj.
+\par %mor:\tab PREP|u PRO|on&-SG:FEM:GEN XXX|xxx  N|stvol&INANI:MASC-SG:NOM ADJ|chernyj&-SG:MASC:NOM 
+\par *MAM:\tab stvol-to korichnevyj.
+\par %mra:\tab N|stvol&INANI:MASC-SG:NOM_stvol-to ADJ|korichnevyj&-SG:MASC:NOM 
+\par *MAM:\tab stvol u nee, pravil'no, belyj vot takoj i chernye tochechki vot takie.
+\par %mra:\tab N|stvol&INANI:MASC-SG:NOM PREP|u PRO|on&-SG:FEM:GEN ADV|pravil'no  ADJ|belyj&-SG:MASC:NOM PTL|vot PRO|takoj&-SG:MASC:NOM CONJ|i ADJ|chernyj&-PL:NOM N|tochechka&INANI:FEM-PL:NOM PTL|vot PRO|takoj&-PL:NOM 
+\par *CHI:\tab ty tozhe ljubish' chernyj?
+\par %mor:\tab PRO|ty&-SG:NOM CONJ|tozhe V|ljubit'&IMPF:TRANS-PRES:2S ADJ|chernyj&-SG:MASC:ACC 
+\par *MAM:\tab net, ja chernyj ne ljublju.
+\par %mra:\tab PTL|net PRO|ja&-SG:NOM ADJ|chernyj&-SG:MASC:ACC PTL|ne V|ljubit'&IMPF:TRANS-PRES:1S 
+\par *CHI:\tab pochemu ne ljubish'?
+\par %mor:\tab ADV|pochemu PTL|ne V|ljubit'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab on takoj mrachnyj.
+\par %mra:\tab PRO|on&-SG:MASC:NOM PRO|takoj&-SG:MASC:NOM ADJ|mrachnyj&-SG:MASC:NOM 
+\par *CHI:\tab a ja ljublju.
+\par %mor:\tab CONJ|a PRO|ja&-SG:NOM V|ljubit'&IMPF:TRANS-PRES:1S 
+\par *MAM:\tab chernyj?
+\par %mra:\tab ADJ|chernyj&-SG:MASC:ACC 
+\par *CHX:\tab da.
+\par %sit:\tab Katja pokazyvaet na risunok.
+\par *CHI:\tab ja ljublju vot e~to.
+\par %mor:\tab PRO|ja&-SG:NOM V|ljubit'&IMPF:TRANS-PRES:1S PTL|vot PRO|e~tot&-SG:NEUT:ACC 
+\par *MAM:\tab oranzhevyj, &mgg.
+\par %mra:\tab ADJ|oranzhevyj&-SG:MASC:NOM &mgg 
+\par %sit:\tab mama risuet.
+\par *MAM:\tab mozhesh', tak mozhno, pobol'she narisovat' kronu vot takuju bol'shuju?
+\par %mra:\tab V|moch'&IMPF:INTRANS-PRES:2S ADV|tak PRED|mozhno ADV|pobol'she V|narisovat'&PFV:TRANS-INF N|krona&INANI:FEM-SG:ACC PTL|vot PRO|takoj&-SG:FEM:ACC ADJ|bol'shoj&-SG:FEM:ACC 
+\par *CHI:\tab ne mogu.
+\par %mor:\tab PTL|ne V|moch'&IMPF:INTRANS-PRES:1S 
+\par *MAM:\tab takuju, chut'-chut' pobol'she narisuj vot zdes' # vetok.
+\par %mra:\tab PRO|takoj&-SG:FEM:ACC ADV|chut'_chut'-chut' ADV|pobol'she V|narisovat'&PFV:TRANS-IMP:SG PTL|vot ADV|zdes' N|vetka&INANI:FEM-PL:ACC 
+\par %sit:\tab Katja e~nergichno vodit karandashom po bumage.
+\par *MAM:\tab nu, ne tak, uzhe ochen', ty uzhe ochen' mnogo.
+\par %mra:\tab PTL|nu PTL|ne ADV|tak PTL|uzhe ADV|ochen' PRO|ty&-SG:NOM PTL|uzhe ADV|ochen' ADV|mnogo 
+\par %sit:\tab Katja razgljadyvaet karandash.
+\par *CHI:\tab aj-jajjaj, a davaj, ja ego xxx+/.
+\par %mor:\tab INTERJ|aj_aj-jajjaj CONJ|a PTL|davaj  PRO|ja&-SG:NOM PRO|on&-SG:MASC:ACC XXX|xxx_xxx+/  
+\par *MAM:\tab net, dlja togo, chtoby karandash pochinit', nuzhna gazeta.
+\par %mra:\tab PTL|net CONJ|dlja togo CONJ|chtoby N|karandash&INANI:MASC-SG:ACC V|pochinit'&PFV:TRANS-INF ADJ|nuzhnyj&-SG:FEM N|gazeta&INANI:FEM-SG:NOM 
+\par *CHI:\tab daj mne gazetu [2].
+\par %mor:\tab V|dat'&PFV:TRANS-IMP:SG PRO|ja&-SG:DAT N|gazeta&INANI:FEM-SG:ACC 
+\par *MAM:\tab my vchera chinili e~ti karandashi.
+\par %mra:\tab PRO|my&-PL:NOM ADV|vchera V|chinit'&IMPF:TRANS-PAST:PL PRO|e~tot&-PL:ACC N|karandash&INANI:MASC-PL:ACC 
+\par %sit:\tab Katja vybiraet karandash.
+\par *CHI:\tab a, von moj ljubimyj cvet.
+\par %mor:\tab PTL|a ADV|von PRO|moj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM N|cvet&INANI:MASC-SG:NOM 
+\par *CHI:\tab nashla moj ljubimyj cvet.
+\par %mor:\tab V|najti&PFV:TRANS-PAST:SG:FEM PRO|moj&-SG:MASC:ACC ADJ|ljubimyj&-SG:MASC:ACC N|cvet&INANI:MASC-SG:ACC 
+\par %sit:\tab Katja daet mame karandash.
+\par *CHI:\tab xochesh' ljubimyj cvet+/?
+\par %mor:\tab V|xotet'&IMPF:INTRANS-PRES:2S ADJ|ljubimyj&-SG:MASC:ACC N|cvet&INANI:MASC-SG:ACC_cvet+/ 
+\par *MAM:\tab spasibo.
+\par %mra:\tab INTERJ|spasibo  
+\par *MAM:\tab davaj ptichku narisuem.
+\par %mra:\tab PTL|davaj  N|ptichka&ANI:FEM-SG:ACC V|narisovat'&PFV:TRANS-FUT:1P 
+\par *CHI:\tab e~to tak+/.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM ADV|tak_tak+/ 
+\par *MAM:\tab vernee, oblako.
+\par %mra:\tab PTV|vernee N|oblako&INANI:NEUT-SG:ACC 
+\par %sit:\tab Katja vodit karandashom po risunku.
+\par *CHI:\tab net, vot tak, kak ja narisovala, vot tak+/.
+\par %mor:\tab PTL|net PTL|vot ADV|tak ADV|kak PRO|ja&-SG:NOM V|narisovat'&PFV:TRANS-PAST:SG:FEM PTL|vot ADV|tak_tak+/ 
+\par *MAM:\tab a chto ty narisovala?
+\par %mra:\tab PTL|a PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|narisovat'&PFV:TRANS-PAST:SG:FEM 
+\par *CHI:\tab palochku.
+\par %mor:\tab N|palochka&INANI:FEM-SG:ACC 
+\par *CHI:\tab [mama], risuj tozhe palochku.
+\par %mor:\tab N|mama&ANI:FEM-SG:NOM_[mama] V|risovat'&IMPF:TRANS-IMP:SG CONJ|tozhe N|palochka&INANI:FEM-SG:ACC 
+\par %sit:\tab mama pokazyvaet Kate karandash.
+\par *MAM:\tab vidish', tozhe u nego tonen'kij.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S CONJ|tozhe PREP|u PRO|on&-SG:MASC:GEN ADJ|tonen'kij&-SG:MASC:NOM 
+\par *CHI:\tab a davaj vot e~tot pochinju, vidish', vot e~tot?
+\par %mor:\tab PTL|a PTL|davaj  PTL|vot PRO|e~tot&-SG:MASC:ACC V|pochinit'&PFV:TRANS-FUT:1S V|videt'&IMPF:TRANS-PRES:2S PTL|vot PRO|e~tot&-SG:MASC:ACC 
+\par *MAM:\tab nado chinit'?
+\par %mra:\tab PRED|nado V|chinit'&IMPF:TRANS-INF 
+\par *MAM:\tab ne nado sejchas, potomu chto inache nuzhno gazetu prinesti.
+\par %mra:\tab PTL|ne PRED|nado ADV|sejchas CONJ|potomu chto  CONJ|inache PRED|nuzhno N|gazeta&INANI:FEM-SG:ACC V|prinesti&PFV:TRANS-INF 
+\par *MAM:\tab vse budet sinee sejchas u tebja.
+\par %mra:\tab PRO|ves'&-SG:NEUT:NOM V|byt'&IMPF:INTRANS-PRES:3S ADJ|sinij&-SG:NEUT:NOM ADV|sejchas PREP|u PRO|ty&-SG:GEN 
+\par *CHI:\tab xxx gazetu prinesi?
+\par %mor:\tab XXX|xxx  N|gazeta&INANI:FEM-SG:ACC V|prinesti&PFV:TRANS-IMP:SG 
+\par *CHI:\tab gazetu.
+\par %mor:\tab N|gazeta&INANI:FEM-SG:ACC 
+\par %sit:\tab mama beret dva karandasha.
+\par *MAM:\tab davaj my vot tut luchshe narisuem, vot tak mozhno dve cherty srazu risovat'.
+\par %mra:\tab PTL|davaj  PRO|my&-PL:NOM PTL|vot ADV|tut ADV|luchshe V|narisovat'&PFV:TRANS-FUT:1P PTL|vot ADV|tak PRED|mozhno NUM|dve&-ACC N|cherta&INANI:FEM-SG:GEN ADV|srazu V|risovat'&IMPF:TRANS-INF 
+\par *MAM:\tab vidish', dve linii, vot tak.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S NUM|dve&-NOM N|linija&INANI:FEM-SG:GEN PTL|vot ADV|tak 
+\par *MAM:\tab poprobuj-ka, poprobuj.
+\par %mra:\tab V|poprobovat'&PFV:TRANS-IMP:SG_poprobuj-ka V|poprobovat'&PFV:TRANS-IMP:SG 
+\par %sit:\tab mama pokazyvaet Kate.
+\par *MAM:\tab smotri, kak.
+\par %mra:\tab V|smotret'&IMPF:TRANS-IMP:SG ADV|kak 
+\par *CHX:\tab net.
+\par %sit:\tab Katja risuet odnim karandashom.
+\par *MAM:\tab tak, a chto e~to poluchilos'?
+\par %mra:\tab PTL|tak CONJ|a PRO|chto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM V|poluchit'sja&PFV:INTRANS-PAST:SG:NEUT 
+\par *CHI:\tab gde Katina bukva?
+\par %mor:\tab ADV|gde ADJ|katin&-SG:FEM:NOM N|bukva&INANI:FEM-SG:NOM 
+\par *MAX:\tab xxx.
+\par *MAM:\tab sejchas eshche raz narisuju.
+\par %mra:\tab ADV|sejchas ADV|eshche  N|raz&INANI:MASC-SG:ACC V|narisovat'&PFV:TRANS-FUT:1S 
+\par *MAM:\tab a teper' bukvu, &a.
+\par %mra:\tab CONJ|a ADV|teper' N|bukva&INANI:FEM-SG:ACC &a
+\par *CHI:\tab sjuda mozhno eshche.
+\par %mor:\tab ADV|sjuda PRED|mozhno ADV|eshche  
+\par *MAX:\tab &mm.
+\par *CHI:\tab kto xochet karandash?
+\par %mor:\tab PRO|kto&-SG:NOM V|xotet'&IMPF:INTRANS-PRES:3S N|karandash&INANI:MASC-SG:ACC 
+\par *MAM:\tab karandash?
+\par %mra:\tab N|karandash&INANI:MASC-SG:ACC 
+\par *MAM:\tab ja xochu.
+\par %mra:\tab PRO|ja&-SG:NOM V|xotet'&IMPF:INTRANS-PRES:1S 
+\par *CHX:\tab ja xochu.
+\par %sit:\tab Katja pokazyvaet na knigu.
+\par *CHI:\tab oj, ded-moroz vot tut.
+\par %mor:\tab INTERJ|oj N|ded&ANI:MASC-SG:NOM_ded-moroz PTL|vot ADV|tut 
+\par *MAM:\tab e~to v knizhke on, da?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PREP|v N|knizhka&INANI:FEM-SG:LOC PRO|on&-SG:MASC:NOM PTL|da 
+\par *CHX:\tab &mm.
+\par *MAM:\tab a kuda on edet?
+\par %mra:\tab PTL|a ADV|kuda PRO|on&-SG:MASC:NOM V|exat'&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab ne, ne edet, on nogami idet.
+\par %mor:\tab PTL|ne PTL|ne V|exat'&IMPF:INTRANS-PRES:3S PRO|on&-SG:MASC:NOM N|noga&INANI:FEM-PL:INSTR V|idti&IMPF:INTRANS-PRES:3S 
+\par *MAM:\tab e~ta knizhka pro deda-moroza?
+\par %mra:\tab PRO|e~tot&-SG:FEM:NOM N|knizhka&INANI:FEM-SG:NOM PREP|pro N|ded&ANI:MASC-SG:ACC_deda-moroza 
+\par *CHX:\tab da.
+\par *MAM:\tab a gde tut ded-moroz?
+\par %mra:\tab PTL|a ADV|gde ADV|tut N|ded&ANI:MASC-SG:NOM_ded-moroz 
+\par *MAM:\tab ja ne vizhu.
+\par %mra:\tab PRO|ja&-SG:NOM PTL|ne V|videt'&IMPF:TRANS-PRES:1S 
+\par *CHI:\tab tam, dal'she.
+\par %mor:\tab ADV|tam ADV|dal'she 
+\par *MAM:\tab tak, e~to ne knizhka, e~to ne pro deda-moroza knizhka.
+\par %mra:\tab PTL|tak PRO|e~tot&-SG:NEUT:NOM PTL|ne N|knizhka&INANI:FEM-SG:NOM PRO|e~tot&-SG:NEUT:NOM PTL|ne PREP|pro N|ded&ANI:MASC-SG:ACC_deda-moroza N|knizhka&INANI:FEM-SG:NOM 
+\par *CHI:\tab xxx videla prosto, von-von, vot+/.
+\par %mor:\tab XXX|xxx  V|videt'&IMPF:TRANS-PAST:SG:FEM PTL|prosto PTL|von_von-von PTL|vot_vot+/ 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab vot e~to ded-moroz.
+\par %mor:\tab PTL|vot PRO|e~tot&-SG:NEUT:NOM N|ded&ANI:MASC-SG:NOM_ded-moroz 
+\par *MAM:\tab vot tut tozhe, tut, vidish', elku?
+\par %mra:\tab PTL|vot ADV|tut CONJ|tozhe ADV|tut V|videt'&IMPF:TRANS-PRES:2S N|elka&INANI:FEM-SG:ACC 
+\par *MAM:\tab von elku uzhe narjadili i zhdut deda-moroza, kogda on pridet.
+\par %mra:\tab PTL|von N|elka&INANI:FEM-SG:ACC ADV|uzhe V|narjadit'&PFV:TRANS-PAST:PL CONJ|i V|zhdat'&IMPF:TRANS-PRES:3P N|ded&ANI:MASC-SG:ACC_deda-moroza ADV|kogda PRO|on&-SG:MASC:NOM V|prijti&PFV:INTRANS-FUT:3S 
+\par *CHI:\tab vot ded-moroz.
+\par %mor:\tab ADV|vot N|ded&ANI:MASC-SG:NOM_ded-moroz 
+\par *MAM:\tab on uzhe idet tut, podarki vsem neset.
+\par %mra:\tab PRO|on&-SG:MASC:NOM ADV|uzhe V|idti&IMPF:INTRANS-PRES:3S ADV|tut N|podarok&INANI:MASC-PL:ACC PRO|ves'&-PL:DAT V|nesti&IMPF:TRANS-PRES:3S 
+\par %sit:\tab mama beret druguju knigu.
+\par *MAM:\tab e~ta knizhka pro medvedja+/.
+\par %mra:\tab PRO|e~tot&-SG:FEM:NOM N|knizhka&INANI:FEM-SG:NOM PREP|pro N|medved'&ANI:MASC-SG:ACC_medvedja+/ 
+\par *CHX:\tab da.
+\par *MAM:\tab vidish', kak on v puteshestvie sobralsja, vidish'?
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S CONJ|kak PRO|on&-SG:MASC:NOM PREP|v N|puteshestvie&INANI:NEUT-SG:ACC V|sobrat'sja&PFV:INTRANS-PAST:SG:MASC V|videt'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab vzjal chemodanchik i sobralsja v puteshestvie.
+\par %mra:\tab V|vzjat'&PFV:TRANS-PAST:SG:MASC N|chemodanchik&INANI:MASC-SG:ACC CONJ|i V|sobrat'sja&PFV:INTRANS-PAST:SG:MASC PREP|v N|puteshestvie&INANI:NEUT-SG:ACC 
+\par *CHI:\tab kuda?
+\par %mor:\tab ADV|kuda 
+\par *MAM:\tab vidish', vot on spal eshche, spit eshche, vidish', temno.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S ADV|vot PRO|on&-SG:MASC:NOM V|spat'&IMPF:INTRANS-PAST:SG:MASC ADV|eshche  V|spat'&IMPF:INTRANS-PRES:3S ADV|eshche  V|videt'&IMPF:TRANS-PRES:2S PRED|temno 
+\par *MAM:\tab kto k nemu tut podoshel?
+\par %mra:\tab PRO|kto&-SG:NOM PREP|k PRO|on&-SG:MASC:DAT ADV|tut V|podojti&PFV:INTRANS-PAST:SG:MASC 
+\par *CHI:\tab belochka.
+\par %mor:\tab N|belochka&ANI:FEM-SG:NOM 
+\par *MAM:\tab belochka podoshla, vidish'?
+\par %mra:\tab N|belochka&ANI:FEM-SG:NOM V|podojti&PFV:INTRANS-PAST:SG:FEM V|videt'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab chto belochka govorit, &m?
+\par %mra:\tab PRO|chto&-SG:ACC N|belochka&ANI:FEM-SG:NOM V|govorit'&IMPF:TRANS-PRES:3S &m  
+\par *MAM:\tab govorit ona, dobroe utro, nu-ka, vstavaj.
+\par %mra:\tab V|govorit'&IMPF:TRANS-PRES:3S PRO|on&-SG:FEM:NOM ADJ|dobryj&-SG:NEUT:NOM N|utro&INANI:NEUT-SG:NOM PTL|nu_nu-ka V|vstavat'&IMPF:INTRANS-IMP:SG 
+\par %sit:\tab Katja vnimatel'no smotrit na kartinku.
+\par *MAM:\tab vidish', vstal medvezhonok, von zanavesku oni otkinuli i uvideli, chto uzhe utro.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S V|vstat'&PFV:INTRANS-PAST:SG:MASC N|medvezhonok&ANI:MASC-S
+G:NOM PTL|von N|zanaveska&INANI:FEM-SG:ACC PRO|on&-PL:NOM V|otkinut'&PFV:TRANS-PAST:PL CONJ|i V|uvidet'&PFV:TRANS-PAST:PL CONJ|chto ADV|uzhe N|utro&INANI:NEUT-SG:NOM 
+\par *MAM:\tab vidish', solnce vstalo i uzhe sovsem dazhe ne temno.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S N|solnce&INANI:NEUT-SG:NOM V|vstat'&PFV:INTRANS-PAST:SG:NEUT CONJ|i ADV|uzhe ADV|sovsem PTL|dazhe PTL|ne PRED|temno 
+\par *MAM:\tab vidish', u nego globus stoit, globus na stolike stoit.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PREP|u PRO|on&-SG:MASC:GEN N|globus&INANI:MASC-SG:NOM V|stojat'&IMPF:INTRANS-PRES:3S N|globus&INANI:MASC-SG:NOM PREP|na N|stolik&INANI:MASC-SG:LOC V|stojat'&IMPF:INTRANS-PRES:3S 
+\par *CHX:\tab xxx.
+\par *MAM:\tab vidish', smotrit na chasy uzhe.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S V|smotret'&IMPF:TRANS-PRES:3S PREP|na N|chasy&INANI-PL:ACC PTL|uzhe 
+\par *MAM:\tab chasy takie on uvidel u sebja na ruke.
+\par %mra:\tab N|chasy&INANI-PL:ACC PRO|takoj&-PL:ACC PRO|on&-SG:MASC:NOM V|uvidet'&PFV:TRANS-PAST:SG:MASC PREP|u PRO|sebja&-SG:GEN PREP|na N|ruka&INANI:FEM-SG:LOC 
+\par *MAM:\tab nazhal na chasy na e~ti i, vidish', globus eshche.
+\par %mra:\tab V|nazhat'&PFV:TRANS-PAST:SG:MASC PREP|na N|chasy&INANI-PL:ACC PREP|na PRO|e~tot&-PL:ACC  CONJ|i V|videt'&IMPF:TRANS-PRES:2S N|globus&INANI:MASC-SG:NOM ADV|eshche  
+\par *MAM:\tab i mishka okazalsja vmeste s belochkoj, gde?
+\par %mra:\tab CONJ|i N|mishka&ANI:MASC-SG:NOM V|okazat'sja&PFV:INTRANS-PAST:SG:MASC ADV|vmeste PREP|s N|belochka&ANI:FEM-SG:INSTR ADV|gde 
+\par *MAM:\tab v Afrike.
+\par %mra:\tab PREP|v N|afrika&INANI:FEM-SG:LOC 
+\par %new:\tab episode
+\par *MAM:\tab davaj my budem teper' kleit'.
+\par %mra:\tab PTL|davaj  PRO|my&-PL:NOM V|byt'&IMPF:INTRANS-PRES:1P ADV|teper' V|kleit'&IMPF:TRANS-INF 
+\par %sit:\tab mama daet Kate knigu s naklejkami.
+\par *MAM:\tab chto ty budesh' sejchas delat'?
+\par %mra:\tab PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|byt'&IMPF:INTRANS-PRES:2S ADV|sejchas V|delat'&IMPF:TRANS-INF 
+\par *CHI:\tab solnce.
+\par %mor:\tab N|solnce&INANI:NEUT-SG:ACC 
+\par *MAM:\tab chto solnce [2]?
+\par %mra:\tab PRO|chto&-SG:NOM N|solnce&INANI:NEUT-SG:NOM 
+\par *CHI:\tab nakleivat'.
+\par %mor:\tab V|nakleivat'&IMPF:TRANS-INF 
+\par *MAM:\tab vnachale nado otlepit'.
+\par %mra:\tab ADV|vnachale PRED|nado V|otlepit'&PFV:TRANS-INF 
+\par *CHI:\tab otlepit' verx.
+\par %mor:\tab V|otlepit'&PFV:TRANS-INF N|verx&INANI:MASC-SG:ACC 
+\par *MAM:\tab a gde solnyshko tam?
+\par %mra:\tab CONJ|a ADV|gde N|solnyshko&INANI:NEUT-SG:NOM ADV|tam 
+\par *CHI:\tab a zdes' netu.
+\par %mor:\tab CONJ|a ADV|zdes' PRED|netu 
+\par %sit:\tab Katja listaet knigu.
+\par *MAM:\tab xxx nashla solnyshko.
+\par %mra:\tab XXX|xxx  V|najti&PFV:TRANS-PAST:SG:FEM N|solnyshko&INANI:NEUT-SG:ACC 
+\par *CHI:\tab vot nashla xxx.
+\par %mor:\tab PTL|vot V|najti&PFV:TRANS-PAST:SG:FEM XXX|xxx  
+\par %sit:\tab Katja kleit naklejku na kartinku.
+\par *MAM:\tab rovnen'ko nakleivaj.
+\par %mra:\tab ADV|rovnen'ko V|nakleivat'&IMPF:TRANS-IMP:SG 
+\par *CHI:\tab ne nado tut nakleivat'.
+\par %mor:\tab PTL|ne PRED|nado ADV|tut V|nakleivat'&IMPF:TRANS-INF 
+\par *MAM:\tab davaj ja tebe narisuju malen'kuju rybku.
+\par %mra:\tab PTL|davaj  PRO|ja&-SG:NOM PRO|ty&-SG:DAT V|narisovat'&PFV:TRANS-FUT:1S ADJ|malen'kij&-SG:FEM:ACC N|rybka&ANI:FEM-SG:ACC 
+\par *CHX:\tab nein@deut.
+\par *MAM:\tab ty govori po-russki.
+\par %mra:\tab PRO|ty&-SG:NOM V|govorit'&IMPF:TRANS-IMP:SG ADV|po-russki 
+\par *MAM:\tab net, ne xochesh'?
+\par %mra:\tab PTL|net PTL|ne V|xotet'&IMPF:INTRANS-PRES:2S 
+\par *CHX:\tab nein@deut.
+\par %sit:\tab Katja vzjala karandashi, risuet.
+\par *MAM:\tab xxx dvumja karandashami prjamo stala risovat'.
+\par %mra:\tab XXX|xxx  NUM|dve&-INSTR N|karandash&INANI:MASC-PL:INSTR PTL|prjamo V|stat'&PFV:INTRANS-PAST:SG:FEM V|risovat'&IMPF:TRANS-INF 
+\par *CHI:\tab xochesh' tozhe?
+\par %mor:\tab V|xotet'&IMPF:INTRANS-PRES:2S CONJ|tozhe 
+\par *MAM:\tab &m, poprobuju, da?
+\par %mra:\tab &m  V|poprobovat'&PFV:TRANS-FUT:1S PTL|da 
+\par *MAM:\tab vidish', ja ryb tut narisovala, srazu dvux rybok.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S PRO|ja&-SG:NOM N|ryba&ANI:FEM-PL:ACC ADV|tut V|narisovat'&PFV:TRANS-PAST:SG:FEM ADV|srazu NUM|dve&-ACC N|rybka&ANI:FEM-PL:GEN 
+\par *CHX:\tab da.
+\par *MAM:\tab odnu malen'kuju, odnu bol'shuju.
+\par %mra:\tab NUM|odin&-SG:FEM:ACC ADJ|malen'kij&-SG:FEM:ACC NUM|odin&-SG:FEM:ACC ADJ|bol'shoj&-SG:FEM:ACC 
+\par %sit:\tab Katja risuet.
+\par *MAM:\tab a ty krugi risuesh'.
+\par %mra:\tab CONJ|a PRO|ty&-SG:NOM N|krug&INANI:MASC-PL:ACC V|risovat'&IMPF:TRANS-PRES:2S 
+\par *CHI:\tab xochesh' tozhe+/?
+\par 
+\par %mor:\tab V|xotet'&IMPF:INTRANS-PRES:2S CONJ|tozhe_tozhe+/ 
+\par *MAM:\tab ja prosto tak ne xochu risovat', ja xochu, naprimer, chto-nibud' narisovat'.
+\par %mra:\tab PRO|ja&-SG:NOM PTL|prosto PTL|tak PTL|ne V|xotet'&IMPF:INTRANS-PRES:1S V|risovat'&IMPF:TRANS-INF PRO|ja&-SG:NOM V|xotet'&IMPF:INTRANS-PRES:1S naprimer PRO|chto&-SG:ACC_chto-nibud' V|narisovat'&PFV:TRANS-INF 
+\par %sit:\tab mama risuet.
+\par *MAM:\tab ja sejchas vot tak derev'ja narisuju.
+\par %mra:\tab PRO|ja&-SG:NOM ADV|sejchas PTL|vot ADV|tak N|derevo&INANI:NEUT-PL:ACC V|narisovat'&PFV:TRANS-FUT:1S 
+\par *CHX:\tab &mm.
+\par *MAM:\tab kak krasivo, dva dereva i eshche sejchas.
+\par %mra:\tab ADV|kak ADV|krasivo NUM|dva&-NOM N|derevo&INANI:NEUT-SG:GEN CONJ|i ADV|eshche  ADV|sejchas 
+\par *CHI:\tab xxx dva karandasha, u menja tozhe dva karandasha.
+\par %mor:\tab XXX|xxx  NUM|dva&-NOM N|karandash&INANI:MASC-SG:GEN PREP|u PRO|ja&-SG:GEN CONJ|tozhe NUM|dva&-NOM N|karandash&INANI:MASC-SG:GEN 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab i u tebja, i u menja.
+\par %mor:\tab CONJ|i PREP|u PRO|ty&-SG:GEN CONJ|i PREP|u PRO|ja&-SG:GEN 
+\par *CHI:\tab e~to ja+/.
+\par %mor:\tab PRO|e~tot&-SG:NEUT:NOM PRO|ja&-SG:NOM_ja+/ 
+\par *MAM:\tab podozhdi.
+\par %mra:\tab V|podozhdat'&PFV:TRANS-IMP:SG 
+\par *CHI:\tab ljubimyj moj.
+\par %mor:\tab ADJ|ljubimyj&-SG:MASC:NOM PRO|moj&-SG:MASC:NOM 
+\par *MAM:\tab kakoj tvoj ljubimyj?
+\par %mra:\tab PRO|kakoj&-SG:MASC:NOM PRO|tvoj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM 
+\par *CHI:\tab vot e~tot.
+\par %mor:\tab PTL|vot PRO|e~tot&-SG:MASC:NOM 
+\par *CHI:\tab moj ljubimyj, moj vot e~tot ljubimyj.
+\par %mor:\tab PRO|moj&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM PRO|moj&-SG:MASC:NOM PTL|vot PRO|e~tot&-SG:MASC:NOM ADJ|ljubimyj&-SG:MASC:NOM 
+\par *MAM:\tab sinij tvoj, da?
+\par %mra:\tab ADJ|sinij&-SG:MASC:NOM PRO|tvoj&-SG:MASC:NOM PTL|da 
+\par *CHI:\tab da, ljubimyj.
+\par %mor:\tab PTL|da ADJ|ljubimyj&-SG:MASC:NOM 
+\par *MAM:\tab xorosho.
+\par %mra:\tab PTL|xorosho 
+\par *CHI:\tab ljubimyj moj cvet.
+\par %mor:\tab ADJ|ljubimyj&-SG:MASC:NOM PRO|moj&-SG:MASC:NOM N|cvet&INANI:MASC-SG:NOM 
+\par *CHX:\tab xxx.
+\par *MAM:\tab davaj dal'she.
+\par %mra:\tab PTL|davaj  ADV|dal'she 
+\par *MAM:\tab mozhno eshche ozero narisovat' goluboe, a na ozere pticu.
+\par %mra:\tab PRED|mozhno ADV|eshche  N|ozero&INANI:NEUT-SG:ACC V|narisovat'&PFV:TRANS-INF ADJ|goluboj&-SG:NEUT:ACC CONJ|a PREP|na N|ozero&INANI:NEUT-SG:LOC N|ptica&ANI:FEM-SG:ACC 
+\par *MAM:\tab kakie pticy tam na ozere plavajut u nas, &m, znaesh'?
+\par %mra:\tab PRO|kakoj&-PL:NOM N|ptica&ANI:FEM-PL:NOM ADV|tam PREP|na N|ozero&INANI:NEUT-SG:LOC V|plavat'&IMPF:INTRANS-PRES:3P PREP|u PRO|my&-PL:GEN &m  V|znat'&IMPF:TRANS-PRES:2S 
+\par *MAM:\tab kakie pticy plavajut?
+\par %mra:\tab PRO|kakoj&-PL:NOM N|ptica&ANI:FEM-PL:NOM V|plavat'&IMPF:INTRANS-PRES:3P 
+\par *CHI:\tab vot takie.
+\par %mor:\tab PTL|vot PRO|takoj&-PL:NOM 
+\par *MAM:\tab a chto e~to za ptica?
+\par %mra:\tab PTL|a PRO|chto&-SG:NOM PRO|e~tot&-SG:NEUT:NOM PREP|za N|ptica&ANI:FEM-SG:NOM 
+\par *CHI:\tab ne znaju.
+\par %mor:\tab PTL|ne V|znat'&IMPF:TRANS-PRES:1S 
+\par *MAM:\tab tam, gde lebedi plavajut, bol'shie i malen'kie # i utki, da?
+\par %mra:\tab ADV|tam ADV|gde N|lebed'&ANI:MASC-PL:NOM V|plavat'&IMPF:INTRANS-PRES:3P ADJ|bol'shoj&-PL:NOM CONJ|i ADJ|malen'kij&-PL:NOM CONJ|i N|utka&ANI:FEM-PL:NOM PTL|da 
+\par %sit:\tab Katja prinjalas' chinit' karandashi.
+\par *CHI:\tab von tochitsja.
+\par %mor:\tab PTL|von V|tochit'sja&IMPF:INTRANS-PRES:3S 
+\par *MAX:\tab &mgg.
+\par %sit:\tab Katja daet mame karandash.
+\par *CHI:\tab na, poprobuj xxx.
+\par %mor:\tab INTERJ|na V|poprobovat'&PFV:TRANS-IMP:SG XXX|xxx  
+\par *MAM:\tab poprobuju.
+\par %mra:\tab V|poprobovat'&PFV:TRANS-FUT:1S 
+\par *MAM:\tab nu xorosho, no mozhno eshche nemnozhechko.
+\par %mra:\tab PTL|nu PTL|xorosho CONJ|no PRED|mozhno ADV|eshche  ADV|nemnozhechko 
+\par *MAM:\tab kuda ty, tol'ko ne ochen' vysoko nad gazetoj.
+\par %mra:\tab ADV|kuda PRO|ty&-SG:NOM CONJ|tol'ko PTL|ne ADV|ochen' ADJ|vysokij&-SG:NEUT PREP|nad N|gazeta&INANI:FEM-SG:INSTR 
+\par *MAM:\tab chto ty eshche delaesh' tut?
+\par %mra:\tab PRO|chto&-SG:ACC PRO|ty&-SG:NOM ADV|eshche  V|delat'&IMPF:TRANS-PRES:2S ADV|tut 
+\par *MAM:\tab Katen'ka, chto ty delaesh'?
+\par %mra:\tab N|katen'ka&ANI:FEM-SG:NOM PRO|chto&-SG:ACC PRO|ty&-SG:NOM V|delat'&IMPF:TRANS-PRES:2S 
+\par *CHI:\tab tochu karandashi.
+\par %mor:\tab V|tochit'&IMPF:TRANS-PRES:1S N|karandash&INANI:MASC-PL:ACC 
+\par *CHI:\tab oj [2], vot.
+\par %mor:\tab INTERJ|oj PTL|vot 
+\par *MAM:\tab vot e~tot nado potochit', vidish', on sovsem tupoj.
+\par %mra:\tab PTL|vot PRO|e~tot&-SG:MASC:ACC PRED|nado V|potochit'&PFV:TRANS-INF V|videt'&IMPF:TRANS-PRES:2S PRO|on&-SG:MASC:NOM ADV|sovsem ADJ|tupoj&-SG:MASC:NOM 
+\par *MAM:\tab kakogo cveta karandash?
+\par %mra:\tab PRO|kakoj&-SG:MASC:GEN N|cvet&INANI:MASC-SG:GEN N|karandash&INANI:MASC-SG:NOM 
+\par *CHI:\tab krasnyj.
+\par %mor:\tab ADJ|krasnyj&-SG:MASC:NOM 
+\par *MAM:\tab pravil'no.
+\par %mra:\tab ADV|pravil'no  
+\par *MAM:\tab tjazhelo tebe tochit' ili ne ochen'?
+\par %mra:\tab PRED|tjazhelo PRO|ty&-SG:DAT V|tochit'&IMPF:TRANS-INF CONJ|ili PTL|ne ADV|ochen' 
+\par *CHI:\tab ne ochen'.
+\par %mor:\tab PTL|ne ADV|ochen' 
+\par *MAM:\tab nado ego eshche potochit', posmotri-ka.
+\par %mra:\tab PRED|nado PRO|on&-SG:MASC:ACC ADV|eshche  V|potochit'&PFV:TRANS-INF V|posmotret'&PFV:TRANS-IMP:SG_posmotri-ka 
+\par *MAM:\tab e~tot kakoj-to trudnyj, da?
+\par %mra:\tab PRO|e~tot&-SG:MASC:NOM PRO|kakoj&-SG:MASC:NOM_kakoj-to ADJ|trudnyj&-SG:MASC:NOM PTL|da 
+\par *MAM:\tab ego trudno tochit'.
+\par %mra:\tab PRO|on&-SG:MASC:ACC  ADV|trudno V|tochit'&IMPF:TRANS-INF 
+\par *CHI:\tab e~tot ne trudno xxx.
+\par %mor:\tab PRO|e~tot&-SG:MASC:ACC PTL|ne ADV|trudno XXX|xxx  
+\par *CHI:\tab vot e~tot+//.
+\par %mor:\tab PTL|vot PRO|e~tot&-SG:MASC:ACC_e~tot+// 
+\par *CHI:\tab a e~to luchshe, vot e~tot luchshe.
+\par %mor:\tab CONJ|a PRO|e~tot&-SG:NEUT:ACC ADV|luchshe PTL|vot PRO|e~tot&-SG:MASC:ACC ADV|luchshe 
+\par *MAM:\tab luchshe tochitsja on?
+\par %mra:\tab ADV|luchshe V|tochit'sja&IMPF:INTRANS-PRES:3S PRO|on&-SG:MASC:NOM 
+\par *CHI:\tab smotri, von.
+\par %mor:\tab V|smotret'&IMPF:TRANS-IMP:SG ADV|von 
+\par *MAM:\tab vizhu.
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:1S 
+\par *MAM:\tab nado akkuratno, nad gazetoj, vse nad gazetoj nado tochit'.
+\par %mra:\tab PRED|nado ADV|akkuratno PREP|nad N|gazeta&INANI:FEM-SG:INSTR PRO|ves'&-SG:NEUT:ACC PREP|nad N|gazeta&INANI:FEM-SG:INSTR PRED|nado V|tochit'&IMPF:TRANS-INF 
+\par *MAM:\tab potochila?
+\par %mra:\tab V|potochit'&PFV:TRANS-PAST:SG:FEM 
+\par *MAM:\tab akkuratno [2],  posmotri, von otsjuda ostatki nado.
+\par %mra:\tab ADV|akkuratno V|posmotret'&PFV:TRANS-IMP:SG ADV|von ADV|otsjuda N|ostatok&INANI:MASC-PL:ACC PRED|nado 
+\par *MAM:\tab ostatki karandasha nado na gazetu+/.
+\par %mra:\tab N|ostatok&INANI:MASC-PL:ACC N|karandash&INANI:MASC-SG:GEN PRED|nado PREP|na N|gazeta&INANI:FEM-SG:ACC_gazetu+/ 
+\par *CHI:\tab von kakoj xxx karandash.
+\par %mor:\tab PTL|von PRO|kakoj&-SG:MASC:NOM XXX|xxx  N|karandash&INANI:MASC-SG:NOM 
+\par *MAM:\tab ty pogromche govori, a to ja nichego ne slyshu.
+\par %mra:\tab PRO|ty&-SG:NOM ADV|pogromche V|govorit'&IMPF:TRANS-IMP:SG CONJ|a CONJ|to PRO|ja&-SG:NOM PRO|nichto&-SG:GEN PTL|ne V|slyshat'&IMPF:TRANS-PRES:1S 
+\par *CHI:\tab von kakoj krasivyj karandash.
+\par %mor:\tab PTL|von PRO|kakoj&-SG:MASC:NOM ADJ|krasivyj&-SG:MASC:NOM N|karandash&INANI:MASC-SG:NOM 
+\par *MAM:\tab karandash, vizhu, krasivyj.
+\par %mra:\tab N|karandash&INANI:MASC-SG:NOM V|videt'&IMPF:TRANS-PRES:1S ADJ|krasivyj&-SG:MASC:NOM 
+\par *CHI:\tab a davaj ja babe pokazhu.
+\par %mor:\tab PTL|a PTL|davaj  PRO|ja&-SG:NOM N|baba&ANI:FEM-SG:DAT V|pokazat'&PFV:TRANS-FUT:1S 
+\par *MAM:\tab pokazhi babe, da.
+\par %mra:\tab V|pokazat'&PFV:TRANS-IMP:SG N|baba&ANI:FEM-SG:DAT PTL|da 
+\par %sit:\tab Katja pokazala babushke karandash, vernulas', chinit drugoj karandash.
+\par *CHI:\tab nado poprobovat' narisovat'.
+\par %mor:\tab PRED|nado V|poprobovat'&PFV:TRANS-INF V|narisovat'&PFV:TRANS-INF 
+\par *MAM:\tab net, sejchas xxx, nado vse ubrat' otsjuda, krasnoe.
+\par %mra:\tab PTL|net ADV|sejchas XXX|xxx  PRED|nado PRO|ves'&-SG:NEUT:ACC V|ubrat'&PFV:TRANS-INF ADV|otsjuda ADJ|krasnyj&-SG:NEUT:ACC 
+\par *CHI:\tab xxx vot e~ti pochinit'.
+\par %mor:\tab XXX|xxx  PTL|vot PRO|e~tot&-PL:NOM V|pochinit'&PFV:TRANS-INF 
+\par %new:\tab episode
+\par *CHI:\tab xxx parovozik Tomas.
+\par %mor:\tab XXX|xxx  N|parovozik&INANI:MASC-SG:NOM N|tomas&INANI:MASC-SG:NOM 
+\par *MAM:\tab napisano zdes' parovozik Tomas?
+\par %mra:\tab PART|napisat'&PASS:PAST-SG:NEUT ADV|zdes' N|parovozik&INANI:MASC-SG:NOM N|tomas&INANI:MASC-SG:NOM 
+\par *CHX:\tab da.
+\par *MAM:\tab xorosho.
+\par %mra:\tab PTL|xorosho 
+\par *CHI:\tab a po-russki, Tumas.
+\par %mor:\tab CONJ|a ADV|po-russki N|tumas&INANI:MASC-SG:NOM 
+\par *MAM:\tab Tomas, po-russki, da.
+\par %mra:\tab N|tomas&INANI:MASC-SG:NOM ADV|po-russki PTL|da 
+\par *CHI:\tab a po-nemecki, Tomas.
+\par %mor:\tab CONJ|a ADV|po-nemecki N|tomas&INANI:MASC-SG:NOM 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab a po-russki, Tumys.
+\par %mor:\tab CONJ|a ADV|po-russki N|tumys&INANI:MASC-SG:NOM 
+\par *MAM:\tab kak po-russki, Tomys?
+\par %mra:\tab ADV|kak ADV|po-russki N|tomys&INANI:MASC-SG:NOM 
+\par *CHX:\tab da.
+\par *MAM:\tab a po-nemecki?
+\par %mra:\tab CONJ|a ADV|po-nemecki 
+\par *CHI:\tab xu-xu, takoj Tomas, tak, xu-xu.
+\par %mor:\tab ONOM|xu PRO|takoj&-SG:MASC:NOM N|tomas&INANI:MASC-SG:NOM ADV|tak ONOM|xu_xu-xu 
+\par *MAM:\tab e~to tak Tomas delaet, xu-xu?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM ADV|tak N|tomas&INANI:MASC-SG:NOM V|delat'&IMPF:TRANS-PRES:3S ONOM|xu_xu-xu 
+\par *MAM:\tab chux-chux parovoz delaet.
+\par %mra:\tab ONOM|chux_chux-chux N|parovoz&INANI:MASC-SG:NOM V|delat'&IMPF:TRANS-PRES:3S 
+\par *CHI:\tab mozhno nazhat'?
+\par %mor:\tab PRED|mozhno V|nazhat'&PFV:TRANS-INF 
+\par *MAX:\tab &m?
+\par *CHI:\tab mozhno nazhut'@errv-inno na e~tu?
+\par %mor:\tab PRED|mozhno V|nazhat'&PFV:TRANS-INF_nazhut'@errv-inno PREP|na PRO|e~tot&-SG:FEM:ACC 
+\par *MAM:\tab net, nazhimat' ne nado, pust' on tut lezhit.
+\par %mra:\tab PTL|net V|nazhimat'&IMPF:TRANS-INF PTL|ne PRED|nado PTL|pust' PRO|on&-SG:MASC:NOM ADV|tut V|lezhat'&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab pochemu tut xxx krasnaja?
+\par %mor:\tab ADV|pochemu ADV|tut XXX|xxx  ADJ|krasnyj&-SG:FEM:NOM 
+\par *MAM:\tab krasnaja tut gorit lampochka.
+\par %mra:\tab ADJ|krasnyj&-SG:FEM:NOM ADV|tut V|goret'&IMPF:INTRANS-PRES:3S N|lampochka&INANI:FEM-SG:NOM 
+\par *CHI:\tab xxx, mozhno ja ee vykljuchu?
+\par %mor:\tab XXX|xxx  PRED|mozhno PRO|ja&-SG:NOM PRO|on&-SG:FEM:ACC V|vykljuchit'&PFV:TRANS-FUT:1S 
+\par *MAM:\tab zachem, ne nado.
+\par %mra:\tab ADV|zachem PTL|ne PRED|nado 
+\par %new:\tab episode
+\par *MAM:\tab nu, uzhe vse, zakonchila svoi dela?
+\par %mra:\tab PTL|nu ADV|uzhe PRO|ves'&-SG:NEUT:NOM V|zakonchit'&PFV:TRANS-PAST:SG:FEM PRO|svoj&-PL:ACC N|delo&INANI:NEUT-PL:ACC 
+\par %sit:\tab Katja sobiraet razbrosannye bukvy.
+\par *MAM:\tab molodec, sejchas podojdu, podozhdi.
+\par %mra:\tab N|molodec&ANI:MASC-SG:NOM ADV|sejchas V|podojti&PFV:INTRANS-FUT:1S V|podozhdat'&PFV:TRANS-IMP:SG 
+\par *MAM:\tab nu davaj, gde eshche bukva odna tut?
+\par %mra:\tab PTL|nu PTL|davaj  ADV|gde ADV|eshche  N|bukva&INANI:FEM-SG:NOM NUM|odin&-SG:FEM:NOM ADV|tut 
+\par *CHI:\tab vot, nashla <eshche odin mjagkij znak> [2].
+\par %mor:\tab PTL|vot V|najti&PFV:TRANS-PAST:SG:FEM ADV|eshche_<eshche  NUM|odin&-SG:MASC:ACC ADJ|mjagkij&-SG:MASC:ACC N|znak&INANI:MASC-SG:ACC_znak> 
+\par *CHI:\tab znak nashla von. 
+\par %mor:\tab N|znak&INANI:MASC-SG:ACC V|najti&PFV:TRANS-PAST:SG:FEM PTL|von 
+\par *MAM:\tab &mgg, molodec, dva mjagkix znaka, da?
+\par %mra:\tab &mgg N|molodec&ANI:MASC-SG:NOM NUM|dva&-NOM ADJ|mjagkij&-PL:GEN N|znak&INANI:MASC-SG:GEN PTL|da 
+\par *CHI:\tab da, vot tak.
+\par %mor:\tab PTL|da PTL|vot ADV|tak 
+\par *CHI:\tab mozhno eshche brosat', mozhno?
+\par %mor:\tab PRED|mozhno ADV|eshche  V|brosat'&IMPF:TRANS-INF PRED|mozhno 
+\par *MAM:\tab kuda, vniz?
+\par %mra:\tab ADV|kuda ADV|vniz 
+\par *CHX:\tab da.
+\par *MAM:\tab nu, odin tol'ko bros', a drugoj ne nado.
+\par %mra:\tab PTL|nu PRO|odin&-SG:MASC:ACC PTL|tol'ko V|brosit'&PFV:TRANS-IMP:SG CONJ|a PRO|drugoj&-SG:MASC:ACC PTL|ne PRED|nado 
+\par *CHI:\tab pochemu drugoj ne nado?
+\par %mor:\tab ADV|pochemu PRO|drugoj&-SG:MASC:ACC PTL|ne PRED|nado 
+\par *MAX:\tab a?
+\par *CHX:\tab pochemu drugoj ne nado?
+\par *MAM:\tab pochemu, potomu chto ty znaesh', chto budet shum tam vnizu.
+\par %mra:\tab ADV|pochemu CONJ|potomu chto  PRO|ty&-SG:NOM V|znat'&IMPF:TRANS-PRES:2S CONJ|chto V|byt'&IMPF:INTRANS-PRES:3S N|shum&INANI:MASC-SG:NOM ADV|tam ADV|vnizu 
+\par *MAM:\tab sosed snizu budet serditsja.
+\par %mra:\tab N|sosed&ANI:MASC-SG:NOM ADV|snizu V|byt'&IMPF:INTRANS-PRES:3S V|serdit'sja&IMPF:INTRANS-PRES:3S 
+\par *CHI:\tab ne nado brosat', ne xochu brosat'.
+\par %mor:\tab PTL|ne PRED|nado V|brosat'&IMPF:TRANS-INF PTL|ne V|xotet'&IMPF:INTRANS-PRES:1S V|brosat'&IMPF:TRANS-INF 
+\par *MAM:\tab pravil'no, luchshe ne nado.
+\par %mra:\tab ADV|pravil'no  ADV|luchshe PTL|ne PRED|nado 
+\par *MAM:\tab mozhno vot zdes' prosto brosit', a vniz ne nado brosat'.
+\par %mra:\tab PRED|mozhno PTL|vot ADV|zdes' PTL|prosto V|brosit'&PFV:TRANS-INF CONJ|a ADV|vniz PTL|ne PRED|nado V|brosat'&IMPF:TRANS-INF 
+\par %sit:\tab Katja brosaet bukvu.
+\par *MAM:\tab vot tak vot.
+\par %mra:\tab PTL|vot ADV|tak PTL|vot 
+\par *MAM:\tab ili mozhno vot sjuda brosit' na dosku i posmotret', magnit prisoedinit ili net.
+\par %mra:\tab CONJ|ili PRED|mozhno PTL|vot ADV|sjuda V|brosit'&PFV:TRANS-INF PREP|na N|doska&INANI:FEM-SG:ACC CONJ|i V|posmotret'&PFV:TRANS-INF N|magnit&INANI:MASC-SG:NOM V|prisoedinit'&PFV:TRANS-FUT:3S CONJ|ili PTL|net 
+\par %sit:\tab mama brosaet bukvu na grifel'nuju dosku.
+\par *MAM:\tab nado brosit', chtoby on ne upal.
+\par %mra:\tab PRED|nado V|brosit'&PFV:TRANS-INF CONJ|chtoby PRO|on&-SG:MASC:NOM PTL|ne V|upast'&PFV:INTRANS-PAST:SG:MASC 
+\par %sit:\tab mama brosaet snova, bukva ostaetsja na doske.
+\par *MAM:\tab vidish'?
+\par %mra:\tab V|videt'&IMPF:TRANS-PRES:2S 
+\par *CHX:\tab da.
+\par *MAM:\tab vot tak, poprobuj.
+\par %mra:\tab PTL|vot ADV|tak V|poprobovat'&PFV:TRANS-IMP:SG 
+\par %sit:\tab Katja brosaet bukvu.
+\par *MAM:\tab eshche.
+\par %mra:\tab ADV|eshche  
+\par *MAM:\tab vot, vidish', kak xorosho mjagkij znak brosila?
+\par %mra:\tab PTL|vot V|videt'&IMPF:TRANS-PRES:2S ADV|kak ADV|xorosho ADJ|mjagkij&-SG:MASC:ACC N|znak&INANI:MASC-SG:ACC V|brosit'&PFV:TRANS-PAST:SG:FEM 
+\par %sit:\tab mama pokazyvaet na dosku.
+\par *MAM:\tab von oni tut, dva mjagkix znaka # prilepilis' na dosku prjamo magnitom, # prilepilis'.
+\par %mra:\tab PTL|von PRO|on&-PL:NOM ADV|tut NUM|dva&-NOM ADJ|mjagkij&-PL:GEN N|znak&INANI:MASC-SG:GEN V|prilepit'sja&PFV:INTRANS-PAST:PL PREP|na N|doska&INANI:FEM-SG:ACC PTL|prjamo N|magnit&INANI:MASC-SG:INSTR V|prilepit'sja&PFV:INTRANS-PAST:PL 
+\par *MAM:\tab a chto ty tam delaesh', Katja, &m?
+\par %mra:\tab PTL|a PRO|chto&-SG:ACC PRO|ty&-SG:NOM ADV|tam V|delat'&IMPF:TRANS-PRES:2S N|katja&ANI:FEM-SG:NOM &m  
+\par *CHI:\tab podbiraju bukvy.
+\par %mor:\tab V|podbirat'&IMPF:TRANS-PRES:1S N|bukva&INANI:FEM-PL:ACC 
+\par *MAM:\tab sobiraesh' bukvy?
+\par %mra:\tab V|sobirat'&IMPF:TRANS-PRES:2S N|bukva&INANI:FEM-PL:ACC 
+\par *MAM:\tab nu, sobiraj.
+\par %mra:\tab PTL|nu V|sobirat'&IMPF:TRANS-IMP:SG 
+\par %sit:\tab Katja sobiraet bukvy.
+\par *CHI:\tab [mama], ja mjagkij znak nashla.
+\par %mor:\tab N|mama&ANI:FEM-SG:NOM_[mama] PRO|ja&-SG:NOM ADJ|mjagkij&-SG:MASC:ACC N|znak&INANI:MASC-SG:ACC V|najti&PFV:TRANS-PAST:SG:FEM 
+\par *MAM:\tab eshche odin?
+\par %mra:\tab ADV|eshche  NUM|odin&-SG:MASC:ACC 
+\par *CHX:\tab da.
+\par %sit:\tab Katja podxodit k mame.
+\par *CHI:\tab a tam xxx eshche priletel samolet, von tut letit samolet xxx+/.
+\par %mor:\tab CONJ|a ADV|tam XXX|xxx  ADV|eshche  V|priletet'&PFV:INTRANS-PAST:SG:MASC N|samolet&INANI:MASC-SG:NOM PTL|von ADV|tut V|letet'&IMPF:INTRANS-PRES:3S N|samolet&INANI:MASC-SG:NOM XXX|xxx_xxx+/  
+\par *MAM:\tab samolet letit?
+\par %mra:\tab N|samolet&INANI:MASC-SG:NOM V|letet'&IMPF:INTRANS-PRES:3S 
+\par *CHX:\tab da.
+\par *MAX:\tab &a+/?
+\par *CHI:\tab tam+/.
+\par %mor:\tab ADV|tam_tam+/ 
+\par *MAX:\tab &mgg.
+\par *CHI:\tab tam ljudi sidjat.
+\par %mor:\tab ADV|tam N|chelovek&ANI:MASC-PL:NOM V|sidet'&IMPF:INTRANS-PRES:3P 
+\par *MAM:\tab gde?
+\par %mra:\tab ADV|gde 
+\par *CHI:\tab vot tam.
+\par %mor:\tab PTL|vot ADV|tam 
+\par *MAM:\tab v samolete sidjat ljudi?
+\par %mra:\tab PREP|v N|samolet&INANI:MASC-SG:LOC V|sidet'&IMPF:INTRANS-PRES:3P N|chelovek&ANI:MASC-PL:NOM 
+\par *CHX:\tab da.
+\par *MAM:\tab i kuda oni letjat?
+\par %mra:\tab PTL|i ADV|kuda PRO|on&-PL:NOM V|letet'&IMPF:INTRANS-PRES:3P 
+\par *CHI:\tab oni, &iii, prizemlilis' tak.
+\par %mor:\tab PRO|on&-PL:NOM &iii V|prizemlit'sja&PFV:INTRANS-PAST:PL ADV|tak 
+\par *CHI:\tab einsteigen@deut [2].
+\par %mor:\tab V|einsteigen&IMPF:INTRANS-IMP:PL_ @deut 
+\par *CHI:\tab Katja, einsteigen@deut.
+\par %mor:\tab N|katja&ANI:FEM-SG:NOM V|einsteigen&IMPF:INTRANS-IMP:PL_einsteigen@deut 
+\par *CHI:\tab skazhi, einsteigen@deut.
+\par %mor:\tab V|skazat'&PFV:TRANS-IMP:SG V|einsteigen&IMPF:INTRANS-IMP:PL_einsteigen@deut 
+\par *MAM:\tab einsteigen@deut.
+\par %mra:\tab V|einsteigen&IMPF:INTRANS-IMP:PL_einsteigen@deut 
+\par *MAM:\tab tol'ko my po-russki davaj luchshe budem govorit'.
+\par %mra:\tab CONJ|tol'ko PRO|my&-PL:NOM ADV|po-russki PTL|davaj  ADV|luchshe V|byt'&IMPF:INTRANS-PRES:1P V|govorit'&IMPF:TRANS-INF 
+\par *MAM:\tab e~to chto znachit?
+\par %mra:\tab PRO|e~tot&-SG:NEUT:NOM PRO|chto&-SG:NOM V|znachit'&IMPF:TRANS-PRES:3S 
+\par *CHI:\tab mozhno tuda zaxodit'.
+\par %mor:\tab PRED|mozhno ADV|tuda V|zaxodit'&IMPF:INTRANS-INF 
+\par *MAM:\tab pravil'no, vxodite v samolet, vse zaxodite v samolet.
+\par %mra:\tab ADV|pravil'no  V|vxodit'&IMPF:INTRANS-IMP:PL PREP|v N|samolet&INANI:MASC-SG:ACC PRO|ves'&-PL:NOM V|zaxodit'&IMPF:INTRANS-IMP:PL PREP|v N|samolet&INANI:MASC-SG:ACC 
+\par *CHI:\tab i ty zaxodi v samolet.
+\par %mor:\tab CONJ|i PRO|ty&-SG:NOM V|zaxodit'&IMPF:INTRANS-IMP:SG PREP|v N|samolet&INANI:MASC-SG:ACC 
+\par *MAM:\tab &mgg, i ja tozhe budu zaxodit'.
+\par %mra:\tab &mgg CONJ|i PRO|ja&-SG:NOM CONJ|tozhe V|byt'&IMPF:INTRANS-PRES:1S V|zaxodit'&IMPF:INTRANS-INF 
+\par *MAM:\tab top-top, vot tak budu zaxodit'.
+\par %mra:\tab ONOM|top-top PTL|vot ADV|tak V|byt'&IMPF:INTRANS-PRES:1S V|zaxodit'&IMPF:INTRANS-INF 
+\par *MAM:\tab vse, voshla i sela na svoe mesto.
+\par %mra:\tab PRO|ves'&-SG:NEUT:NOM V|vojti&PFV:INTRANS-PAST:SG:FEM CONJ|i V|sest'&PFV:INTRANS-PAST:SG:FEM PREP|na PRO|svoj&-SG:NEUT:ACC N|mesto&INANI:NEUT-SG:ACC 
+\par *MAM:\tab a ty, Katja, zashla?
+\par %mra:\tab CONJ|a PRO|ty&-SG:NOM N|katja&ANI:FEM-SG:NOM V|zajti&PFV:INTRANS-PAST:SG:FEM 
+\par %sit:\tab Katja smotrit na mamu.
+\par *MAM:\tab zaxodite vse v samolet.
+\par %mra:\tab V|zaxodit'&IMPF:INTRANS-IMP:PL PRO|ves'&-PL:NOM PREP|v N|samolet&INANI:MASC-SG:ACC 
+\par *MAM:\tab zaxodite, pozhalujsta, i sadites'.
+\par %mra:\tab V|zaxodit'&IMPF:INTRANS-IMP:PL INTERJ|pozhalujsta CONJ|i V|sadit'sja&IMPF:INTRANS-IMP:PL 
+\par @End
+\par }}
