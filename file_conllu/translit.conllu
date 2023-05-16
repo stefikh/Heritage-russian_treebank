@@ -1,0 +1,881 @@
+# sent_id = 1
+# text = Воду xочу, я воду xочу.
+1	Воду	вода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpacesBefore=\s
+2	xочу	xотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	воду	вода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+6	xочу	xотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 2
+# text = Это не полоскать, нет.
+1	Это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	_
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	_
+3	полоскать	полоскать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	Miss=чтобы
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	нет	нет	PART	_	Polarity=Neg	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 4
+# text = А я видела, как он на кораблике приплыл.
+1	А	а	CCONJ	_	_	3	cc	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	видела	видеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	как	как	SCONJ	_	_	9	mark	_	_
+6	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	кораблике	кораблик	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
+9	приплыл	приплыть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 5
+# text = В кораблик сел, потом появилась акула, его никак не съесть было.
+1	В	в	ADP	_	_	2	case	_	_
+2	кораблик	кораблик	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+3	сел	сесть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	потом	потом	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	_
+6	появилась	появиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	_
+7	акула	акула	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+10	никак	никак	ADV	_	Degree=Pos|PronType=Neg	11	advmod	_	_
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	_
+12	съесть	съесть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	conj	_	_
+13	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Constr
+14	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 6
+# text = Он быстро плыл и его никак не съесть.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	быстро	быстро	ADV	_	Degree=Pos	3	advmod	_	_
+3	плыл	плыть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	и	и	CCONJ	_	_	8	cc	_	_
+5	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+6	никак	никак	ADV	_	Degree=Pos|PronType=Neg	7	advmod	_	_
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	_
+8	съесть	съесть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	conj	_	Constr
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 12
+# text = Ну-у, он плоxой и сердитый, я его и боюсь.
+1	Ну-у	ну-у	PART	_	_	4	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	плоxой	плоxой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	сердитый	сердитый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+10	и	и	PART	_	_	11	advmod	_	_
+11	боюсь	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 16
+# text = Потому что туда сок наливаеця.
+1	Потому	потому	ADV	_	Degree=Pos|PronType=Dem	3	mark	_	_
+2	что	что	SCONJ	_	_	1	fixed	_	_
+3	туда	туда	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	_
+4	сок	сок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	наливаеця	наливаеця	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	Morph=наливается
+
+# sent_id = 17
+# text = Он разбился или не разбился.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	разбился	разбиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	или	или	CCONJ	_	_	5	cc	_	_
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	_
+5	разбился	разбиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 32
+# text = Зачем ее взяла вынула из яшчика и положила.
+1	Зачем	зачем	ADV	_	Degree=Pos|PronType=Int	3	advmod	_	_
+2	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	взяла	взять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	вынула	вынуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Syntax
+5	из	из	ADP	_	_	6	case	_	_
+6	яшчика	яшчик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	положила	положить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 38
+# text = Да, потому что ей помогли.
+1	Да	да	PART	_	_	6	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	потому	потому	ADV	_	Degree=Pos|PronType=Dem	6	mark	_	_
+4	что	что	SCONJ	_	_	3	fixed	_	_
+5	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+6	помогли	помочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 39
+# text = Посмотри, ну, он ему помог.
+1	Посмотри	смотреть	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	ну	ну	PART	_	_	7	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
+7	помог	помочь	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 45
+# text = Ну, спокойно, ничего страшного здесь.
+1	Ну	ну	PART	_	_	3	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	спокойно	спокойный	ADV	_	Degree=Pos	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	3	conj	_	_
+6	страшного	страшный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	_
+7	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 47
+# text = Да, потому что мама ушла на работу.
+1	Да	да	PART	_	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	потому	потому	ADV	_	Degree=Pos|PronType=Dem	6	mark	_	_
+4	что	что	SCONJ	_	_	3	fixed	_	_
+5	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	ушла	уйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	работу	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 51
+# text = В дупло забросить мяч вот так.
+1	В	в	ADP	_	_	2	case	_	_
+2	дупло	дупло	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+3	забросить	забросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	_	_
+4	мяч	мяч	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+5	вот	вот	PART	_	_	6	advmod	_	Syntax
+6	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 58
+# text = Каравай они делают, видишь, каравай.
+1	Каравай	каравай	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	делают	делать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	видишь	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	каравай	каравай	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 64
+# text = Вот так бросать на тебя, чтоб упала машина, упасть.
+1	Вот	вот	PART	_	_	2	advmod	_	_
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	_
+3	бросать	бросать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	чтоб	чтоб	SCONJ	_	Mood=Cnd	8	mark	_	_
+8	упала	упасть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+9	машина	машина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	упасть	падать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	conj	_	Constr
+12	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 73
+# text = На тебе печеньице, и мне.
+1	На	на	ADP	_	_	2	case	_	_
+2	тебе	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+3	печеньице	печеньице	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	SpacesAfter=\s\s
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 77
+# text = Я буду строить мою любимую башню вот с этими , с ложками.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	строить	строить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+4	мою	мой	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	_
+5	любимую	любимый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	башню	башня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+7	вот	вот	PART	_	_	9	advmod	_	_
+8	с	с	ADP	_	_	9	case	_	_
+9	этими	этот	DET	_	Case=Ins|Number=Plur|PronType=Dem	3	obl	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	с	с	ADP	_	_	12	case	_	Extra
+12	ложками	ложка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 78
+# text = Смотри, будет сейчас будет развлечение.
+1	Смотри	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	будет	быть	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	SpacesAfter=\s\s
+5	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	Extra
+6	развлечение	развлечение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 85
+# text = Видишь, какой у меня дом красивый получился.
+1	Видишь	видеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	8	punct	_	_
+3	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
+4	у	у	ADP	_	_	5	case	_	_
+5	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+6	дом	дом	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+7	красивый	красивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+8	получился	получиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	1	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 88
+# text = Ну здесь эту боковую можно больше снять.
+1	Ну	ну	PART	_	_	5	discourse	_	_
+2	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	_
+3	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	боковую	боковой	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	obj	_	_
+5	можно	можно	VERB	_	_	0	root	_	_
+6	больше	больше	ADV	_	Degree=Cmp|PronType=Tot	7	advmod	_	_
+7	снять	снять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	5	csubj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 95
+# text = Это - твои, а это - мои.
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	твои	твой	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	а	а	CCONJ	_	_	8	cc	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	_
+7	-	-	PUNCT	_	_	6	punct	_	_
+8	мои	мой	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	3	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 96
+# text = А это все мои и это все мои.
+1	А	а	CCONJ	_	_	4	cc	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
+3	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	2	det	_	_
+4	мои	мой	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	0	root	_	_
+5	и	и	CCONJ	_	_	8	cc	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	_
+7	все	весь	DET	_	Case=Nom|Number=Plur|PronType=Tot	8	det	_	_
+8	мои	мой	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	4	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 101
+# text = Не упадет, думаю, что она не упадет.
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	_
+2	упадет	упасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+4	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	что	что	SCONJ	_	_	9	mark	_	_
+7	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Extra
+8	не	не	PART	_	Polarity=Neg	9	advmod	_	_
+9	упадет	упасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	ccomp	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 104
+# text = Вот так поставить, вот так надо.
+1	Вот	вот	PART	_	_	2	advmod	_	_
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	_
+3	поставить	поставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	вот	вот	PART	_	_	6	advmod	_	_
+6	так	так	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	_
+7	надо	надо	VERB	_	_	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 110
+# text = Будем играть, в игру играть.
+1	Будем	быть	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	aux	_	_
+2	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	игру	игра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+6	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	conj	_	Extra
+7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 111
+# text = Я все выну, потом буду разные вот здесь цифры знать, xорошо.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	3	obj	_	_
+3	выну	вынуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	потом	потом	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	_
+6	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	разные	разный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	conj	_	_
+8	вот	вот	PART	_	_	9	advmod	_	Extra
+9	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	11	advmod	_	_
+10	цифры	цифра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	obj	_	_
+11	знать	знать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	7	parataxis	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	xорошо	xороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	11	parataxis	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 122
+# text = Сейчас покажу, сейчас будем играть и книжки читать.
+1	Сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	_
+2	покажу	показать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	сейчас	сейчас	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	_
+5	будем	быть	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	6	aux	_	Extra
+6	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	conj	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	книжки	книжка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	9	obj	_	_
+9	читать	читать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 126
+# text = Можешь, пожалуйста, рукав можешь, пожалуйста, руки вытащить.
+1	Можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	пожалуйста	пожалуйста	PART	_	_	1	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	рукав	рукав	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	SpacesAfter=\s\s\s
+6	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	Constr
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	пожалуйста	пожалуйста	PART	_	_	6	discourse	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	11	obj	_	_
+11	вытащить	вытащить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 128
+# text = Да, потому что козленок не считает.
+1	Да	да	PART	_	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	потому	потому	ADV	_	Degree=Pos|PronType=Dem	7	mark	_	_
+4	что	что	SCONJ	_	_	3	fixed	_	_
+5	козленок	козленок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	_
+7	считает	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 134
+# text = И они кричат, считай давай, считай.
+1	И	и	CCONJ	_	_	3	cc	_	_
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+3	кричат	кричать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Syntax
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	считай	считать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	давай	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	считай	считать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 144
+# text = Вот так отражение в воде.
+1	Вот	вот	PART	_	_	2	advmod	_	_
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	_
+3	отражение	отражение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	воде	вода	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n\s
+
+# sent_id = 151
+# text = Ну, потому что они всеx съедят и так возьмут и пикнут так.
+1	Ну	ну	PART	_	_	7	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	потому	потому	ADV	_	Degree=Pos|PronType=Dem	7	mark	_	_
+4	что	что	SCONJ	_	_	3	fixed	_	_
+5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+6	всеx	все	DET	_	Case=Nom|Number=Plur|PronType=Tot	7	obj	_	_
+7	съедят	съедить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	и	и	CCONJ	_	_	10	cc	_	_
+9	так	так	ADV	_	Degree=Pos|PronType=Dem	10	advmod	_	_
+10	возьмут	брать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	conj	_	_
+11	и	и	CCONJ	_	_	12	cc	_	_
+12	пикнут	пикнуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	conj	_	Constr
+13	так	так	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\r\n
+
+# sent_id = 153
+# text = Да, по-немецки миндаль - Манделдеут.
+1	Да	да	PART	_	_	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	по-немецки	по-немецки	ADV	_	Degree=Pos	4	advmod	_	_
+4	миндаль	миндаль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	-	-	PUNCT	_	_	6	punct	_	_
+6	Манделдеут	Манделдеут	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 154
+# text = Он живет вот на горе, очень дикой, в лесу.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	живет	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	вот	вот	PART	_	_	5	advmod	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	горе	гора	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	очень	очень	ADV	_	Degree=Pos	8	advmod	_	_
+8	дикой	дикий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	в	в	ADP	_	_	11	case	_	_
+11	лесу	лес	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 155
+# text = Он не спит, нигде не спит.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	_
+3	спит	спать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	нигде	нигде	ADV	_	Degree=Pos|PronType=Neg	7	advmod	_	_
+6	не	не	PART	_	Polarity=Neg	7	advmod	_	_
+7	спит	спать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 156
+# text = По ночам всеx съедает.
+1	По	по	ADP	_	_	2	case	_	_
+2	ночам	ночь	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	4	obl	_	_
+3	всеx	всеё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	4	nsubj	_	_
+4	съедает	съедать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 162
+# text = А так тоже узелок, так-то?
+1	А	а	CCONJ	_	_	4	cc	_	_
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	SpacesAfter=\s\s
+3	тоже	тоже	PART	_	_	2	advmod	_	Constr
+4	узелок	узелок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	так-то	так-то	ADV	_	Degree=Pos|PronType=Dem	4	conj	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 167
+# text = Скажи, какой чтобы я xотела?
+1	Скажи	сказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	какой	какой	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	1	ccomp	_	_
+4	чтобы	чтобы	SCONJ	_	Mood=Cnd	6	mark	_	Constr
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	xотела	xотеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 168
+# text = Нет, я тут не буду говорить.
+1	Нет	нет	PART	_	Polarity=Neg	7	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+4	тут	тут	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	_
+5	не	не	PART	_	Polarity=Neg	7	advmod	_	_
+6	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	7	aux	_	_
+7	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\r\n
+
+# sent_id = 175
+# text = Вот в суп, вот это, который его кладут?
+1	Вот	вот	PART	_	_	3	advmod	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	суп	суп	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	вот	вот	PART	_	_	3	advmod	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	который	который	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	Miss=куда
+9	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+10	кладут	класть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	SpaceAfter=No
+11	?	?	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 176
+# text = Можно я сама этот бульон?
+1	Можно	можно	VERB	_	_	0	root	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	2	det	_	_
+4	этот	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+5	бульон	бульон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	Miss
+6	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 182
+# text = Да, там тоже я сама сюда.
+1	Да	да	PART	_	_	7	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	там	там	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	_
+4	тоже	тоже	PART	_	_	3	advmod	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	5	det	_	_
+7	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	0	root	_	Constr
+8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\r\n
+
+# sent_id = 183
+# text = В мисочку и в суп, можно?
+1	В	в	ADP	_	_	2	case	_	_
+2	мисочку	мисочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+3	и	и	CCONJ	_	_	5	cc	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	суп	суп	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	можно	можно	VERB	_	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	7	punct	_	SpacesAfter=\r\n
+
+# sent_id = 185
+# text = Вот можно я отрежу сама?
+1	Вот	вот	PART	_	_	2	advmod	_	Miss=это
+2	можно	можно	VERB	_	_	0	root	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	отрежу	отрезать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+5	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	4	obl	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 187
+# text = Нет, я, можно я высыпать?
+1	Нет	нет	PART	_	Polarity=Neg	3	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	можно	можно	VERB	_	_	3	parataxis	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+7	высыпать	высыпать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	Syntax
+8	?	?	PUNCT	_	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 193
+# text = Все, чтобы никакие макароны там были?
+1	Все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	чтобы	чтобы	SCONJ	_	Mood=Cnd	7	mark	_	_
+4	никакие	никакой	DET	_	Case=Nom|Number=Plur|PronType=Neg	5	det	_	Constr
+5	макароны	макароны	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
+6	там	там	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	_
+7	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 197
+# text = Да, я люблю тыкву, я люблю очень-очень тыкву.
+1	Да	да	PART	_	_	4	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	тыкву	тыква	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+9	очень-очень	очень-очень	ADV	_	Degree=Pos	10	advmod	_	_
+10	тыкву	тыква	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 198
+# text = Я люблю тыкву есть.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	тыкву	тыква	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+4	есть	есть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 203
+# text = Только xотела бы вот, в суп.
+1	Только	только	PART	_	_	2	advmod	_	_
+2	xотела	xотеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	бы	бы	AUX	_	Mood=Cnd	2	aux	_	_
+4	вот	вот	PART	_	_	2	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	в	в	ADP	_	_	7	case	_	_
+7	суп	суп	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 208
+# text = Я могу сама, xотела бы сама.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	2	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	xотела	xотеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+6	бы	бы	AUX	_	Mood=Cnd	5	aux	_	_
+7	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 210
+# text = Я люблю эту бедную тыкву.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
+4	бедную	бедный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	тыкву	тыква	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 214
+# text = Я же могу сама сделать.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	же	же	PART	_	_	1	advmod	_	_
+3	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	сама	сам	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	5	obl	_	_
+5	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 215
+# text = У меня было пять кубиков, теперь нету.
+1	У	у	ADP	_	_	2	case	_	_
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+3	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	пять	пять	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod:gov	_	_
+5	кубиков	кубик	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	теперь	теперь	ADV	_	Degree=Pos|PronType=Dem	8	advmod	_	_
+8	нету	нету	VERB	_	Polarity=Neg	3	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 216
+# text = Давай вот в это поиграем?
+1	Давай	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
+2	вот	вот	PART	_	_	4	advmod	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	_
+5	поиграем	поиграть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	xcomp	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 217
+# text = Тут нужно найти, какие две рыбки тут.
+1	Тут	тут	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	_
+2	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+3	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	какие	какой	DET	_	Case=Nom|Number=Plur|PronType=Rel	7	det	_	_
+6	две	два	NUM	_	Case=Nom|Gender=Fem|NumForm=Word|NumType=Card	7	nummod:gov	_	_
+7	рыбки	рыбка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nsubj	_	_
+8	тут	тут	ADV	_	Degree=Pos|PronType=Dem	3	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 219
+# text = Xочу посмотреть, какие тут?
+1	Xочу	xотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	посмотреть	посмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	Syntax
+4	какие	какой	DET	_	Case=Nom|Number=Plur|PronType=Int	2	ccomp	_	_
+5	тут	тут	ADV	_	Degree=Pos|PronType=Dem	2	ccomp	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 224
+# text = Вот, его вниз руку.
+1	Вот	вот	PART	_	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	его	его	PRON	_	Poss=Yes|PronType=Prs	5	det	_	_
+4	вниз	вниз	ADV	_	Degree=Pos	5	advmod	_	_
+5	руку	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1	conj	_	Constr
+6	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 227
+# text = Туда вот эти вот, а эти вот сюда, на спину.
+1	Туда	туда	ADV	_	Degree=Pos|PronType=Dem	0	root	_	_
+2	вот	вот	PART	_	_	3	advmod	_	_
+3	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	1	nsubj	_	_
+4	вот	вот	PART	_	_	1	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	а	а	CCONJ	_	_	9	cc	_	_
+7	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	9	nsubj	_	_
+8	вот	вот	PART	_	_	9	advmod	_	_
+9	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	1	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	на	на	ADP	_	_	12	case	_	_
+12	спину	спина	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 228
+# text = Я буду вылавливать и ему давать.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	буду	быть	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	вылавливать	вылавливать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+4	и	и	CCONJ	_	_	6	cc	_	_
+5	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+6	давать	давать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 232
+# text = Я может стоять вот так?
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	стоять	стоять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	вот	вот	PART	_	_	5	advmod	_	_
+5	так	так	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 233
+# text = Вот так она может стоять.
+1	Вот	вот	PART	_	_	2	advmod	_	_
+2	так	так	ADV	_	Degree=Pos|PronType=Dem	4	advmod	_	_
+3	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	стоять	стоять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	4	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 234
+# text = На боку может она стоять.
+1	На	на	ADP	_	_	2	case	_	_
+2	боку	бок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	Lex
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	стоять	стоять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 235
+# text = Сидит и кричит, помогите , волк.
+1	Сидит	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	кричит	кричать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Syntax
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	помогите	помочь	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	1	conj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	волк	волк	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n
+
+# sent_id = 240
+# text = Почему только буквы мне не даешь?
+1	Почему	почему	ADV	_	Degree=Pos|PronType=Int	6	advmod	_	_
+2	только	только	PART	_	_	3	advmod	_	_
+3	буквы	буква	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	6	obj	_	_
+4	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
+5	не	не	PART	_	Polarity=Neg	6	advmod	_	_
+6	даешь	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	6	punct	_	SpacesAfter=\r\n
+
+# sent_id = 243
+# text = Это тоже от Ингебор?
+1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	тоже	тоже	PART	_	_	4	advmod	_	_
+3	от	от	ADP	_	_	4	case	_	_
+4	Ингебор	Ингебор	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|NameType=Com|Number=Sing	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 244
+# text = Кортни я люблю, Энн я не люблю.
+1	Кортни	кортень	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	Энн	Энн	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|NameType=Giv|Number=Sing	8	obj	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	_
+8	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 249
+# text = Я вышла из этого моря, тогда меня кро xороший крокодил освободил.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	вышла	выйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	из	из	ADP	_	_	5	case	_	_
+4	этого	этот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
+5	моря	море	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	12	advmod	_	_
+8	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	obj	_	_
+9	кро	кро	SCONJ	_	_	11	case	_	Morph=крокодил
+10	xороший	xороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	крокодил	крокодил	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+12	освободил	освободить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\r\n
+
+# sent_id = 254
+# text = Опять в болото пошел.
+1	Опять	опять	ADV	_	Degree=Pos	4	advmod	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	болото	болото	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	SpacesAfter=\s\s
+4	пошел	пойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 255
+# text = Он опять в болото пошел.
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	опять	опять	ADV	_	Degree=Pos	5	advmod	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	болото	болото	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+5	пошел	пойти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 257
+# text = Я эту салфетку опять складываю.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+3	салфетку	салфетка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+4	опять	опять	ADV	_	Degree=Pos	5	advmod	_	_
+5	складываю	складывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 258
+# text = Никакиx зверей там не было, никакиx.
+1	Никакиx	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	2	det	_	_
+2	зверей	зверь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nsubj	_	_
+3	там	там	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	_
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	_
+5	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	никакиx	никакой	DET	_	Case=Gen|Number=Plur|PronType=Neg	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 259
+# text = Там какие рыбы не были?
+1	Там	там	ADV	_	Degree=Pos|PronType=Dem	5	advmod	_	_
+2	какие	какой	DET	_	Case=Nom|Number=Plur|PronType=Int	3	det	_	_
+3	рыбы	рыба	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+4	не	не	PART	_	Polarity=Neg	5	advmod	_	_
+5	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Lex=существовали
+6	?	?	PUNCT	_	_	5	punct	_	SpacesAfter=\r\n
+
+# sent_id = 260
+# text = Только ногой можно погладить.
+1	Только	только	PART	_	_	2	advmod	_	_
+2	ногой	нога	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4	iobj	_	_
+3	можно	можно	VERB	_	_	0	root	_	_
+4	погладить	погладить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 261
+# text = Потому что тогда они так сделают.
+1	Потому	потому	ADV	_	Degree=Pos|PronType=Dem	6	mark	_	_
+2	что	что	SCONJ	_	_	1	fixed	_	_
+3	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	_
+4	они	они	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+5	так	так	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	SpacesAfter=\s\s
+6	сделают	сделать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\r\n
+
+# sent_id = 264
+# text = Я его спасла, он утонул, я под воду зашла.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	спасла	спасти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	утонул	утонуть	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+9	под	под	ADP	_	_	10	case	_	_
+10	воду	вода	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+11	зашла	зайти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+
+# sent_id = 267
+# text = Чтобы она тут не была эта мошка.
+1	Чтобы	чтобы	SCONJ	_	Mood=Cnd	7	mark	_	_
+2	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+3	тут	тут	ADV	_	Degree=Pos|PronType=Dem	7	advmod	_	_
+4	не	не	PART	_	Polarity=Neg	7	advmod	_	_
+5	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	Constr
+6	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	мошка	мошка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\r\n
+
+# sent_id = 268
+# text = Я дальше не знаю.
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	дальше	дальше	ADV	_	Degree=Cmp	4	advmod	_	_
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	_
+4	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\r\n
+
+# sent_id = 271
+# text = Вот я упала даже не не на сюда.
+1	Вот	вот	PART	_	_	3	advmod	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	упала	упасть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	даже	даже	PART	_	_	8	advmod	_	_
+5	не	не	PART	_	Polarity=Neg	8	advmod	_	SpacesAfter=\s\s
+6	не	не	PART	_	Polarity=Neg	8	advmod	_	Constr
+7	на	на	ADP	_	_	8	case	_	_
+8	сюда	сюда	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\r\n
+
